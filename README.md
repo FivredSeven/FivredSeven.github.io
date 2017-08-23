@@ -40,5 +40,12 @@ __onConfigurationChanged->onPause->onSaveInstanceState->onStop->onDestroy->onCre
 不论是横屏切竖屏还是竖屏切横屏，生命周期都会重新走一遍。之前的版本横屏切竖屏会走两遍。            
 不论一遍还是两遍，显然这都不是我们想要的，不能因为用户转换屏幕而导致流程重走一次。解决办法也很简单             
 在manifest中设置该Activity的configChanges为android:configChanges="screenSize|keyboardHidden|orientation"。           
-这时候生命周期就只会走onConfigurationChanged了。
+这时候生命周期就只会走onConfigurationChanged了。           
+以下别人的总结，引用一下：        
+1、不设置Activity的android:configChanges时，切屏会重新调用各个生命周期，切横屏时会执行一次，切竖屏时会执行两次         
+2、设置Activity的android:configChanges="orientation"时，切屏还是会重新调用各个生命周期，切横、竖屏时只会执行一次         
+3、设置Activity的android:configChanges="orientation|keyboardHidden"时，切屏不会重新调用各个生命周期，只会执行onConfigurationChanged方法
+
+但是我发现我的手机设置了android:configChanges="orientation|keyboardHidden"后，横竖屏切换依然会重走生命周期。               
+继续查证发现在AndroidManifest.xml里设置的MiniSdkVersion和TargetSdkVersion属性大于等于13的情况下，如果你想阻止程序在运行时重新加载Activity，除了设置"orientation"， 你还必须设置"ScreenSize"
 
