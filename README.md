@@ -21,7 +21,8 @@ onSaveInstanceState是紧跟着onPause调用的，可以理解为，当页面不
 __onCreate->onStart->onRestoreInstanceState->onResume__                
 这里的onCreate是带了之前我们在onSaveInstanceState保存的bundle值的。
 
-我在网上找到一个非常有干货的博文,而且写了五篇一个系列详细讲述了APP被杀死的前因后果。 [1]: http://www.jianshu.com/p/00fef8872b68
+我在网上找到一个非常有干货的博文,而且写了五篇一个系列详细讲述了APP被杀死的前因后果。        
+[1](http://www.jianshu.com/p/00fef8872b68)
 
 
 #### 2.开发者模式设置为不保留活动的场景
