@@ -22,8 +22,12 @@ __onCreate->onStart->onRestoreInstanceState->onResume__      
 这里的onCreate是带了之前我们在onSaveInstanceState保存的bundle值的。
 
 我在网上找到一个非常有干货的博文,而且写了五篇一个系列详细讲述了APP被杀死的前因后果。        
-[http://www.jianshu.com/p/00fef8872b68](http://www.jianshu.com/p/00fef8872b68)
+[http://www.jianshu.com/p/00fef8872b68](http://www.jianshu.com/p/00fef8872b68)   
 
+
+有几点要注意的是        
+>AMR ActivityManagerService         
+>LMK LowMemoryKiller
 
 #### 2.开发者模式设置为不保留活动的场景
 这种场景当然是比较少见的，之前我也一直没留意，但是我们的测试工程师最近在测试的时候不知为何把这种场景写进了标准用例里。          
