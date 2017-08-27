@@ -2,6 +2,7 @@
 57's blog
 tracywu
 
+- [ ] [Activity的启动模式](./Activity的启动模式.md)
 
 # Android Activity生命周期
 ## 官方镇宝图
