@@ -3,6 +3,7 @@
 tracywu
 
 - [ ] [Activity的启动模式](./Activity的启动模式.md)
+- [ ] [IntentFilter](./IntentFilter.md)
 
 # Android Activity生命周期
 ## 官方镇宝图
