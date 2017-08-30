@@ -48,7 +48,8 @@ taskAffinity有什么用呢？需求场景可能比较少，可以用于在不�
 2、还有个点需要注意就是当你有1、2、3三个页面，1和3的taskAffinity相同，与2不同，那么你依次进入1、2、3后，按返回键回到的是1，再返回会到2。其实很好理解，1和3处于同一栈，3位于栈顶，第一次按返回键，3出栈，显示1，再返回就回到另一个栈里的2了。                      
 
 ## Activity的Flags 动态设置启动模式
-注意一点是，优先级问题，动态设置的启动模式优先级比在Androidmanifest.xml里配置的高。
+注意一点是，优先级问题，动态设置的启动模式优先级比在Androidmanifest.xml里配置的高。                         
+
 FLAG_ACTIVITY_NEW_TASK                              
 
 FLAG_ACTIVITY_SINGLE_TOP                              
