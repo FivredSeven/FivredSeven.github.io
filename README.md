@@ -59,5 +59,31 @@ __onConfigurationChanged->onPause->onSaveInstanceState->onStop->onDestroy->onCre
 但是我发现我的手机设置了android:configChanges="orientation|keyboardHidden"后，横竖屏切换依然会重走生命周期。               
 继续查证发现在AndroidManifest.xml里设置的MiniSdkVersion和TargetSdkVersion属性大于等于13的情况下，如果你想阻止程序在运行时重新加载Activity，除了设置"orientation"， 你还必须设置"ScreenSize"             
 
+
+## onActivityResult()
+这里为什么要记录onActivityResult()呢，这个生命周期看似简单，但最近让我碰上确实还费了些头脑。                 
+
+正常流程，在使用startActivityForResult()启动一个Activity后，需要回传一些数据给前一个Activity的时候执行setResult，那么就会进入前一个Activity的onActivityResult().                   
+
+那么我最近遇到的是在Fragment里通过ViewPager add的子Fragment，子Fragment执行startActivityForResult(),回传数据，走不到onActivityResult();          
+解决方法：                  
+1、在子fragment传值时，将startActivityResult()改为，getParentFragment().startActivityForResult();                         
+2、在父fragment中重写onActivityResult。
+
+    @Override  
+    public void onActivityResult(int requestCode, int resultCode, Intent data) {  
+        super.onActivityResult(requestCode, resultCode, data);  
+  
+        List<Fragment> fragments = getChildFragmentManager().getFragments();  
+        if (fragments != null) {  
+            for (Fragment fragment : fragments) {  
+                if(fragment==null)  
+                continue;  
+                fragment.onActivityResult(requestCode, resultCode, data);  
+            }  
+        }
+   }
+   
+   
 好了，生命周期就先记录到这里。
 
