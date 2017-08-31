@@ -70,10 +70,9 @@ __onConfigurationChanged->onPause->onSaveInstanceState->onStop->onDestroy->onCre
 1、在子fragment传值时，将startActivityResult()改为，getParentFragment().startActivityForResult();                         
 2、在父fragment中重写onActivityResult。
 
-    @Override  
+    @Override  
     public void onActivityResult(int requestCode, int resultCode, Intent data) {  
         super.onActivityResult(requestCode, resultCode, data);  
-  
         List<Fragment> fragments = getChildFragmentManager().getFragments();  
         if (fragments != null) {  
             for (Fragment fragment : fragments) {  
@@ -82,7 +81,7 @@ __onConfigurationChanged->onPause->onSaveInstanceState->onStop->onDestroy->onCre
                 fragment.onActivityResult(requestCode, resultCode, data);  
             }  
         }
-   }
+    }
    
    
 好了，生命周期就先记录到这里。
