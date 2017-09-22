@@ -11,6 +11,6 @@ Intent由6部分信息组成：Component Name、Action、Data、Category、Extra
 除第一个Component Name外，其他五个都可用于隐式调用。                              
 在使用过程中，Action、Data、Category、Extras、Flags都是不同种类的过滤器，用于过滤掉不符合条件的数据。                            
 例如action值为android.intent.action.SEND的就一般用于分享，所有支持action.Send的Activity都将可能被唤起选择。        
-例如Data <data android:mimeType="image/*"/>  指定MIME类型为图片                  
+例如Data  android:mimeType="image/*"  指定MIME类型为图片                  
 
 下面来说说两个使用IntentFilter的小例子。
