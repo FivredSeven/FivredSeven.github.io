@@ -55,25 +55,25 @@ Intent由6部分信息组成：Component Name、Action、Data、Category、Extra
     <data android:mimeType="text/*" />  
 
 ### 接着在Activity里接收数据， 那么在外部打开文本或者图片的时候就可以选择我们自己的app了
-    void onCreate (Bundle savedInstanceState) {
-        ...
-        // Get intent, action and MIME type
-        Intent intent = getIntent();
-        String action = intent.getAction();
-        String type = intent.getType();
+        void onCreate (Bundle savedInstanceState) {
+            ...
+            // Get intent, action and MIME type
+            Intent intent = getIntent();
+            String action = intent.getAction();
+            String type = intent.getType();
 
-        if (Intent.ACTION_SEND.equals(action) && type != null) {
-            if (text/plain.equals(type)) {
-                handleSendText(intent); // Handle text being sent
-            } else if (type.startsWith(image/)) {
-                handleSendImage(intent); // Handle single image being sent
+            if (Intent.ACTION_SEND.equals(action) && type != null) {
+                if (text/plain.equals(type)) {
+                    handleSendText(intent); // Handle text being sent
+                } else if (type.startsWith(image/)) {
+                    handleSendImage(intent); // Handle single image being sent
+                }
+            } else if (Intent.ACTION_SEND_MULTIPLE.equals(action) && type != null) {
+                if (type.startsWith(image/)) {
+                    handleSendMultipleImages(intent); // Handle multiple images being sent
+                }
+            } else {
+                // Handle other intents, such as being started from the home screen
             }
-        } else if (Intent.ACTION_SEND_MULTIPLE.equals(action) && type != null) {
-            if (type.startsWith(image/)) {
-                handleSendMultipleImages(intent); // Handle multiple images being sent
-            }
-        } else {
-            // Handle other intents, such as being started from the home screen
+            ...
         }
-        ...
-    }
