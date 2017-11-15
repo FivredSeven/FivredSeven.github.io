@@ -25,7 +25,7 @@ android:process="com.hjunlin.second"
 * SharePreference的可靠性下降
 * Application会多次创建
 
-## IPC基础概念介绍
+## IPC
 ### Serializable && Parcelable
 Serializable是java提供的一个序列化接口,而Parcelable是android提供的。简单对比分析一下。
 Serializable简单易用,直接implement就行,无需实现方法,但缺点是内部使用反射,序列化的过程比较耗时,而且序列化过程中会
@@ -36,6 +36,50 @@ Parcelable速度快,效率高,但是所需代码量大,且阅读性低。
 有的,github上有很多牛人都写好了框架,我推荐一个吧:
 > https://github.com/sockeqwe/ParcelablePlease
 
+## Android中的IPC
+<table border="3">
+<tr>
+<td>名称</td>
+<td>优点</td>
+<td>缺点</td>
+<td>适用场景</td>
+</tr>
+<tr>
+<td>Bundle</td>
+<td>简单易用</td>
+<td>只能传输Bundle支持的数据类型</td>
+<td>四大组件间的进程间通信</td>
+</tr>
+<tr>
+<td>文件共享</td>
+<td>简单易用</td>
+<td>不适合高并发场景,并且无法做到进程间的即时通信</td>
+<td>无并发访问情形,交换简单的数据实时性不高的场景</td>
+</tr>
+<tr>
+<td>AIDL</td>
+<td>功能强大,支持一对多并发通信,支持实时通信</td>
+<td>使用稍复杂,需要处理好线程同步</td>
+<td>一对多通信且有RPC需求</td>
+</tr>
+<tr>
+<td>Messager</td>
+<td>功能一般,支持一对多串行通信,支持实时通信</td>
+<td>不能很好处理高并发情形,不支持RPC,数据通过Message进行传输,因此只能传输Bundle支持的类型</td>
+<td>低并发的一对多即时通信,无RPC需求,或者唔需要返回结果的RPC需求</td>
+</tr>
+<tr>
+<td>ContentProvider</td>
+<td>在数据源访问方面功能强大,支持一对多并发数据共享,可通过Call方法扩展其他操作</td>
+<td>可以理解为受约束的AIDL,主要提供数据源的CRUD操作</td>
+<td>一对多的进程间的数据共享</td>
+</tr>
+<tr>
+<td>Socket</td>
+<td>功能强大,可以通过网络传输字节流,支持一对多并发实时通信</td>
+<td>实现细节稍微有点繁琐,不支持直接的RPC</td>
+<td>网络数据交换</td>
+</tr>
 
 
 
