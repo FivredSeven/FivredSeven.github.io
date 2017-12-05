@@ -10,6 +10,9 @@ tracywu
 <hr style="height:3px;border:none;border-top:3px double red;" />
 
 - [ ] [IPC机制](./IPC机制.md)
+- [ ] [View](./View.md)
+- [ ] [RemoteViews](./RemoteViews.md)
+- [ ] [Drawable](./Drawable.md)
 
 <hr style="height:3px;border:none;border-top:3px double red;" />      
 

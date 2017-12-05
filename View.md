@@ -74,3 +74,8 @@ scrollBy():  View内容<font color=Crimson size=14>move</font>位置, 多次调�
 * measure
 * layout
 * draw
+* 自定义View
+    * 继承View重写onDraw()方法
+    * 继承ViewGroup派生特殊的Layout
+    * 继承特定的View(比如TextView)
+    * 继承特定的ViewGroup(比如LinearLayout)
