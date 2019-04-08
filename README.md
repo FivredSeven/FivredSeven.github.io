@@ -3,6 +3,7 @@
 tracywu
 
 - [ ] [android基础知识](./android.md)
+- [ ] [性能调试](./性能调试.md)
 
 <hr style="height:3px;border:none;border-top:3px double red;" />
 
@@ -10,7 +11,7 @@ tracywu
 ## BOOKS
 <table border="1">
 <tr>
-<td>yexinshidai</td>
+<td>野心时代（推荐）</td>
 <td>http://mebook.cc/9423.html</td>
 </tr>
 <tr>
