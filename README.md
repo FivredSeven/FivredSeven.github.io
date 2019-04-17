@@ -32,16 +32,71 @@
 
 
 #### 优酷
-~/Android/data/com.youku.phone    
+~/Android/data/com.youku.phone/    
 /cache/images/ 和抖音类似的图片缓存    
 ~/youku/offlinedata 缓存的视频放这里，每个视频一个文件夹，文件夹内有图片及视频文件，更重要的是有一个info文件，Json格式，内容包含视频名称，类型，id，时长等等
 
 
 #### 哔哩哔哩
-~/Android/data/tv/danmaku.bili/    
+~/Android/data/tv.danmaku.bili/    
 /download/视频id 每个视频一个文件夹    
 /download/1/entry.json 内容包含视频信息，名称(title)，封面，画质，时长，弹幕数量，上传者等。    
 /cache/ImagePipeLine/  和抖音类似的图片缓存
+
+### 音频TOP5 （酷狗、Q音、网易云、酷我、虾米）
+
+#### 酷狗
+~/kgmusic/download/       
+下载的歌曲    
+~/kugou/    
+/.fssingerres/.album/  专辑封面图缓存    
+/.fssingerres/  多个数字命名的文件夹，存歌手写真缓存    
+/.image/  有一些头像之类的图片    
+/lyrics/  歌词文件缓存   
+/mv/  下载的mv    
+/v8skin/  用户下载的皮肤文件    
+/viper/  用户下载的音效
+
+#### QQ音乐
+~/Android/data/com.tencent.qqmusic/    
+/cache/file/image/    缓存的一些歌单封面，用户头像等    
+/cache/video_cache/local/    观看的视频缓存    
+~/qqmusic/    
+/mv/    下载的mv在这里,xxxx.mp4    
+/song/    下载的歌曲,xxxx.mp3    
+/fonts/    装扮的海报字体
+
+#### 网易云音乐
+~/netease/cloudmusic/    
+/网易云音乐相册/    保存的封面图等    
+/网易云音乐歌词视频/    ===    
+/音质升级/    ===    
+/Cache/ImageCache/    fresco图片缓存    
+/Cache/Lyric/    歌词文件，听过的歌都有    
+/Dj/    从电台节目下载的音频    
+/Download/Lyric/    已下载歌曲的歌词文件    
+/Download/Image/Album/     下载歌曲的专辑图    
+/Music/    下载的歌曲    
+/MV/    下载的MV,xxxx.mp4
+
+#### 酷我
+~/KuwoMusic/    
+/KUWO_PIC/    存储用户保存的图片    
+/.mvcache/    看过的视频,数字命名,不好识别    
+/music/    下载的歌曲    
+/mvDownload/    下载的视频,同数字命名    
+/picture/    缓存的一些歌手专辑图    
+
+#### 虾米
+~/xiami/    
+/audios/    下载的歌曲    
+/cache/lyrics/    听歌的歌词文件    
+/lyrics/    下载歌曲的歌词文件
+
+
+  
+
+
 
 <hr style="height:3px;border:none;border-top:3px double red;" />
 
