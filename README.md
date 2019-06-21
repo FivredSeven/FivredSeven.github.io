@@ -27,3 +27,15 @@ tracywu
 <td>http://mebook.cc/17701.html</td>
 </tr>
 </table>
+
+<table border="0" cellpadding="0" cellspacing="4">
+                  <tbody>
+                    <tr>
+                      <td width="200">
+                        <input name="rgb2" value="#CC00FF" size="8" maxlength="7" onkeydown="getkey(event,1);">
+                        <input onclick="showRGB2()" type="button" value="转换" name="button">
+                      </td>
+                      <td id="color2" width="50" height="80" bgcolor="#CC00FF"></td>
+                    </tr>
+                  </tbody>
+                </table>
