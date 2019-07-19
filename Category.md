@@ -163,43 +163,75 @@
 
 
 ## 摄影摄像
-#### 天天P图（com.tencent.ttpic）（）
-#### 最美证件照（us.pinguo.idcamera）（）
-#### 黄油相机（com.by.butter.camera）（）
-#### 微商水印相机（com.dingYZ.dingyzwater）（）
-#### 小妖精美化（com.xyjmh.classic）（）
-#### 美妆相机（com.meitu.makeup）（）
-#### 小精灵美化（com.android.nineton.elfinapp）（）
-#### 简拼（cn.poco.jane）（）
-#### 图片编辑器（kx.photo.editor.effect）（）
-#### Faceu激萌（com.lemon.faceu）（）
-#### 美图秀秀（com.mt.mtxx.mtxx）（）
-#### B612咔叽（com.campmobile.snowcamera）（）
-#### 美颜相机（com.meitu.meiyancamera）（）
-#### 轻颜相机（com.gorgeous.lite）（）
-#### 无他相机（com.benqu.wuta）（）
-#### 水印相机（com.tencent.zebra）（）
-#### PicsArt美易照片编辑（com.picsart.studio）（）
-#### 快影（com.kwai.videoeditor）（）
-#### MIX（com.pinguo.edit.sdk）（）
-#### Foodie（com.linecorp.foodcamcn.android）（）
-#### 潮自拍（com.meitu.wheecam）（）
-#### 足记（cc.fotoplace.app）（）
-#### 动感相册（cn.yiqi.photo）（）
-#### 相册管家（com.tencent.gallerymanager）（）
-#### 魔力相册（com.xingluo.mpa）（）
-#### InShot-视频编辑（com.camerasideas.instashot）（）
-#### VUE Vlog（video.vue.android）（）
-#### 快剪辑（com.qihoo.qeditor）（）
-#### 小影（com.quvideo.xiaoying）（）
-#### 美拍（com.meitu.meipaimv）（）
-#### 逗拍（com.dou_pai.DouPai）（）
-#### 乐秀视频剪辑器（com.xvideostudio.videoeditor）（）
-#### 简影（com.android.jianying）（）
-#### 趣推（com.qutui360.app）（）
-#### 彩视（cn.colorv）（）
-#### Snapseed（com.niksoftware.snapseed）（）
-#### Quik（com.stupeflix.replay）（）
-#### 稿定设计(天天向商)（com.hlg.daydaytobusiness）（）
+#### 天天P图（com.tencent.ttpic）（自拍、抠图、美化、拼图）
+#### 最美证件照（us.pinguo.idcamera）（证件照、人脸识别）
+#### 黄油相机（com.by.butter.camera）（加文字、壁纸、美化）
+#### 微商水印相机（com.dingYZ.dingyzwater）（水印、海报、拼图）
+#### 小妖精美化（com.xyjmh.classic）（主题、壁纸、图库、论坛）
+#### 美妆相机（com.meitu.makeup）（美妆、自拍）
+#### 小精灵美化（com.android.nineton.elfinapp）（图库、头像、壁纸、签名）
+#### 简拼（cn.poco.jane）（拼图、短视频）
+#### 图片编辑器（kx.photo.editor.effect）（图片编辑）
+#### Faceu激萌（com.lemon.faceu）（美颜、滤镜、贴纸）
+#### 美图秀秀（com.mt.mtxx.mtxx）（P图、美化、拼图）
+#### B612咔叽（com.campmobile.snowcamera）（贴纸、美颜、滤镜）
+#### 美颜相机（com.meitu.meiyancamera）（滤镜、美颜、修图）
+#### 轻颜相机（com.gorgeous.lite）（滤镜、美颜）
+#### 无他相机（com.benqu.wuta）（自拍、美颜、素描、打印）
+#### 水印相机（com.tencent.zebra）（滤镜、水印）
+#### PicsArt美易照片编辑（com.picsart.studio）（社交、拼图、绘图、挑战）
+#### 快影（com.kwai.videoeditor）（视频裁剪、编辑、片场）
+#### MIX（com.pinguo.edit.sdk）（滤镜、海报、社区、教程）
+#### Foodie（com.linecorp.foodcamcn.android）（美食滤镜）
+#### 潮自拍（com.meitu.wheecam）（贴纸、滤镜、拍立得、鱼眼相机、胶片相机）
+#### 足记（cc.fotoplace.app）（海报、摄影、颜值、创意、文艺）
+#### 动感相册（cn.yiqi.photo）（音乐相册、短视频、社交、定制、接地气）
+#### 相册管家（com.tencent.gallerymanager）（分类、故事、云备份）
+#### 魔力相册（com.xingluo.mpa）（音乐相册、视频相册、定制）
+#### InShot-视频编辑（com.camerasideas.instashot）（视频、图片、拼图、素材）
+#### VUE Vlog（video.vue.android）（文艺、视频、社交）
+#### 快剪辑（com.qihoo.qeditor）（剪辑、拼接、录屏、滤镜）
+#### 小影（com.quvideo.xiaoying）（剪辑、美颜、社交、教程）
+#### 美拍（com.meitu.meipaimv）（美化、社交、直播）
+#### 逗拍（com.dou_pai.DouPai）（拍摄、剪辑、模板）
+#### 乐秀视频剪辑器（com.xvideostudio.videoeditor）（剪辑、特效、教程）
+#### 简影（com.android.jianying）（制作、模板）
+#### 趣推（com.qutui360.app）（模板、拍摄、剪辑）
+#### 彩视（cn.colorv）（制作、直播、社交）
+#### Snapseed（com.niksoftware.snapseed）（滤镜、制作）
+#### Quik（com.stupeflix.replay）（制作）
+#### 稿定设计(天天向商)（com.hlg.daydaytobusiness）（水印、拼图、编辑视频、云相册）
 #### 
+
+
+
+## 学习教育
+#### 百词斩（com.jiongji.andriod.card）（英语、考试）
+#### 百度翻译（com.baidu.baidutranslate）（翻译，英语）
+#### 英语流利说（com.liulishuo.engzo）（英语、口语、听力）
+#### 有道翻译官（com.youdao.translator）（）
+#### 金山词霸（com.kingsoft）（）
+#### 网易有道词典（com.youdao.dict）（）
+#### 腾讯翻译官（com.qb.qtanslator）（）
+#### 新华字典（cn.dictcn.android.digitize.swg_xhzd_21003）（）
+#### 驾校一点通（com.jxedt）（）
+#### 驾考宝典（com.handsgo.jiakao.android）（）
+#### 智学网（com.iflytek.elpmobile.smartlearning）（）
+#### 好分数（com.yunxiao.haofenshu）（）
+#### 深蓝法考（com.neoteched.shenlancity）（）
+#### 学霸君（com.wenba.bangbang）（）
+#### 懒人作业答案（com.shengxue.lazyhomework）（）
+#### 考研帮（com.tal.kaoyan）（）
+#### 中公教育（com.offcn.android.offcn）（）
+#### 华图在线（com.huatu.handheld_huatu）（）
+#### 软考真题（com.doquestion）（）
+#### 家长帮（com.eduu.bang）（）
+#### 作业帮（com.baidu.homework）（）
+#### 学习强国（cn.xuexi.android）（）
+#### 小猿搜题（com.fenbi.android.solar）（）
+#### 
+#### 
+#### 
+#### 
+
 
