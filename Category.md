@@ -209,9 +209,9 @@
 #### 百词斩（com.jiongji.andriod.card）（英语、考试）
 #### 百度翻译（com.baidu.baidutranslate）（翻译，英语）
 #### 英语流利说（com.liulishuo.engzo）（英语、口语、听力）
-#### 有道翻译官（com.youdao.translator）（）
-#### 金山词霸（com.kingsoft）（）
-#### 网易有道词典（com.youdao.dict）（）
+#### 有道翻译官（com.youdao.translator）（翻译、拍译）
+#### 金山词霸（com.kingsoft）（英语词典、翻译、教学、训练、阅读）
+#### 网易有道词典（com.youdao.dict）（翻译、词典、口语、教学）
 #### 腾讯翻译官（com.qb.qtanslator）（）
 #### 新华字典（cn.dictcn.android.digitize.swg_xhzd_21003）（）
 #### 驾校一点通（com.jxedt）（）
@@ -234,4 +234,89 @@
 #### 
 #### 
 
+
+
+## 旅行交通
+#### Booking（com.booking）（住宿、国际、租车）
+#### 携程（ctrip.android.view）（综合旅行、社区）
+#### 出发吧（com.jianlv.chufaba）（小众、行程）
+#### 马蜂窝（com.mfw.roadbook）（综合旅行、攻略）
+#### 掌上公交（com.mygolbs.mybus）（公交地铁、地图）
+#### 高铁管家（com.gtgj.view）（出行票务、资讯）
+#### 艺龙旅行（com.dp.android.elong）（住宿、车票）
+#### 华住会（com.htinns）（住宿）
+#### 百度地图（com.baidu.BaiduMap）（地图）
+#### 高德地图（com.autonavi.minimap）（地图）
+#### 驴妈妈旅游（com.gift.android）（综合旅行、特惠套餐）
+#### 交警12123（com.tmri.app.main）（车辆管理）
+#### 铁路12306（com.MobileTicket）（车票）
+#### 滴滴出行（com.sdu.didi.psnger）（打车）
+#### 去哪儿旅行（com.Qunar）（综合旅行）
+#### 飞猪（com.taobao.trip）（综合旅行）
+#### 腾讯地图（com.tencent.map）（地图）
+#### 智行火车票（com.yipiao）（车票）
+#### 爱彼迎Airbnb（com.airbnb.android）（住宿、民宿、故事）
+#### 滴滴车主（com.sdu.didi.gsui）（车主）
+#### 摩拜单车（com.mobike.mobikeapp）（单车）
+#### 航旅纵横（com.umetrip.android.msky.app）（机票、行程）
+#### 一嗨租车（com.ehai）（租车）
+#### 车轮违章查询（cn.eclicks.wzsearch）（违章、汽车服务、社区）
+#### 神州租车（com.szzc）（租车）
+#### 嘀嗒出行（com.didapinche.booking）（打车）
+#### 车来了（com.ygkj.chelaile.standroid）（公交地铁）
+
+
+
+## 金融理财
+#### 云闪付（com.unionpay）（支付）
+#### 招商银行（cmb.pb）（银行）
+#### 京东金融（com.jd.jrapp）（金融、保险、分期）
+#### 平安金管家（com.pingan.lifeinsurance）（财富、生活、保险）
+#### 还呗（com.shuhekeji）（分期）
+#### 同花顺（com.hexin.plat.android）（股票、理财）
+#### 有钱花（com.duxiaoman.umoney）（分期）
+#### 随手记（com.mymoney）（记账）
+#### 东方财富（com.eastmoney.android.berlin）（股票、投资）
+#### 360借条（com.qihoo.loan）（分期）
+#### 
+
+
+
+## 娱乐消遣
+#### 最右（cn.xiaochuankeji.tieba）（搞笑）
+#### 糗事百科（qsbk.app）（搞笑）
+#### 周公解梦（com.xiaodao.jiemeng）（解梦）
+#### 塔罗牌占卜（taluo.jumeng.com.tarot）（占卜）
+#### 皮皮虾（com.sup.android.superb）（搞笑）
+#### 星座运势大全（net.xingfuxingzuo.android）（星座）
+#### 算命（predictor.ui）（算命）
+#### 配音秀（com.happyteam.dubbingshow）（配音）
+#### 斗图工厂（com.doutugongchang.app）（搞笑、斗图）
+
+
+
+## 新闻资讯
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
 
