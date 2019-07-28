@@ -212,27 +212,25 @@
 #### 有道翻译官（com.youdao.translator）（翻译、拍译）
 #### 金山词霸（com.kingsoft）（英语词典、翻译、教学、训练、阅读）
 #### 网易有道词典（com.youdao.dict）（翻译、词典、口语、教学）
-#### 腾讯翻译官（com.qb.qtanslator）（）
-#### 新华字典（cn.dictcn.android.digitize.swg_xhzd_21003）（）
-#### 驾校一点通（com.jxedt）（）
-#### 驾考宝典（com.handsgo.jiakao.android）（）
-#### 智学网（com.iflytek.elpmobile.smartlearning）（）
-#### 好分数（com.yunxiao.haofenshu）（）
-#### 深蓝法考（com.neoteched.shenlancity）（）
-#### 学霸君（com.wenba.bangbang）（）
-#### 懒人作业答案（com.shengxue.lazyhomework）（）
-#### 考研帮（com.tal.kaoyan）（）
-#### 中公教育（com.offcn.android.offcn）（）
-#### 华图在线（com.huatu.handheld_huatu）（）
-#### 软考真题（com.doquestion）（）
-#### 家长帮（com.eduu.bang）（）
-#### 作业帮（com.baidu.homework）（）
-#### 学习强国（cn.xuexi.android）（）
-#### 小猿搜题（com.fenbi.android.solar）（）
-#### 
-#### 
-#### 
-#### 
+#### 腾讯翻译官（com.qb.qtanslator）（翻译、口语）
+#### 新华字典（cn.dictcn.android.digitize.swg_xhzd_21003）（字典、学习）
+#### 驾校一点通（com.jxedt）（驾考、社区、买车）
+#### 驾考宝典（com.handsgo.jiakao.android）（驾考、社区、买车）
+#### 智学网（com.iflytek.elpmobile.smartlearning）（小学、中学、资讯、课堂）
+#### 好分数（com.yunxiao.haofenshu）（小学、中学、课程、辅导）
+#### 深蓝法考（com.neoteched.shenlancity）（法律）
+#### 学霸君（com.wenba.bangbang）（中学、课程）
+#### 懒人作业答案（com.shengxue.lazyhomework）（教材、书籍）
+#### 考研帮（com.tal.kaoyan）（考研、题库、资讯、社区）
+#### 中公教育（com.offcn.android.offcn）（公务员、教师、事业单位、银行）
+#### 华图在线（com.huatu.handheld_huatu）（同上）
+#### 软考真题（com.doquestion）（软考）
+#### 家长帮（com.eduu.bang）（资讯、教育、家长大学）
+#### 作业帮（com.baidu.homework）（学生、家长、社区）
+#### 学习强国（cn.xuexi.android）（公务、新闻、学习）
+#### 小猿搜题（com.fenbi.android.solar）（试题、学生、家长、辅导）
+####
+####
 
 
 
@@ -278,7 +276,7 @@
 #### 随手记（com.mymoney）（记账）
 #### 东方财富（com.eastmoney.android.berlin）（股票、投资）
 #### 360借条（com.qihoo.loan）（分期）
-#### 
+####
 
 
 
@@ -296,27 +294,60 @@
 
 
 ## 新闻资讯
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
+#### 网易新闻（com.netease.newsreader.activity）（）
+#### 凤凰新闻（com.ifeng.news2）（）
+#### 新浪新闻（com.sina.news）（）
+#### 今日头条（com.ss.android.article.news）（）
+#### 腾讯新闻（com.tencent.news）（）
+#### 懂车帝（com.ss.android.auto）（汽车）
+#### 汽车之家（com.cubic.autohome）（汽车）
+#### 人民日报（com.peopledailychina.activity）（）
+#### 搜狐新闻（com.sohu.newsclient）（）
+#### 澎湃新闻（com.wondertek.paper）（）
+#### 百度（com.baidu.searchbox）（搜索）
+#### 中关村在线（com.zol.android）（科技、IT资讯）
+#### IT之家（com.ruanmei.ithome）（IT资讯、互联网）
+#### 掘金（com.daimajia.gold）（IT、技术、深度）
+#### 推酷（com.tuicool.activity）（IT、技术、深度）
+#### 军事武器（com.justoper.weapins.mil）（军事）
+#### 读者杂志（com.fumei.dz）（读者）
+#### iDaily（com.clover.idaily）（国际新闻）
+#### 时尚志（com.onlylady.www.nativeapp）（时尚资讯）
 
+
+
+## 居家生活
+#### 安居客（com.anjuke.android.app）（租房、买房）
+#### 瓜子二手车（com.ganji.android.haoche_c）（车辆交易）
+#### 食谱大全（com.jnzc.shipudaquan）（食谱）
+#### 淘票票（com.taobao.movie.android）（电影票、演出、社区）
+#### 大麦（cn.damai）（综合票务、艺术）
+#### 下厨房（com.xiachufang）（食谱、社区、集市、教学）
+#### luckin coffee（com.lucky.luckyclient）（咖啡、潮流）
+#### 链家（com.homelink.android）（租房、买房）
+#### 猫眼（com.sankuai.movie）（电影票、综合票务）
+#### 大众点评（com.dianping.v1）（生活综合、品质点评）
+#### 美团外卖（com.sankuai.meituan.takeoutnew）（外卖）
+#### 美团外卖商家版（com.sankuai.mettuan.meituanwaimaibusiness）（外卖商户）
+#### 饿了么（me.ele）（外卖）
+#### 猫眼专业版（com.sankuai.moviepro）（专业、票房收视、资讯）
+#### 格瓦拉生活（com.gewara）（电影、演出）
+#### 土巴兔装修（com.to8to.housekeeper）（装修）
+#### 贝壳找房（com.lianjia.beike）（租房、买房、资讯）
+#### 自如（com.ziroom.ziroomcustomer）（卖房、买房、租房）
+#### 房天下（com.soufun.app）（买房、租房、资讯）
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
