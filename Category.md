@@ -336,18 +336,24 @@
 #### 贝壳找房（com.lianjia.beike）（租房、买房、资讯）
 #### 自如（com.ziroom.ziroomcustomer）（卖房、买房、租房）
 #### 房天下（com.soufun.app）（买房、租房、资讯）
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
+
+
+
+## 体育运动
+#### 虎扑（com.hupu.games）（篮球、体育、社区）
+#### 腾讯体育（com.tencent.qqsports）（体育、社区）
+#### Keep（com.gotokeep.keep）（运动、健身）
+#### 中国体育（com.seca.live）（体育、社区）
+#### 原力囚徒健身（ren.qiutu.app）（健身）
+#### 悦动圈（com.yuedong.sport）（运动、健身）
+#### 懂球帝（com.dongqiudi.news）（足球、彩票）
+#### 中超联赛（com.nsg.csl）（足球、社区）
+#### 小米运动（com.xiaomi.hm.health）（运动、健身）
+#### 直播吧（android.zhibo8）（直播、篮球、足球）
+#### 中羽联（com.chocolate.yuzu）（羽毛球、订场）
+#### 央视体育（com.cctv.cctv5ultimate）（体育、直播）
+#### PP体育（com.pplive.androidphone.sport）（体育、直播、社区、足球）
+#### 咕咚（com.codoon.gps）（运动、健身）
 ####
 ####
 ####
