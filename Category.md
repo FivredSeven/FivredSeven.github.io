@@ -29,47 +29,47 @@
 ## 直播
 * 斗鱼/air.tv.douyu.android/直播,游戏,娱乐/74_游戏_7/17_50_激情_4,815_74_打游戏_8/none/54_舞蹈_2/440_游戏_4,411_热舞_2/英雄联盟_2_3,刺激战场_3_4,王者荣耀_1_3,游戏_5_0
 * 虎牙/com.duowan.kiwi/直播,游戏,娱乐/74_游戏_7/17_50_激情_4,815_74_打游戏_8/none/54_舞蹈_2/440_游戏_4,411_热舞_2/英雄联盟_2_3,刺激战场_3_4,王者荣耀_1_3,游戏_5_0
-* YY/com.duowan.mobile/直播,唱歌,舞蹈/none/none/none/舞蹈_3/热舞_3/none
-* 花椒/com.huajiao/直播,跳舞,美女/none/none/none/舞蹈_5/热舞_5/none
-* 酷狗直播/com.kugou.fanxing/直播,唱歌,短视频/none/none/none/舞蹈_3/热舞_3/酷狗直播_2_4
-* NOW直播/com.tencent.now/直播/none/none/none/舞蹈_3/热舞_3/none
+* YY/com.duowan.mobile/直播,唱歌,舞蹈/none/none/none/舞蹈_3/热舞_3/直播_4_3
+* 花椒/com.huajiao/直播,跳舞,美女/none/none/none/舞蹈_5/热舞_5/直播_4_3
+* 酷狗直播/com.kugou.fanxing/直播,唱歌,短视频/none/none/none/舞蹈_3/热舞_3/酷狗直播_2_4,直播_4_3
+* NOW直播/com.tencent.now/直播/none/none/none/舞蹈_3/热舞_3/直播_4_3
 * CC直播/com.netease.cc/直播,游戏,娱乐/游戏_3/打游戏_3/none/none/游戏_3/梦幻西游_4_4
-* 映客/com.meelive.ingkee/直播,短视频/none/none/none/舞蹈_3/热舞_3/none
+* 映客/com.meelive.ingkee/直播,短视频/none/none/none/舞蹈_3/热舞_3/直播_4_3
 * 企鹅电竞/com.tencent.qgame/游戏,直播/74_游戏_7/17_50_激情_4,815_74_打游戏_8/none/54_舞蹈_2/440_游戏_4,411_热舞_2/英雄联盟_2_3,刺激战场_3_4,王者荣耀_1_3,游戏_5_0
 
 
 ## 音乐
-* 酷狗/com.kugou.android/音乐/最热_4,飙升_2/经典_4/DJ_4/影视_2/热门_4/热门_3_2
+* 酷狗/com.kugou.android/音乐/最热_4,飙升_2/经典_4,官方歌单_4/DJ_4/影视_2/热门_4/热门_3_2
 * Q音/com.tencent.qqmusic/音乐/最热_4,飙升_2/经典_4/DJ_4/影视_2/热门_4/热门_3_2
 * 酷我/cn.kuwo.player/音乐/最热_4,飙升_2/经典_4/DJ_4/影视_2/热门_4/热门_3_2
 * 网易云/com.netease.cloudmusic/文艺,音乐/电子_3,民谣_2/电子_4,民谣_4/none/节奏控_2/none/电音_3_2
-* 虾米/fm.xiami.main/音乐/
-* 全民K歌/com.tencent.karaoke/唱歌,音乐/
-* 唱吧/com.changba/唱歌,直播,短视频/
-* 酷狗唱唱/com.kugou.android.ktvapp/唱歌/
-* 咪咕音乐/cmccwm.mobilemusic/音乐/
-* 铃声多多/com.shoujiduoduo.ringtone/铃声,彩铃/
-* 完美钢琴/com.gamestar.perfectpiano/钢琴,弹奏/
-* 音乐剪辑大师/www.imixiaoyu.com.musiceditor/剪辑,创作,合成/
-* 酷狗铃声/com.kugou.android.ringtone/铃声,彩铃/
-* DJ多多/com.shoujiduoduo.dj/DJ,电音,车载/
-* 随身乐队/com.gamestar.pianoperfect/乐器,弹奏/
-* GuitarTuna/com.ovelin.guitartuna/吉他,调音/
-* 古筝/com.meetstudio.app.Zither/曲谱,创作/
-* 吉他自学/com.hoge.app6857ug38pd/摇滚,民谣,创作/
+* 虾米/fm.xiami.main/音乐/最热_4,飙升_2/经典_4/DJ_4/影视_2/热门_4/热门_3_2
+* 全民K歌/com.tencent.karaoke/唱歌,音乐/情歌对唱_4,翻唱_2/KTV_6/none/none/全民K歌_4_0,唱歌_3_0
+* 唱吧/com.changba/唱歌,直播,短视频/情歌对唱_4,翻唱_2/KTV_6/none/none/唱k_2_0,唱歌_3_0
+* 酷狗唱唱/com.kugou.android.ktvapp/唱歌/情歌对唱_4,翻唱_2/KTV_6/none/none/唱k_2_0,唱歌_3_0
+* 咪咕音乐/cmccwm.mobilemusic/音乐/最热_4,飙升_2/经典_4/DJ_4/影视_2/热门_4/热门_3_2
+* 铃声多多/com.shoujiduoduo.ringtone/铃声,彩铃/none/铃声_4/none/none/none/铃声_5_0,彩铃_2_0
+* 完美钢琴/com.gamestar.perfectpiano/钢琴,弹奏/器乐演奏_6/钢琴_5/none/演奏_3/none/钢琴_8_2
+* 音乐剪辑大师/www.imixiaoyu.com.musiceditor/剪辑,创作,合成/器乐演奏_3/none/none/演奏_3/none/剪辑_5_2
+* 酷狗铃声/com.kugou.android.ringtone/铃声,彩铃/none/铃声_4/none/none/none/铃声_5_0,彩铃_2_0
+* DJ多多/com.shoujiduoduo.dj/DJ,电音,车载/DJ热碟_9/电子_3/DJ_5,电音_6/节奏控_3/中文DJ_6/DJ_8_3
+* 随身乐队/com.gamestar.pianoperfect/乐器,弹奏/器乐演奏_6/吉他_5/none/演奏_3/none/乐队_5_2
+* GuitarTuna/com.ovelin.guitartuna/吉他,调音/器乐演奏_6/吉他_5/none/演奏_3/none/吉他_8_2
+* 古筝/com.meetstudio.app.Zither/曲谱,创作/器乐演奏_6/古筝_4/none/演奏_3/none/古筝_7_4
+* 吉他自学/com.hoge.app6857ug38pd/摇滚,民谣,创作/器乐演奏_6/吉他_5/none/演奏_3/none/吉他_8_2
 
 
 ## 电台
-* 喜马拉雅/com.ximalaya.ting.android/听书,歌单,小说,直播/
-* 荔枝FM/com.yibasan.lizhifm/电台,声音,直播/
-* 企鹅FM/com.tencent.fm/听书,广播/
-* 听书神器/com.mfday.but.persist.hearfun/听书,玄幻,灵异/
-* FM手机调频收音机/com.cjtec.fmradio/FM,调频,广播/
-* 蜻蜓FM/fm.qingting.qtradio/听书,广播,电台,历史,评书,相声,小品/
-* 得到/com.luojilab.player/听书,知识,罗辑思维/
-* 猫耳FM/cn.missevan/听书,动漫,漫画,小说/
-* 豆瓣FM/com.douban.radio/广播,歌单/
-* 一个/one.hh.oneclient/文艺,阅读,电台/
+* 喜马拉雅/com.ximalaya.ting.android/听书,歌单,小说,直播/none/none/none/none/none/有声_6_1
+* 荔枝FM/com.yibasan.lizhifm/电台,声音,直播/none/none/none/none/none/有声_6_1
+* 企鹅FM/com.tencent.fm/听书,广播/none/none/none/none/none/有声_6_1,广播_5_2
+* 听书神器/com.mfday.but.persist.hearfun/听书,玄幻,灵异/none/none/none/none/none/有声_6_1
+* FM手机调频收音机/com.cjtec.fmradio/FM,调频,广播/none/none/none/none/none/有声_6_1,广播_5_2
+* 蜻蜓FM/fm.qingting.qtradio/听书,广播,电台,历史,评书,相声,小品/none/none/none/none/none/有声_6_1,广播_5_2
+* 得到/com.luojilab.player/听书,知识,罗辑思维/学习_2/none/none/none/none/有声_6_1,广播_5_2
+* 猫耳FM/cn.missevan/听书,动漫,漫画,小说/none/none/none/none/none/有声_6_1,广播_5_2
+* 豆瓣FM/com.douban.radio/广播,歌单/none/想念_4/none/none/none/有声_6_1,广播_5_2,文艺_5_0
+* 一个/one.hh.oneclient/文艺,阅读,电台/none/想念_4/none/none/none/有声_6_1,文艺_5_0
 
 
 ## 实用工具
