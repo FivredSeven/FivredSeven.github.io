@@ -73,21 +73,21 @@
 
 
 ## 实用工具
-* UU加速器/com.netease.uu/游戏/
-* 遥控精灵/com.tiqiaa.icontrol/智能/
-* 米家/com.xiaomi.smarthome/智能,家具,电器/
+* UU加速器/com.netease.uu/游戏/游戏_3/打游戏_3/none/none/游戏_3/游戏_6_0
+* 遥控精灵/com.tiqiaa.icontrol/智能/none/none/none/none/none/都市_4_0,城市_4_0
+* 米家/com.xiaomi.smarthome/智能,家具,电器/none/none/none/none/none/都市_4_0,城市_4_0
 * 壁纸精灵/com.xunruifairy.wallpaper/壁纸/
 
 
 ## 社交通信
 * QQ/com.tencent.mobileqq/
 * 微信/com.tencent.mm/
-* 探探/com.p1.mobile.putong/交友/
-* 陌陌/com.immomo.momo/交友,直播/
-* 小恩爱/com.xiaoenai.app/情侣,甜蜜/
-* 情侣空间/com.welove520.qqsweet/情侣,甜蜜/
-* 世纪佳缘/com.jiayuan/单身,求偶,直播/
-* 珍爱网/com.zhenai.android/单身,求偶/
+* 探探/com.p1.mobile.putong/交友/寂寞_4,夜店_4/激情_2/none/舞蹈_6/热舞_3/孤单_3_0
+* 陌陌/com.immomo.momo/交友,直播/寂寞_4,夜店_4/激情_2/none/舞蹈_6/热舞_3/孤单_3_0
+* 小恩爱/com.xiaoenai.app/情侣,甜蜜/情歌对唱_6,甜蜜_6/情歌对唱_6,甜蜜_6/none/none/none/情侣_6_2,热恋_6_0,恩爱_4_0
+* 情侣空间/com.welove520.qqsweet/情侣,甜蜜/情歌对唱_6,甜蜜_6/情歌对唱_6,甜蜜_6/none/none/none/情侣_6_2,热恋_6_0,恩爱_4_0
+* 世纪佳缘/com.jiayuan/单身,求偶,直播/伤感_4,寂寞_4/伤感_3,疗伤_6/none/舞蹈_4/热舞_2/相亲_3_0,孤单_3_0
+* 珍爱网/com.zhenai.android/单身,求偶/伤感_4,寂寞_4/伤感_3,疗伤_6/none/舞蹈_4/热舞_2/相亲_3_0,孤单_3_0
 
 
 ## 社区
