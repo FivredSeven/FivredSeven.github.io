@@ -91,26 +91,26 @@
 
 
 ## 社区
-* 微博/com.sina.weibo/资讯,新闻,时事,明星/
-* 微博国际版/com.weico.international/资讯,新闻,时事,明星,简洁/
-* 知乎/com.zhihu.android/问答,知识,专业,学习/
-* 豆瓣/com.douban.frodo/文艺,电影,读书,小组,兴趣/
+* 微博/com.sina.weibo/资讯,新闻,时事,明星/流行_4/流行_4/none/none/none/微博_2_0,娱乐_3_3
+* 微博国际版/com.weico.international/资讯,新闻,时事,明星,简洁/流行_4/流行_4/none/none/none/微博_2_0
+* 知乎/com.zhihu.android/问答,知识,专业,学习/学习_3,工作_4/none/none/none/none/知乎_2_0
+* 豆瓣/com.douban.frodo/文艺,电影,读书,小组,兴趣/影视_4,治愈_2,感动_2/民谣_6/none/影视_3/年度电影金曲_3/文艺_5_0,豆瓣_8_6
 * 贴吧/com.baidu.tieba/兴趣,论坛,话题/
 * 百度知道/com.baidu.iknow/问答,知识,直播,短视频/
-* QQ空间/com.qzone/好友,资讯/
+* QQ空间/com.qzone/好友,资讯/好友_5_0,qq空间_5_2
 * 即刻/com.ruguoapp.jike/资讯,兴趣/
-* 脉脉/com.taou.maimai/求职,招聘/
-* 领英/com.linkedin.android/求职,招聘/
-* 简书/com.jianshu.haruki/创作,文学,文艺/
-* 天涯/cn.tianya.light/八卦,娱乐,情感,论坛/
-* CSDN/net.csdn.csdnplus/互联网,技术,程序员/
-* 小红书/com.xingin.xhs/生活,年轻,话题,购物/
-* 掌上英雄联盟/com.tencent.qt.qtl/游戏/
-* 掌上穿越火线/com.tencent.qt.sns/游戏,视频/
-* 绝地求生官方/com.tencent.wegame.mangod/游戏,攻略,直播/
-* 快手小游戏/com.kwai.sogame/游戏,益智/
-* LOFTER/com.lofter.android/文艺,博客,兴趣/
-* 爱豆/com.idol.android/明星,圈子/
+* 脉脉/com.taou.maimai/求职,招聘/工作_6/励志_4/none/none/none/工作_6_0
+* 领英/com.linkedin.android/求职,招聘/工作_6/励志_4/none/none/none/工作_6_0
+* 简书/com.jianshu.haruki/创作,文学,文艺/治愈_2,感动_2/民谣_6/none/none/none/文艺_5_0
+* 天涯/cn.tianya.light/八卦,娱乐,情感,论坛/网络_4,80后_4/80后_4/none/网络_4/伤感网络情歌_3/天涯_4_0,娱乐_3_3
+* CSDN/net.csdn.csdnplus/互联网,技术,程序员/工作_8/励志_4/none/舞蹈_3/none/程序员_6_0
+* 小红书/com.xingin.xhs/生活,年轻,话题,购物/流行_3/none/none/国语流行_2/年轻_3_0
+* 掌上英雄联盟/com.tencent.qt.qtl/游戏/游戏_7/打游戏_8/none/none/游戏_4/英雄联盟_7_4
+* 掌上穿越火线/com.tencent.qt.sns/游戏,视频/游戏_7/打游戏_8/none/none/游戏_4/穿越火线_7_6
+* 绝地求生官方/com.tencent.wegame.mangod/游戏,攻略,直播/游戏_7/打游戏_8/none/none/游戏_4/刺激战场_7_6
+* 快手小游戏/com.kwai.sogame/游戏,益智/游戏_7/打游戏_8/none/none/游戏_4/小游戏_3_0
+* LOFTER/com.lofter.android/文艺,博客,兴趣/治愈_2,感动_2/民谣_6/none/none/none/文艺_5_0
+* 爱豆/com.idol.android/明星,圈子/娱乐_3_3,爱豆_4_0
 
 
 ## 图书阅读
