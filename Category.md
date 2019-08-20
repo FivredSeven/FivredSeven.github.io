@@ -114,28 +114,28 @@
 
 
 ## 图书阅读
-* 懒人听书/bubei.tingshu/听书,小说,节目,主播/
-* 书旗小说/com.shuqi.controller/读书,二次元/
-* 掌阅/com.chaozh.iReaderFree/读书,听书,漫画,二次元/
-* 咪咕阅读/com.ophone.reader.ui/听书,读书/
-* 微信读书/com.tencent.weread/小说,听书,想法,漫画/
-* qq阅读/com.qq.reader/读书,漫画,听书/
-* 熊猫看书/com.nd.android.pandareader/读书,听书,漫画/
-* 网易云阅读/com.netease.pris/读书,听书,都市,玄幻,现言,穿越/
-* 看理想/com.kanlixiang.android/读书,听书,文学/
-* 起点读书/com.qidian.QDReader/读书,听书,漫画,对话/
-* 17K/com.chineseall.reader/读书,热血,古言,游戏/
-* 红袖读书/com.hongxiu.app/读书,现言,古言/
-* 手机知网/com.cnki.client/读书,文献,期刊,知识/
-* 快看漫画/com.kuaikan.comic/漫画,直播,玄幻,热血,古风,言情/
-* 看漫画/com.wbxm.icartoon/漫画,兴趣,小说/
-* 腾讯动漫/com.qq.ac.android/动漫,漫画,视频,日漫/
-* 微博动漫/com.weibo.comic/动漫,奇幻,恋爱,二次元/
-* 句读/tech.caicheng.judourili/文字,文章,话题,视频,治愈/
-* 豆瓣阅读/com.douban.book.reader/读书,悬疑,幻想,文艺,历史/
-* 国家地理/com.bdatu.geography/图片,文字/
-* MONO/com.mmmono.mono/文艺,文字,视频,音乐,画册,社区/
-* 时尚志/com.onlylady.www.nativeapp/潮流,时尚,购物/
+* 懒人听书/bubei.tingshu/听书,小说,节目,主播/学习_4/安静_3,睡前_2/none/none/none/小说_6_0,读书_7_0,有声_3_0
+* 书旗小说/com.shuqi.controller/读书,二次元/学习_4/安静_3,睡前_2/none/none/none/小说_6_0,读书_7_0
+* 掌阅/com.chaozh.iReaderFree/读书,听书,漫画,二次元/学习_4/安静_3,睡前_2/none/none/none/小说_6_0,读书_7_0
+* 咪咕阅读/com.ophone.reader.ui/听书,读书/学习_4/安静_3,睡前_2/none/none/none/小说_6_0,读书_7_0,有声_3_0
+* 微信读书/com.tencent.weread/小说,听书,想法,漫画/学习_4/安静_3,睡前_2/none/none/none/小说_6_0,读书_7_0,有声_3_0
+* qq阅读/com.qq.reader/读书,漫画,听书/学习_4/安静_3,睡前_2/none/none/none/小说_6_0,读书_7_0,有声_3_0
+* 熊猫看书/com.nd.android.pandareader/读书,听书,漫画/学习_4/安静_3,睡前_2/none/none/none/小说_6_0,读书_7_0,有声_3_0
+* 网易云阅读/com.netease.pris/读书,听书,都市,玄幻,现言,穿越/学习_4/安静_3,睡前_2/none/none/none/小说_6_0,读书_7_0,有声_3_0
+* 看理想/com.kanlixiang.android/读书,听书,文学/学习_4/安静_3,睡前_2/none/none/none/小说_6_0,读书_7_0,有声_3_0
+* 起点读书/com.qidian.QDReader/读书,听书,漫画,对话/学习_4/安静_3,睡前_2/none/none/none/小说_6_0,读书_7_0,有声_3_0
+* 17K/com.chineseall.reader/读书,热血,古言,游戏/学习_4/安静_3,睡前_2/none/none/none/小说_6_0,读书_7_0,古言_4_0
+* 红袖读书/com.hongxiu.app/读书,现言,古言/学习_4/安静_3,睡前_2/none/none/none/小说_6_0,读书_7_0,古言_4_0
+* 手机知网/com.cnki.client/读书,文献,期刊,知识/学习_4/安静_3,睡前_2/none/none/none/小说_6_0,读书_7_0
+* 快看漫画/com.kuaikan.comic/漫画,直播,玄幻,热血,古风,言情/ACG_6,日系_4/日语_4/ACG_2/二次元_2/动漫_4,古风ACG_2/漫画_8_7,动漫_6_4
+* 看漫画/com.wbxm.icartoon/漫画,兴趣,小说/ACG_6,日系_4/日语_4/ACG_2/二次元_2/动漫_4,古风ACG_2/漫画_8_7,动漫_6_4
+* 腾讯动漫/com.qq.ac.android/动漫,漫画,视频,日漫/ACG_6,日系_4/日语_4/ACG_2/二次元_2/动漫_4,古风ACG_2/漫画_8_7,动漫_6_4
+* 微博动漫/com.weibo.comic/动漫,奇幻,恋爱,二次元/ACG_6,日系_4/日语_4/ACG_2/二次元_2/动漫_4,古风ACG_2/漫画_8_7,动漫_6_4
+* 句读/tech.caicheng.judourili/文字,文章,话题,视频,治愈/民谣_6,治愈_4,伤感_3,寂寞_3/想念_4,疗伤_2/none/演奏_3/none/文艺_6_0
+* 豆瓣阅读/com.douban.book.reader/读书,悬疑,幻想,文艺,历史/民谣_6,治愈_4/none/none/none/none/文艺_4_0,悬疑_5_4
+* 国家地理/com.bdatu.geography/图片,文字/民谣_6,治愈_4/none/none/none/none/文艺_4_0
+* MONO/com.mmmono.mono/文艺,文字,视频,音乐,画册,社区/民谣_6,治愈_4,伤感_3,寂寞_3/想念_4,疗伤_2/none/演奏_3/none/文艺_6_0
+* 时尚志/com.onlylady.www.nativeapp/潮流,时尚,购物/流行_4/流行_4/none/none/none/潮流_3_0,时尚_4_0
 
 
 ## 购物
