@@ -15,7 +15,7 @@
 * 西瓜视频/com.ss.android.article.video/短视频,直播/79_影视_2/none/none/40_影视_3/1006_年度电影金曲_2,1008_年度热剧金曲_2/影视_3_1
 * 好看视频/com.baidu.haokan/短视频,搞笑,娱乐/79_影视_2,_快乐_3/19_49_开心_3/none/40_影视_3/none/搞笑_4_2
 * 影视大全/com.le123.ysdq/电视剧,电影/79_影视_4/none/11_影视H5_2/40_影视_6/1006_年度电影金曲_5,1008_年度热剧金曲_5/影视_6_2
-* 央视影音/cn.cntv/央视,新闻,体育/12_经典_3,_中国风_2/305_721_运动_3,68_12_经典_3/none/none/1006_年度电影金曲_2,1008_年度热剧金曲_3/央视_5_3,体育_2_0,运动_2_0
+* 央视影音/cn.cntv/央视,新闻,体育/12_经典_3,_中国风_2,中国传统_4/305_721_运动_3,68_12_经典_3/none/none/1006_年度电影金曲_2,1008_年度热剧金曲_3/央视_5_3,体育_2_0,运动_2_0
 * 火山小视频/com.ss.android.ugc.live/短视频,直播/none/none/none/none/none/火山小视频_4_0
 * 人人视频/com.zhongduomei.rrmj.society/美剧,英剧,电影/79_影视_2,20_英语_6/27_20_英语专区_6/11_影视H5_2,26_欧美H5_3/40_影视_3,39_欧美_4/960_漫威英雄_3,406_英语_4,779_单曲循环英语_2,789_欧美音乐现场_/影视_6_2,漫威_6_6,美剧_6_6
 * 全民小视频/com.baidu.minivideo/短视频,直播/50_兴奋_4/none/none/54_舞蹈_2/none/小视频_6_6
@@ -93,17 +93,17 @@
 ## 社区
 * 微博/com.sina.weibo/资讯,新闻,时事,明星/流行_4/流行_4/none/none/none/微博_2_0,娱乐_3_3
 * 微博国际版/com.weico.international/资讯,新闻,时事,明星,简洁/流行_4/流行_4/none/none/none/微博_2_0
-* 知乎/com.zhihu.android/问答,知识,专业,学习/学习_3,工作_4/none/none/none/none/知乎_2_0
+* 知乎/com.zhihu.android/问答,知识,专业,学习/学习_3,工作_4,通勤_3/none/none/none/none/知乎_2_0
 * 豆瓣/com.douban.frodo/文艺,电影,读书,小组,兴趣/影视_4,治愈_2,感动_2/民谣_6/none/影视_3/年度电影金曲_3/文艺_5_0,豆瓣_8_6
 * 贴吧/com.baidu.tieba/兴趣,论坛,话题/
 * 百度知道/com.baidu.iknow/问答,知识,直播,短视频/
 * QQ空间/com.qzone/好友,资讯/好友_5_0,qq空间_5_2
 * 即刻/com.ruguoapp.jike/资讯,兴趣/
-* 脉脉/com.taou.maimai/求职,招聘/工作_6/励志_4/none/none/none/工作_6_0
-* 领英/com.linkedin.android/求职,招聘/工作_6/励志_4/none/none/none/工作_6_0
+* 脉脉/com.taou.maimai/求职,招聘/工作_6,通勤_6/励志_4/none/none/none/工作_6_0
+* 领英/com.linkedin.android/求职,招聘/工作_6,通勤_6/励志_4/none/none/none/工作_6_0
 * 简书/com.jianshu.haruki/创作,文学,文艺/治愈_2,感动_2/民谣_6/none/none/none/文艺_5_0
 * 天涯/cn.tianya.light/八卦,娱乐,情感,论坛/网络_4,80后_4/80后_4/none/网络_4/伤感网络情歌_3/天涯_4_0,娱乐_3_3
-* CSDN/net.csdn.csdnplus/互联网,技术,程序员/工作_8/励志_4/none/舞蹈_3/none/程序员_6_0
+* CSDN/net.csdn.csdnplus/互联网,技术,程序员/工作_8,通勤_6/励志_4/none/舞蹈_3/none/程序员_6_0
 * 小红书/com.xingin.xhs/生活,年轻,话题,购物/流行_3/none/none/国语流行_2/年轻_3_0
 * 掌上英雄联盟/com.tencent.qt.qtl/游戏/游戏_7/打游戏_8/none/none/游戏_4/英雄联盟_7_4
 * 掌上穿越火线/com.tencent.qt.sns/游戏,视频/游戏_7/打游戏_8/none/none/游戏_4/穿越火线_7_6
@@ -139,31 +139,30 @@
 
 
 ## 购物
-* 拼多多/com.xunmeng.pinduoduo/购物,拼单,百货,鞋包/
-* 京东/com.jingdong.app.mall/购物,家电,生鲜/
-* 淘宝/com.taobao.taobao/购物/
-* 天猫/com.tmall.wireless/购物,超市,海淘/
-* 闲鱼/com.taobao.idlefish/购物,二手,闲置/
-* 当当/com.dangdang.buy2/购书/
-* 阿里巴巴/com.alibaba.wireless/进货,商家/
-* 转转/com.wuba.zhuanzhuan/购物,二手,闲置/
-* 唯品会/com.achievo.vipshop/购物,品牌特卖/
-* 苏宁易购/com.suning.mobile.ebuy/购物,百货/
-* 小米有品/com.xiaomi.youpin/购物,年轻,家电,家具/
-* 蘑菇街/com.mogujie/购物,服装,直播/
-* 每日优鲜/cn.missfresh.application/购物,生鲜/
-* 网易严选/com.netease.yanxuan/购物,生活,家居/
-* 聚美优品/com.jm.android.jumei/购物,特卖,海淘/
-* 识货/com.hupu.shihuo/购物,球鞋,服饰/
-* 网易考拉/com.kaola/海淘,社区,问答/
-* 亚马逊/cn.amazon.mShop.android/海淘/
-* 省钱快报/com.jzyd.coupon/购物,折扣/
-* 花生日记/com.jf.lkrj/折扣,母婴,食品/
-* 返利/com.fanli.android.apps/折扣,返利/
-* 小米省钱购/com.xiaomi.o2o/折扣,省钱/
-* 什么值得买/com.smzdm.client.android/购物/
-* 毒/com.shizhuang.duapp/购物,运动,潮流,装备/
-* 
+* 拼多多/com.xunmeng.pinduoduo/购物,拼单,百货,鞋包/购物_3_1
+* 京东/com.jingdong.app.mall/购物,家电,生鲜/购物_3_1
+* 淘宝/com.taobao.taobao/购物/购物_3_1
+* 天猫/com.tmall.wireless/购物,超市,海淘/购物_3_1
+* 闲鱼/com.taobao.idlefish/购物,二手,闲置/购物_3_1
+* 当当/com.dangdang.buy2/购书/学习_4/none/none/none/none/小说_6_0,读书_7_0
+* 阿里巴巴/com.alibaba.wireless/进货,商家/店铺_4/店铺_4/none/none/none/店铺_4
+* 转转/com.wuba.zhuanzhuan/购物,二手,闲置/购物_3_1
+* 唯品会/com.achievo.vipshop/购物,品牌特卖/购物_3_1
+* 苏宁易购/com.suning.mobile.ebuy/购物,百货/购物_3_1
+* 小米有品/com.xiaomi.youpin/购物,年轻,家电,家具/购物_3_1
+* 蘑菇街/com.mogujie/购物,服装,直播/购物_3_1,服装_3_0
+* 每日优鲜/cn.missfresh.application/购物,生鲜/购物_3_1
+* 网易严选/com.netease.yanxuan/购物,生活,家居/购物_3_1,家居_2_0
+* 聚美优品/com.jm.android.jumei/购物,特卖,海淘/购物_3_1
+* 识货/com.hupu.shihuo/购物,球鞋,服饰/运动_3/运动专区_2/none/热舞_4/NBA_3_2,足球_2_1,购物_3_1
+* 网易考拉/com.kaola/海淘,社区,问答/购物_3_1
+* 亚马逊/cn.amazon.mShop.android/海淘/购物_3_1
+* 省钱快报/com.jzyd.coupon/购物,折扣/购物_3_1
+* 花生日记/com.jf.lkrj/折扣,母婴,食品/儿童_4/儿歌_3/儿童专区_3/none/儿歌_3,0-3岁儿歌_3/宝妈_4_2,购物_3_1
+* 返利/com.fanli.android.apps/折扣,返利/购物_3_1
+* 小米省钱购/com.xiaomi.o2o/折扣,省钱/购物_3_1
+* 什么值得买/com.smzdm.client.android/购物/购物_3_1
+* 毒/com.shizhuang.duapp/购物,运动,潮流,装备/运动_3/运动专区_2/none/热舞_4/NBA_3_2,足球_2_1,购物_3_1
 * 百度糯米/com.nuomi/生活,社区,视频,资讯/
 * 口碑/com.taobao.mobile.dipei/生活,外卖,生活圈/
 
@@ -207,7 +206,7 @@
 * Snapseed/com.niksoftware.snapseed/滤镜,制作/
 * Quik/com.stupeflix.replay/制作/
 * 稿定设计/天天向商/com.hlg.daydaytobusiness/水印,拼图,编辑视频,云相册/
-* 
+*
 
 
 
@@ -372,7 +371,7 @@
 * 大姨妈/com.yoloho.dayima/女性/
 * 妈妈网孕育/cn.mama.pregnant/宝宝,社区/
 * 亲宝宝/com.dw.btime/宝宝,社区/
-* 
+*
 
 
 
