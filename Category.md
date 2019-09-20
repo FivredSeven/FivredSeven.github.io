@@ -139,134 +139,134 @@
 
 
 ## 购物
-* 拼多多/com.xunmeng.pinduoduo/购物,拼单,百货,鞋包/购物_3_1
-* 京东/com.jingdong.app.mall/购物,家电,生鲜/购物_3_1
-* 淘宝/com.taobao.taobao/购物/购物_3_1
-* 天猫/com.tmall.wireless/购物,超市,海淘/购物_3_1
-* 闲鱼/com.taobao.idlefish/购物,二手,闲置/购物_3_1
+* 拼多多/com.xunmeng.pinduoduo/购物,拼单,百货,鞋包/购物_1_1
+* 京东/com.jingdong.app.mall/购物,家电,生鲜/购物_1_1
+* 淘宝/com.taobao.taobao/购物/购物_1_1
+* 天猫/com.tmall.wireless/购物,超市,海淘/购物_1_1
+* 闲鱼/com.taobao.idlefish/购物,二手,闲置/购物_1_1
 * 当当/com.dangdang.buy2/购书/学习_4/none/none/none/none/小说_6_0,读书_7_0
 * 阿里巴巴/com.alibaba.wireless/进货,商家/店铺_4/店铺_4/none/none/none/店铺_4
-* 转转/com.wuba.zhuanzhuan/购物,二手,闲置/购物_3_1
-* 唯品会/com.achievo.vipshop/购物,品牌特卖/购物_3_1
-* 苏宁易购/com.suning.mobile.ebuy/购物,百货/购物_3_1
-* 小米有品/com.xiaomi.youpin/购物,年轻,家电,家具/购物_3_1
-* 蘑菇街/com.mogujie/购物,服装,直播/购物_3_1,服装_3_0
-* 每日优鲜/cn.missfresh.application/购物,生鲜/购物_3_1
-* 网易严选/com.netease.yanxuan/购物,生活,家居/购物_3_1,家居_2_0
-* 聚美优品/com.jm.android.jumei/购物,特卖,海淘/购物_3_1
-* 识货/com.hupu.shihuo/购物,球鞋,服饰/运动_3/运动专区_2/none/热舞_4/NBA_3_2,足球_2_1,购物_3_1
-* 网易考拉/com.kaola/海淘,社区,问答/购物_3_1
-* 亚马逊/cn.amazon.mShop.android/海淘/购物_3_1
-* 省钱快报/com.jzyd.coupon/购物,折扣/购物_3_1
-* 花生日记/com.jf.lkrj/折扣,母婴,食品/儿童_4/儿歌_3/儿童专区_3/none/儿歌_3,0-3岁儿歌_3/宝妈_4_2,购物_3_1
-* 返利/com.fanli.android.apps/折扣,返利/购物_3_1
-* 小米省钱购/com.xiaomi.o2o/折扣,省钱/购物_3_1
-* 什么值得买/com.smzdm.client.android/购物/购物_3_1
-* 毒/com.shizhuang.duapp/购物,运动,潮流,装备/运动_3/运动专区_2/none/热舞_4/NBA_3_2,足球_2_1,购物_3_1
+* 转转/com.wuba.zhuanzhuan/购物,二手,闲置/购物_1_1
+* 唯品会/com.achievo.vipshop/购物,品牌特卖/购物_1_1
+* 苏宁易购/com.suning.mobile.ebuy/购物,百货/购物_1_1
+* 小米有品/com.xiaomi.youpin/购物,年轻,家电,家具/购物_1_1
+* 蘑菇街/com.mogujie/购物,服装,直播/购物_1_1,服装_3_0
+* 每日优鲜/cn.missfresh.application/购物,生鲜/购物_1_1
+* 网易严选/com.netease.yanxuan/购物,生活,家居/购物_1_1,家居_2_0
+* 聚美优品/com.jm.android.jumei/购物,特卖,海淘/购物_1_1
+* 识货/com.hupu.shihuo/购物,球鞋,服饰/运动_3/运动专区_2/none/热舞_4/NBA_3_2,足球_2_1,购物_1_1
+* 网易考拉/com.kaola/海淘,社区,问答/购物_1_1
+* 亚马逊/cn.amazon.mShop.android/海淘/购物_1_1
+* 省钱快报/com.jzyd.coupon/购物,折扣/购物_1_1
+* 花生日记/com.jf.lkrj/折扣,母婴,食品/儿童_4/儿歌_3/儿童专区_3/none/儿歌_3,0-3岁儿歌_3/宝妈_4_2,购物_1_1
+* 返利/com.fanli.android.apps/折扣,返利/购物_1_1
+* 小米省钱购/com.xiaomi.o2o/折扣,省钱/购物_1_1
+* 什么值得买/com.smzdm.client.android/购物/购物_1_1
+* 毒/com.shizhuang.duapp/购物,运动,潮流,装备/运动_3/运动专区_2/none/热舞_4/NBA_3_2,足球_2_1,购物_1_1
 * 百度糯米/com.nuomi/生活,社区,视频,资讯/
 * 口碑/com.taobao.mobile.dipei/生活,外卖,生活圈/
 
 
 ## 摄影摄像
-* 天天P图/com.tencent.ttpic/自拍,抠图,美化,拼图/
+* 天天P图/com.tencent.ttpic/自拍,抠图,美化,拼图/女生_3_0,女性_3_2,精致_3_0,自拍_0_3
 * 最美证件照/us.pinguo.idcamera/证件照,人脸识别/
-* 黄油相机/com.by.butter.camera/加文字,壁纸,美化/
+* 黄油相机/com.by.butter.camera/加文字,壁纸,美化/女生_3_0,女性_3_2,精致_3_0,自拍_0_3
 * 微商水印相机/com.dingYZ.dingyzwater/水印,海报,拼图/
-* 小妖精美化/com.xyjmh.classic/主题,壁纸,图库,论坛/
-* 美妆相机/com.meitu.makeup/美妆,自拍/
-* 小精灵美化/com.android.nineton.elfinapp/图库,头像,壁纸,签名/
+* 小妖精美化/com.xyjmh.classic/主题,壁纸,图库,论坛/女生_3_0,女性_3_2,精致_3_0,自拍_0_3
+* 美妆相机/com.meitu.makeup/美妆,自拍/女生_3_0,女性_3_2,精致_3_0,自拍_0_3
+* 小精灵美化/com.android.nineton.elfinapp/图库,头像,壁纸,签名/女生_3_0,女性_3_2,精致_3_0,自拍_0_3
 * 简拼/cn.poco.jane/拼图,短视频/
-* 图片编辑器/kx.photo.editor.effect/图片编辑/
-* Faceu激萌/com.lemon.faceu/美颜,滤镜,贴纸/
-* 美图秀秀/com.mt.mtxx.mtxx/P图,美化,拼图/
-* B612咔叽/com.campmobile.snowcamera/贴纸,美颜,滤镜/
-* 美颜相机/com.meitu.meiyancamera/滤镜,美颜,修图/
+* 图片编辑器/kx.photo.editor.effect/图片编辑/剪辑_4_6
+* Faceu激萌/com.lemon.faceu/美颜,滤镜,贴纸/女生_3_0,女性_3_2,精致_3_0,自拍_0_3
+* 美图秀秀/com.mt.mtxx.mtxx/P图,美化,拼图/女生_3_0,女性_3_2,精致_3_0,自拍_0_3
+* B612咔叽/com.campmobile.snowcamera/贴纸,美颜,滤镜/女生_3_0,女性_3_2,精致_3_0,自拍_0_3
+* 美颜相机/com.meitu.meiyancamera/滤镜,美颜,修图/女生_3_0,女性_3_2,精致_3_0,自拍_0_3,美颜_0_2
 * 轻颜相机/com.gorgeous.lite/滤镜,美颜/
-* 无他相机/com.benqu.wuta/自拍,美颜,素描,打印/
+* 无他相机/com.benqu.wuta/自拍,美颜,素描,打印/女生_3_0,女性_3_2,精致_3_0,自拍_0_3
 * 水印相机/com.tencent.zebra/滤镜,水印/
 * PicsArt美易照片编辑/com.picsart.studio/社交,拼图,绘图,挑战/
-* 快影/com.kwai.videoeditor/视频裁剪,编辑,片场/
+* 快影/com.kwai.videoeditor/视频裁剪,编辑,片场/剪辑_4_6
 * MIX/com.pinguo.edit.sdk/滤镜,海报,社区,教程/
-* Foodie/com.linecorp.foodcamcn.android/美食滤镜/
-* 潮自拍/com.meitu.wheecam/贴纸,滤镜,拍立得,鱼眼相机,胶片相机/
-* 足记/cc.fotoplace.app/海报,摄影,颜值,创意,文艺/
-* 动感相册/cn.yiqi.photo/音乐相册,短视频,社交,定制,接地气/
-* 相册管家/com.tencent.gallerymanager/分类,故事,云备份/
-* 魔力相册/com.xingluo.mpa/音乐相册,视频相册,定制/
-* InShot-视频编辑/com.camerasideas.instashot/视频,图片,拼图,素材/
-* VUE Vlog/video.vue.android/文艺,视频,社交/
-* 快剪辑/com.qihoo.qeditor/剪辑,拼接,录屏,滤镜/
+* Foodie/com.linecorp.foodcamcn.android/美食滤镜/美食_4_2
+* 潮自拍/com.meitu.wheecam/贴纸,滤镜,拍立得,鱼眼相机,胶片相机/自拍_0_3
+* 足记/cc.fotoplace.app/海报,摄影,颜值,创意,文艺/摄影_6_6,创意_2_4,文艺_3_0,电影_2_0
+* 动感相册/cn.yiqi.photo/音乐相册,短视频,社交,定制,接地气/相册_3_1
+* 相册管家/com.tencent.gallerymanager/分类,故事,云备份/相册_1_0
+* 魔力相册/com.xingluo.mpa/音乐相册,视频相册,定制/相册_3_1
+* InShot-视频编辑/com.camerasideas.instashot/视频,图片,拼图,素材/剪辑_4_6,摄影_6_6
+* VUE Vlog/video.vue.android/文艺,视频,社交/摄影_6_6,创意_2_4,文艺_3_0,电影_2_0
+* 快剪辑/com.qihoo.qeditor/剪辑,拼接,录屏,滤镜/摄影_6_6,创意_2_4,文艺_3_0,电影_2_0
 * 小影/com.quvideo.xiaoying/剪辑,美颜,社交,教程/
-* 美拍/com.meitu.meipaimv/美化,社交,直播/
+* 美拍/com.meitu.meipaimv/美化,社交,直播/女生_3_0,女性_3_2,精致_3_0,自拍_0_3
 * 逗拍/com.dou_pai.DouPai/拍摄,剪辑,模板/
-* 乐秀视频剪辑器/com.xvideostudio.videoeditor/剪辑,特效,教程/
+* 乐秀视频剪辑器/com.xvideostudio.videoeditor/剪辑,特效,教程/剪辑_4_6
 * 简影/com.android.jianying/制作,模板/
-* 趣推/com.qutui360.app/模板,拍摄,剪辑/
+* 趣推/com.qutui360.app/模板,拍摄,剪辑/剪辑_4_6
 * 彩视/cn.colorv/制作,直播,社交/
-* Snapseed/com.niksoftware.snapseed/滤镜,制作/
-* Quik/com.stupeflix.replay/制作/
-* 稿定设计/天天向商/com.hlg.daydaytobusiness/水印,拼图,编辑视频,云相册/
+* Snapseed/com.niksoftware.snapseed/滤镜,制作/剪辑_4_6
+* Quik/com.stupeflix.replay/制作/剪辑_4_6
+* 稿定设计/天天向商/com.hlg.daydaytobusiness/水印,拼图,编辑视频,云相册/剪辑_4_6
 *
 
 
 
 ## 学习教育
-* 百词斩/com.jiongji.andriod.card/英语,考试/
-* 百度翻译/com.baidu.baidutranslate/翻译,英语/
-* 英语流利说/com.liulishuo.engzo/英语,口语,听力/
-* 有道翻译官/com.youdao.translator/翻译,拍译/
-* 金山词霸/com.kingsoft/英语词典,翻译,教学,训练,阅读/
-* 网易有道词典/com.youdao.dict/翻译,词典,口语,教学/
-* 腾讯翻译官/com.qb.qtanslator/翻译,口语/
-* 新华字典/cn.dictcn.android.digitize.swg_xhzd_21003/字典,学习/
-* 驾校一点通/com.jxedt/驾考,社区,买车/
-* 驾考宝典/com.handsgo.jiakao.android/驾考,社区,买车/
-* 智学网/com.iflytek.elpmobile.smartlearning/小学,中学,资讯,课堂/
-* 好分数/com.yunxiao.haofenshu/小学,中学,课程,辅导/
-* 深蓝法考/com.neoteched.shenlancity/法律/
-* 学霸君/com.wenba.bangbang/中学,课程/
-* 懒人作业答案/com.shengxue.lazyhomework/教材,书籍/
-* 考研帮/com.tal.kaoyan/考研,题库,资讯,社区/
-* 中公教育/com.offcn.android.offcn/公务员,教师,事业单位,银行/
-* 华图在线/com.huatu.handheld_huatu/同上/
-* 软考真题/com.doquestion/软考/
-* 家长帮/com.eduu.bang/资讯,教育,家长大学/
-* 作业帮/com.baidu.homework/学生,家长,社区/
-* 学习强国/cn.xuexi.android/公务,新闻,学习/
-* 小猿搜题/com.fenbi.android.solar/试题,学生,家长,辅导/
+* 百词斩/com.jiongji.andriod.card/英语,考试/英语_6,学习_4,校园_3/英语_6,校园_3/none/欧美_2/英语_4/英语_3_2,英文_5_2,学习_4_0
+* 百度翻译/com.baidu.baidutranslate/翻译,英语/英文_5_2,翻译_3_5
+* 英语流利说/com.liulishuo.engzo/英语,口语,听力/英语_6,学习_4,校园_3/英语_6,校园_3/none/欧美_2/英语_4/口语_4_1,英语_3_2,英文_5_2,学习_4_0
+* 有道翻译官/com.youdao.translator/翻译,拍译/英文_5_2,翻译_3_5
+* 金山词霸/com.kingsoft/英语词典,翻译,教学,训练,阅读/英文_5_2,翻译_3_5
+* 网易有道词典/com.youdao.dict/翻译,词典,口语,教学/英文_5_2,翻译_3_5,口语_4_1
+* 腾讯翻译官/com.qb.qtanslator/翻译,口语/英文_5_2,翻译_3_5,口语_4_1
+* 新华字典/cn.dictcn.android.digitize.swg_xhzd_21003/字典,学习/学习_4_0,校园_2_0,学校_3_0,在校_3_0
+* 驾校一点通/com.jxedt/驾考,社区,买车/司机_4_1,车载_6_6
+* 驾考宝典/com.handsgo.jiakao.android/驾考,社区,买车/司机_4_1,车载_6_6
+* 智学网/com.iflytek.elpmobile.smartlearning/小学,中学,资讯,课堂/学习_4_0,课堂_3_3,校园_2_0,学校_3_0,在校_3_0
+* 好分数/com.yunxiao.haofenshu/小学,中学,课程,辅导/学霸_5_3,学习_4_0,课堂_3_3,校园_2_0,学校_3_0,在校_3_0
+* 深蓝法考/com.neoteched.shenlancity/法律/校园_3_0,学习_4_0,工作_4_0,法律_1_2
+* 学霸君/com.wenba.bangbang/中学,课程/学霸_5_3,学习_4_0,课堂_3_3,校园_2_0,学校_3_0,在校_3_0
+* 懒人作业答案/com.shengxue.lazyhomework/教材,书籍/学霸_5_3,学习_4_0,课堂_3_3,校园_2_0,学校_3_0,在校_3_0
+* 考研帮/com.tal.kaoyan/考研,题库,资讯,社区/校园_3_0,学习_4_0,考研_6_3
+* 中公教育/com.offcn.android.offcn/公务员,教师,事业单位,银行/学霸_5_3,学习_4_0,工作_2_0
+* 华图在线/com.huatu.handheld_huatu/同上/学霸_5_3,学习_4_0,工作_2_0
+* 软考真题/com.doquestion/软考/学霸_5_3,学习_4_0,工作_2_0,
+* 家长帮/com.eduu.bang/资讯,教育,家长大学/教育_5_3,家长_4_2
+* 作业帮/com.baidu.homework/学生,家长,社区/学霸_5_3,学习_4_0,作业_6_3,教育_5_3,家长_4_2
+* 学习强国/cn.xuexi.android/公务,新闻,学习/学霸_5_3,工作_4_0,学习_4_0,新闻_4_0
+* 小猿搜题/com.fenbi.android.solar/试题,学生,家长,辅导/学霸_5_3,学习_4_0,作业_6_3,教育_5_3,家长_4_2
 *
 *
 
 
 
 ## 旅行交通
-* Booking/com.booking/住宿,国际,租车/
-* 携程/ctrip.android.view/综合旅行,社区/
-* 出发吧/com.jianlv.chufaba/小众,行程/
-* 马蜂窝/com.mfw.roadbook/综合旅行,攻略/
-* 掌上公交/com.mygolbs.mybus/公交地铁,地图/
-* 高铁管家/com.gtgj.view/出行票务,资讯/
-* 艺龙旅行/com.dp.android.elong/住宿,车票/
-* 华住会/com.htinns/住宿/
+* Booking/com.booking/住宿,国际,租车/国际_4_0,车载_2_2
+* 携程/ctrip.android.view/综合旅行,社区/旅行_4_0,旅游_4_1,度假_4_2
+* 出发吧/com.jianlv.chufaba/小众,行程/旅行_4_0,旅游_4_1,度假_4_2
+* 马蜂窝/com.mfw.roadbook/综合旅行,攻略/旅行_6_0,旅游_6_1,度假_6_2
+* 掌上公交/com.mygolbs.mybus/公交地铁,地图/公交_4_0,地铁_4_0
+* 高铁管家/com.gtgj.view/出行票务,资讯/高铁_2_2
+* 艺龙旅行/com.dp.android.elong/住宿,车票/旅行_4_0,旅游_4_1,度假_4_2
+* 华住会/com.htinns/住宿/旅行_4_0,旅游_4_1,度假_4_2,工作_3_0
 * 百度地图/com.baidu.BaiduMap/地图/
 * 高德地图/com.autonavi.minimap/地图/
-* 驴妈妈旅游/com.gift.android/综合旅行,特惠套餐/
-* 交警12123/com.tmri.app.main/车辆管理/
-* 铁路12306/com.MobileTicket/车票/
+* 驴妈妈旅游/com.gift.android/综合旅行,特惠套餐/旅行_4_0,旅游_4_1
+* 交警12123/com.tmri.app.main/车辆管理/车载_6_6
+* 铁路12306/com.MobileTicket/车票/火车_3_0
 * 滴滴出行/com.sdu.didi.psnger/打车/
-* 去哪儿旅行/com.Qunar/综合旅行/
-* 飞猪/com.taobao.trip/综合旅行/
+* 去哪儿旅行/com.Qunar/综合旅行/旅行_4_0,旅游_4_1,度假_4_2
+* 飞猪/com.taobao.trip/综合旅行/旅行_4_0,旅游_4_1,度假_4_2
 * 腾讯地图/com.tencent.map/地图/
-* 智行火车票/com.yipiao/车票/
-* 爱彼迎Airbnb/com.airbnb.android/住宿,民宿,故事/
-* 滴滴车主/com.sdu.didi.gsui/车主/
-* 摩拜单车/com.mobike.mobikeapp/单车/
-* 航旅纵横/com.umetrip.android.msky.app/机票,行程/
-* 一嗨租车/com.ehai/租车/
-* 车轮违章查询/cn.eclicks.wzsearch/违章,汽车服务,社区/
-* 神州租车/com.szzc/租车/
+* 智行火车票/com.yipiao/车票/火车_3_0
+* 爱彼迎Airbnb/com.airbnb.android/住宿,民宿,故事/旅行_4_0,旅游_4_1,度假_4_2,故事_5_0
+* 滴滴车主/com.sdu.didi.gsui/车主/车载_6_6
+* 摩拜单车/com.mobike.mobikeapp/单车/单车_3_0
+* 航旅纵横/com.umetrip.android.msky.app/机票,行程/旅行_4_0,旅游_4_1,度假_4_2,工作_3_0,飞机_3_0
+* 一嗨租车/com.ehai/租车/车载_2_2
+* 车轮违章查询/cn.eclicks.wzsearch/违章,汽车服务,社区/车载_6_6
+* 神州租车/com.szzc/租车/车载_2_2
 * 嘀嗒出行/com.didapinche.booking/打车/
-* 车来了/com.ygkj.chelaile.standroid/公交地铁/
+* 车来了/com.ygkj.chelaile.standroid/公交地铁/公交_4_0,地铁_4_0
 
 
 
@@ -286,15 +286,15 @@
 
 
 ## 娱乐消遣
-* 最右/cn.xiaochuankeji.tieba/搞笑/
-* 糗事百科/qsbk.app/搞笑/
-* 周公解梦/com.xiaodao.jiemeng/解梦/
-* 塔罗牌占卜/taluo.jumeng.com.tarot/占卜/
-* 皮皮虾/com.sup.android.superb/搞笑/
-* 星座运势大全/net.xingfuxingzuo.android/星座/
-* 算命/predictor.ui/算命/
-* 配音秀/com.happyteam.dubbingshow/配音/
-* 斗图工厂/com.doutugongchang.app/搞笑,斗图/
+* 最右/cn.xiaochuankeji.tieba/搞笑/搞笑_4_2
+* 糗事百科/qsbk.app/搞笑/搞笑_4_2
+* 周公解梦/com.xiaodao.jiemeng/解梦/解梦_1_0
+* 塔罗牌占卜/taluo.jumeng.com.tarot/占卜/宗教_2_0
+* 皮皮虾/com.sup.android.superb/搞笑/搞笑_4_2
+* 星座运势大全/net.xingfuxingzuo.android/星座/星座_3_0
+* 算命/predictor.ui/算命/宗教_2_0
+* 配音秀/com.happyteam.dubbingshow/配音/配音_5_5
+* 斗图工厂/com.doutugongchang.app/搞笑,斗图/搞笑_4_2
 
 
 
@@ -304,20 +304,20 @@
 * 新浪新闻/com.sina.news/
 * 今日头条/com.ss.android.article.news/
 * 腾讯新闻/com.tencent.news/
-* 懂车帝/com.ss.android.auto/汽车/
-* 汽车之家/com.cubic.autohome/汽车/
-* 人民日报/com.peopledailychina.activity/
+* 懂车帝/com.ss.android.auto/汽车/车载_4_4
+* 汽车之家/com.cubic.autohome/汽车/车载_4_4
+* 人民日报/com.peopledailychina.activity/日报_0_2
 * 搜狐新闻/com.sohu.newsclient/
 * 澎湃新闻/com.wondertek.paper/
 * 百度/com.baidu.searchbox/搜索/
-* 中关村在线/com.zol.android/科技,IT资讯/
-* IT之家/com.ruanmei.ithome/IT资讯,互联网/
-* 掘金/com.daimajia.gold/IT,技术,深度/
-* 推酷/com.tuicool.activity/IT,技术,深度/
-* 军事武器/com.justoper.weapins.mil/军事/
-* 读者杂志/com.fumei.dz/读者/
-* iDaily/com.clover.idaily/国际新闻/
-* 时尚志/com.onlylady.www.nativeapp/时尚资讯/
+* 中关村在线/com.zol.android/科技,IT资讯/科技_3_0
+* IT之家/com.ruanmei.ithome/IT资讯,互联网/科技_3_0
+* 掘金/com.daimajia.gold/IT,技术,深度/科技_3_0
+* 推酷/com.tuicool.activity/IT,技术,深度/科技_3_0
+* 军事武器/com.justoper.weapins.mil/军事/军事_3_1
+* 读者杂志/com.fumei.dz/读者/看书_5_0
+* iDaily/com.clover.idaily/国际新闻/国际_3_0
+* 时尚志/com.onlylady.www.nativeapp/时尚资讯/时尚_5_0
 
 
 
