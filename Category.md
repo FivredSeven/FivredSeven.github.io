@@ -99,8 +99,8 @@
 * 百度知道/com.baidu.iknow/问答,知识,直播,短视频/
 * QQ空间/com.qzone/好友,资讯/好友_5_0,qq空间_5_2
 * 即刻/com.ruguoapp.jike/资讯,兴趣/
-* 脉脉/com.taou.maimai/求职,招聘/工作_6,通勤_6/励志_4/none/none/none/工作_6_0
-* 领英/com.linkedin.android/求职,招聘/工作_6,通勤_6/励志_4/none/none/none/工作_6_0
+* 脉脉/com.taou.maimai/求职,招聘/工作_6,通勤_6/励志_4/none/none/none/工作_6_0,办公_5_3
+* 领英/com.linkedin.android/求职,招聘/工作_6,通勤_6/励志_4/none/none/none/工作_6_0,办公_5_3
 * 简书/com.jianshu.haruki/创作,文学,文艺/治愈_2,感动_2/民谣_6/none/none/none/文艺_5_0
 * 天涯/cn.tianya.light/八卦,娱乐,情感,论坛/网络_4,80后_4/80后_4/none/网络_4/伤感网络情歌_3/天涯_4_0,娱乐_3_3
 * CSDN/net.csdn.csdnplus/互联网,技术,程序员/工作_8,通勤_6/励志_4/none/舞蹈_3/none/程序员_6_0
@@ -223,16 +223,16 @@
 * 驾考宝典/com.handsgo.jiakao.android/驾考,社区,买车/司机_4_1,车载_6_6
 * 智学网/com.iflytek.elpmobile.smartlearning/小学,中学,资讯,课堂/学习_4_0,课堂_3_3,校园_2_0,学校_3_0,在校_3_0
 * 好分数/com.yunxiao.haofenshu/小学,中学,课程,辅导/学霸_5_3,学习_4_0,课堂_3_3,校园_2_0,学校_3_0,在校_3_0
-* 深蓝法考/com.neoteched.shenlancity/法律/校园_3_0,学习_4_0,工作_4_0,法律_1_2
+* 深蓝法考/com.neoteched.shenlancity/法律/校园_3_0,学习_4_0,工作_4_0,办公_5_3,法律_1_2
 * 学霸君/com.wenba.bangbang/中学,课程/学霸_5_3,学习_4_0,课堂_3_3,校园_2_0,学校_3_0,在校_3_0
 * 懒人作业答案/com.shengxue.lazyhomework/教材,书籍/学霸_5_3,学习_4_0,课堂_3_3,校园_2_0,学校_3_0,在校_3_0
 * 考研帮/com.tal.kaoyan/考研,题库,资讯,社区/校园_3_0,学习_4_0,考研_6_3
-* 中公教育/com.offcn.android.offcn/公务员,教师,事业单位,银行/学霸_5_3,学习_4_0,工作_2_0
-* 华图在线/com.huatu.handheld_huatu/同上/学霸_5_3,学习_4_0,工作_2_0
-* 软考真题/com.doquestion/软考/学霸_5_3,学习_4_0,工作_2_0,
+* 中公教育/com.offcn.android.offcn/公务员,教师,事业单位,银行/学霸_5_3,学习_4_0,工作_2_0,办公_5_3
+* 华图在线/com.huatu.handheld_huatu/同上/学霸_5_3,学习_4_0,工作_2_0,办公_5_3
+* 软考真题/com.doquestion/软考/学霸_5_3,学习_4_0,工作_2_0,办公_5_3,
 * 家长帮/com.eduu.bang/资讯,教育,家长大学/教育_5_3,家长_4_2
 * 作业帮/com.baidu.homework/学生,家长,社区/学霸_5_3,学习_4_0,作业_6_3,教育_5_3,家长_4_2
-* 学习强国/cn.xuexi.android/公务,新闻,学习/学霸_5_3,工作_4_0,学习_4_0,新闻_4_0
+* 学习强国/cn.xuexi.android/公务,新闻,学习/学霸_5_3,工作_4_0,办公_5_3,学习_4_0,新闻_4_0
 * 小猿搜题/com.fenbi.android.solar/试题,学生,家长,辅导/学霸_5_3,学习_4_0,作业_6_3,教育_5_3,家长_4_2
 *
 *
@@ -247,7 +247,7 @@
 * 掌上公交/com.mygolbs.mybus/公交地铁,地图/公交_4_0,地铁_4_0
 * 高铁管家/com.gtgj.view/出行票务,资讯/高铁_2_2
 * 艺龙旅行/com.dp.android.elong/住宿,车票/旅行_4_0,旅游_4_1,度假_4_2
-* 华住会/com.htinns/住宿/旅行_4_0,旅游_4_1,度假_4_2,工作_3_0
+* 华住会/com.htinns/住宿/旅行_4_0,旅游_4_1,度假_4_2,工作_3_0,办公_5_3
 * 百度地图/com.baidu.BaiduMap/地图/
 * 高德地图/com.autonavi.minimap/地图/
 * 驴妈妈旅游/com.gift.android/综合旅行,特惠套餐/旅行_4_0,旅游_4_1
@@ -261,7 +261,7 @@
 * 爱彼迎Airbnb/com.airbnb.android/住宿,民宿,故事/旅行_4_0,旅游_4_1,度假_4_2,故事_5_0
 * 滴滴车主/com.sdu.didi.gsui/车主/车载_6_6
 * 摩拜单车/com.mobike.mobikeapp/单车/单车_3_0
-* 航旅纵横/com.umetrip.android.msky.app/机票,行程/旅行_4_0,旅游_4_1,度假_4_2,工作_3_0,飞机_3_0
+* 航旅纵横/com.umetrip.android.msky.app/机票,行程/旅行_4_0,旅游_4_1,度假_4_2,工作_3_0,办公_5_3,飞机_3_0
 * 一嗨租车/com.ehai/租车/车载_2_2
 * 车轮违章查询/cn.eclicks.wzsearch/违章,汽车服务,社区/车载_6_6
 * 神州租车/com.szzc/租车/车载_2_2
@@ -311,9 +311,9 @@
 * 澎湃新闻/com.wondertek.paper/
 * 百度/com.baidu.searchbox/搜索/
 * 中关村在线/com.zol.android/科技,IT资讯/科技_3_0
-* IT之家/com.ruanmei.ithome/IT资讯,互联网/科技_3_0
-* 掘金/com.daimajia.gold/IT,技术,深度/科技_3_0
-* 推酷/com.tuicool.activity/IT,技术,深度/科技_3_0
+* IT之家/com.ruanmei.ithome/IT资讯,互联网/科技_3_0,工作_3_0,办公_5_3
+* 掘金/com.daimajia.gold/IT,技术,深度/科技_3_0,工作_3_0,办公_5_3
+* 推酷/com.tuicool.activity/IT,技术,深度/科技_3_0,工作_3_0,办公_5_3
 * 军事武器/com.justoper.weapins.mil/军事/军事_3_1
 * 读者杂志/com.fumei.dz/读者/看书_5_0
 * iDaily/com.clover.idaily/国际新闻/国际_3_0
@@ -322,71 +322,71 @@
 
 
 ## 居家生活
-* 安居客/com.anjuke.android.app/租房,买房/
-* 瓜子二手车/com.ganji.android.haoche_c/车辆交易/
-* 食谱大全/com.jnzc.shipudaquan/食谱/
-* 淘票票/com.taobao.movie.android/电影票,演出,社区/
-* 大麦/cn.damai/综合票务,艺术/
-* 下厨房/com.xiachufang/食谱,社区,集市,教学/
-* luckin coffee/com.lucky.luckyclient/咖啡,潮流/
-* 链家/com.homelink.android/租房,买房/
-* 猫眼/com.sankuai.movie/电影票,综合票务/
-* 大众点评/com.dianping.v1/生活综合,品质点评/
-* 美团外卖/com.sankuai.meituan.takeoutnew/外卖/
-* 美团外卖商家版/com.sankuai.mettuan.meituanwaimaibusiness/外卖商户/
-* 饿了么/me.ele/外卖/
-* 猫眼专业版/com.sankuai.moviepro/专业,票房收视,资讯/
-* 格瓦拉生活/com.gewara/电影,演出/
-* 土巴兔装修/com.to8to.housekeeper/装修/
-* 贝壳找房/com.lianjia.beike/租房,买房,资讯/
-* 自如/com.ziroom.ziroomcustomer/卖房,买房,租房/
-* 房天下/com.soufun.app/买房,租房,资讯/
+* 安居客/com.anjuke.android.app/租房,买房/工作_3_0,办公_5_3,城市_3_0,买房_0_2
+* 瓜子二手车/com.ganji.android.haoche_c/车辆交易/司机_4_1,车载_4_4
+* 食谱大全/com.jnzc.shipudaquan/食谱/食物_2_2,烹饪_1_1,美食_3_3
+* 淘票票/com.taobao.movie.android/电影票,演出,社区/影视_5_2,演出_5_5,票房_1_4
+* 大麦/cn.damai/综合票务,艺术/演出_5_5
+* 下厨房/com.xiachufang/食谱,社区,集市,教学/食物_2_2,烹饪_1_1,美食_3_3
+* luckin coffee/com.lucky.luckyclient/咖啡,潮流/咖啡_6_0
+* 链家/com.homelink.android/租房,买房/工作_3_0,办公_5_3,城市_3_0,买房_0_2
+* 猫眼/com.sankuai.movie/电影票,综合票务/影视_5_2,演出_5_5,票房_1_4
+* 大众点评/com.dianping.v1/生活综合,品质点评/美食_3_3
+* 美团外卖/com.sankuai.meituan.takeoutnew/外卖/美食_3_3,外卖_1_4
+* 美团外卖商家版/com.sankuai.mettuan.meituanwaimaibusiness/外卖商户/美食_3_3,外卖_1_4
+* 饿了么/me.ele/外卖/美食_3_3,外卖_1_4
+* 猫眼专业版/com.sankuai.moviepro/专业,票房收视,资讯/影视_5_2,票房_1_4
+* 格瓦拉生活/com.gewara/电影,演出/影视_5_2,票房_1_4
+* 土巴兔装修/com.to8to.housekeeper/装修/工作_3_0,办公_5_3,城市_3_0,装修_0_2
+* 贝壳找房/com.lianjia.beike/租房,买房,资讯/工作_3_0,办公_5_3,城市_3_0
+* 自如/com.ziroom.ziroomcustomer/卖房,买房,租房/工作_3_0,办公_5_3,城市_3_0
+* 房天下/com.soufun.app/买房,租房,资讯/工作_3_0,办公_5_3,城市_3_0
 
 
 
 ## 体育运动
-* 虎扑/com.hupu.games/篮球,体育,社区/
-* 腾讯体育/com.tencent.qqsports/体育,社区/
-* Keep/com.gotokeep.keep/运动,健身/
-* 中国体育/com.seca.live/体育,社区/
-* 原力囚徒健身/ren.qiutu.app/健身/
-* 悦动圈/com.yuedong.sport/运动,健身/
-* 懂球帝/com.dongqiudi.news/足球,彩票/
-* 中超联赛/com.nsg.csl/足球,社区/
-* 小米运动/com.xiaomi.hm.health/运动,健身/
-* 直播吧/android.zhibo8/直播,篮球,足球/
-* 中羽联/com.chocolate.yuzu/羽毛球,订场/
-* 央视体育/com.cctv.cctv5ultimate/体育,直播/
-* PP体育/com.pplive.androidphone.sport/体育,直播,社区,足球/
-* 咕咚/com.codoon.gps/运动,健身/
+* 虎扑/com.hupu.games/篮球,体育,社区/篮球_7_6,NBA_7_6,体育_4_0,运动_3_1,足球_5_2
+* 腾讯体育/com.tencent.qqsports/体育,社区/篮球_7_6,NBA_7_6,体育_4_0,运动_3_1,足球_5_2
+* Keep/com.gotokeep.keep/运动,健身/运动_4_1,健身_5_2
+* 中国体育/com.seca.live/体育,社区/体育_4_0,运动_3_1
+* 原力囚徒健身/ren.qiutu.app/健身/运动_4_1,健身_5_2
+* 悦动圈/com.yuedong.sport/运动,健身/运动_4_1,健身_5_2
+* 懂球帝/com.dongqiudi.news/足球,彩票/足球_5_2,运动_4_1
+* 中超联赛/com.nsg.csl/足球,社区/足球_5_2,运动_4_1
+* 小米运动/com.xiaomi.hm.health/运动,健身/运动_4_1,健身_5_2
+* 直播吧/android.zhibo8/直播,篮球,足球/篮球_7_6,NBA_7_6,体育_4_0,运动_3_1,足球_5_2
+* 中羽联/com.chocolate.yuzu/羽毛球,订场/体育_4_0,运动_3_1,羽毛球_0_1
+* 央视体育/com.cctv.cctv5ultimate/体育,直播/体育_4_0,运动_3_1
+* PP体育/com.pplive.androidphone.sport/体育,直播,社区,足球/体育_4_0,运动_3_1,足球_5_2
+* 咕咚/com.codoon.gps/运动,健身/运动_4_1,健身_5_2
 
 
 
 ## 医疗健康
-* 医学百科/com.wiki8.app/医学,百科/
-* 平安好医生/com.pingan.papd/健康,医疗/
-* 美柚/com.lingan.seeyou/女性/
-* 宝宝树孕育/com.babytree.apps.pregnancy/宝宝,社区/
-* 妈妈帮/cim.yaya.mmbang/宝宝,社区/
-* 大姨妈/com.yoloho.dayima/女性/
-* 妈妈网孕育/cn.mama.pregnant/宝宝,社区/
-* 亲宝宝/com.dw.btime/宝宝,社区/
+* 医学百科/com.wiki8.app/医学,百科/医院_2_0,健康_2_2
+* 平安好医生/com.pingan.papd/健康,医疗/医院_2_0,健康_2_2
+* 美柚/com.lingan.seeyou/女性/女生_6_2,女神_4_0
+* 宝宝树孕育/com.babytree.apps.pregnancy/宝宝,社区/宝宝_7_0,宝妈_6_3,儿童_7_8
+* 妈妈帮/cim.yaya.mmbang/宝宝,社区/宝宝_7_0,宝妈_6_3,儿童_7_8
+* 大姨妈/com.yoloho.dayima/女性/女生_6_2,女神_4_0
+* 妈妈网孕育/cn.mama.pregnant/宝宝,社区/宝宝_7_0,宝妈_6_3,儿童_7_8
+* 亲宝宝/com.dw.btime/宝宝,社区/宝宝_7_0,宝妈_6_3,儿童_7_8
 *
 
 
 
 ## 效率办公
-* 安心记加班/com.julanling.app/加班,求职/
-* 有道云笔记/com.youdao.note/笔记/
-* 脉脉/com.taou.maimai/求职,人脉/
-* 名片全能王/com.intsig.BizCardReader/名片/
-* WPS Office/cn.wps.moffice_eng/办公,文档/
-* 企业微信/com.tencent.wework/工作即时通讯/
-* 钉钉/com.alibaba.android.rimet/工作即时通讯/
-* 扫描全能王/com.intsig.camscanner/扫描/
-* 青柠手帐/com.biku.diary/手帐,日记/
-* 天眼查企业查询/com.tianyancha.skyeye/
-* 倒数日/com.clover.daysmatter/
-* 思维导图/czh.mindnode/思维/
-* 印象笔记/com.yinxiang/笔记/
-* 讯飞语记/com.iflytek.vflynote/笔记,语音/
+* 安心记加班/com.julanling.app/加班,求职/励志_4_3,工作_3_0,办公_5_3
+* 有道云笔记/com.youdao.note/笔记/励志_4_3,工作_3_0,办公_5_3,日记_4_0
+* 脉脉/com.taou.maimai/求职,人脉/励志_4_3,工作_3_0,办公_5_3
+* 名片全能王/com.intsig.BizCardReader/名片/工作_3_0,办公_5_3
+* WPS Office/cn.wps.moffice_eng/办公,文档/工作_3_0,办公_5_3
+* 企业微信/com.tencent.wework/工作即时通讯/工作_3_0,办公_5_3
+* 钉钉/com.alibaba.android.rimet/工作即时通讯/工作_3_0,办公_5_3
+* 扫描全能王/com.intsig.camscanner/扫描/工作_3_0,办公_5_3
+* 青柠手帐/com.biku.diary/手帐,日记/日记_4_0,文艺_6_0
+* 天眼查企业查询/com.tianyancha.skyeye/办公_5_3
+* 倒数日/com.clover.daysmatter/倒数_3_0
+* 思维导图/czh.mindnode/思维/思维_4_0,办公_5_3
+* 印象笔记/com.yinxiang/笔记/工作_3_0,办公_5_3,日记_4_0
+* 讯飞语记/com.iflytek.vflynote/笔记,语音/工作_3_0,办公_5_3,日记_4_0
