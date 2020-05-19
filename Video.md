@@ -55,11 +55,87 @@
                 {
                     "app_name": "西瓜视频",
                     "app_pkg": "com.ss.android.article.video",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key":""
+                },
+                {
+                    "app_name": "好看视频",
+                    "app_pkg": "com.baidu.haokan",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key":""
+                },
+                {
+                    "app_name": "影视大全",
+                    "app_pkg": "com.le123.ysdq",
                     "video_channel": "40",
                     "mv_radio": "1006,1008",
                     "search_key":"影视"
                 },
-
+                {
+                    "app_name": "央视影音",
+                    "app_pkg": "cn.cntv",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key":"央视"
+                },
+                {
+                    "app_name": "火山小视频",
+                    "app_pkg": "com.ss.android.ugc.live",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key":""
+                },
+                {
+                    "app_name": "人人视频",
+                    "app_pkg": "com.zhongduomei.rrmj.society",
+                    "video_channel": "39",
+                    "mv_radio": "960,406,779,789",
+                    "search_key":"漫威,美剧"
+                },
+                {
+                    "app_name": "全民小视频",
+                    "app_pkg": "com.baidu.minivideo",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key":"小视频"
+                },
+                {
+                    "app_name": "微视",
+                    "app_pkg": "com.tencent.weishi",
+                    "video_channel": "",
+                    "mv_radio": "1072",
+                    "search_key":"小视频"
+                },
+                {
+                    "app_name": "咪咕视频",
+                    "app_pkg": "com.cmcc.cmvideo",
+                    "video_channel": "",
+                    "mv_radio": "411",
+                    "search_key":"NBA,足球"
+                },
+                {
+                    "app_name": "快手",
+                    "app_pkg": "com.zhongduomei.rrmj.society",
+                    "video_channel": "54",
+                    "mv_radio": "411",
+                    "search_key":"小视频"
+                },
+                {
+                    "app_name": "糖豆",
+                    "app_pkg": "com.bokecc.dance",
+                    "video_channel": "",
+                    "mv_radio": "439",
+                    "search_key":"广场舞"
+                },
+                {
+                    "app_name": "秒拍",
+                    "app_pkg": "com.yixia.videoeditor",
+                    "video_channel": "54",
+                    "mv_radio": "",
+                    "search_key":"小视频"
+                }
             ]
         },
         {
@@ -68,12 +144,532 @@
                 {
                     "app_name": "斗鱼",
                     "app_pkg": "air.tv.douyu.android",
+                    "video_channel": "54",
+                    "mv_radio": "440,411",
+                    "search_key": "英雄联盟,刺激战场,王者荣耀,游戏"
+                },
+                {
+                    "app_name": "虎牙",
+                    "app_pkg": "com.duowan.kiwi",
+                    "video_channel": "54",
+                    "mv_radio": "440,411",
+                    "search_key": "英雄联盟,刺激战场,王者荣耀,游戏"
+                },
+                {
+                    "app_name": "YY",
+                    "app_pkg": "com.duowan.mobile",
+                    "video_channel": "54",
+                    "mv_radio": "411",
+                    "search_key": "直播"
+                },
+                {
+                    "app_name": "花椒",
+                    "app_pkg": "com.huajiao",
+                    "video_channel": "54",
+                    "mv_radio": "411",
+                    "search_key": "直播"
+                },
+                {
+                    "app_name": "酷狗直播",
+                    "app_pkg": "com.kugou.fanxing",
+                    "video_channel": "54",
+                    "mv_radio": "411",
+                    "search_key": "酷狗直播,直播"
+                },
+                {
+                    "app_name": "NOW直播",
+                    "app_pkg": "com.tencent.now",
+                    "video_channel": "54",
+                    "mv_radio": "411",
+                    "search_key": "直播"
+                },
+                {
+                    "app_name": "CC直播",
+                    "app_pkg": "com.netease.cc",
+                    "video_channel": "",
+                    "mv_radio": "440",
+                    "search_key": "梦幻西游"
+                },
+                {
+                    "app_name": "映客",
+                    "app_pkg": "com.meelive.ingkee",
+                    "video_channel": "54",
+                    "mv_radio": "411",
+                    "search_key": "直播"
+                },
+                {
+                    "app_name": "企鹅电竞",
+                    "app_pkg": "com.tencent.qgame",
+                    "video_channel": "54",
+                    "mv_radio": "440,411",
+                    "search_key": "英雄联盟,刺激战场,王者荣耀,游戏"
+                }
+            ]
+        },
+
+        {
+            "category": "音乐",
+            "children": [
+                {
+                    "app_name": "酷狗音乐",
+                    "app_pkg": "com.kugou.android",
+                    "video_channel": "",
+                    "mv_radio": "985",
+                    "search_key": "热门"
+                },
+                {
+                    "app_name": "QQ音乐",
+                    "app_pkg": "com.tencent.qqmusic",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "热门"
+                },
+                {
+                    "app_name": "酷我音乐",
+                    "app_pkg": "cn.kuwo.player",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "热门"
+                },
+                {
+                    "app_name": "网易云音乐",
+                    "app_pkg": "com.netease.cloudmusic",
+                    "video_channel": "87",
+                    "mv_radio": "1060,721",
+                    "search_key": "电音,民谣"
+                },
+                {
+                    "app_name": "虾米音乐",
+                    "app_pkg": "fm.xiami.main",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "热门"
+                },
+                {
+                    "app_name": "全民K歌",
+                    "app_pkg": "com.tencent.karaoke",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "唱歌"
+                },
+                {
+                    "app_name": "唱吧",
+                    "app_pkg": "com.changba",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "唱歌"
+                },
+                {
+                    "app_name": "酷狗唱唱",
+                    "app_pkg": "com.kugou.android.ktvapp",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "唱歌"
+                },
+                {
+                    "app_name": "咪咕音乐",
+                    "app_pkg": "cmccwm.mobilemusic",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "铃声多多",
+                    "app_pkg": "com.shoujiduoduo.ringtone",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "铃声"
+                },
+                {
+                    "app_name": "完美钢琴",
+                    "app_pkg": "com.gamestar.perfectpiano",
+                    "video_channel": "87",
+                    "mv_radio": "",
+                    "search_key": "钢琴"
+                },
+                {
+                    "app_name": "酷狗唱唱",
+                    "app_pkg": "com.kugou.android.ktvapp",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "完美钢琴",
+                    "app_pkg": "com.gamestar.perfectpiano",
+                    "video_channel": "87",
+                    "mv_radio": "",
+                    "search_key": "钢琴"
+                },
+                {
+                    "app_name": "音乐剪辑大师",
+                    "app_pkg": "www.imixiaoyu.com.musiceditor",
+                    "video_channel": "87",
+                    "mv_radio": "",
+                    "search_key": "剪辑"
+                },
+                {
+                    "app_name": "酷狗铃声",
+                    "app_pkg": "com.kugou.android.ringtone",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "铃声"
+                },
+                {
+                    "app_name": "DJ多多",
+                    "app_pkg": "com.shoujiduoduo.dj",
+                    "video_channel": "72",
+                    "mv_radio": "598",
+                    "search_key": "DJ"
+                },
+                {
+                    "app_name": "随身乐队",
+                    "app_pkg": "com.gamestar.pianoperfect",
+                    "video_channel": "87",
+                    "mv_radio": "",
+                    "search_key": "乐队"
+                },
+                {
+                    "app_name": "GuitarTuna",
+                    "app_pkg": "com.ovelin.guitartuna",
+                    "video_channel": "87",
+                    "mv_radio": "",
+                    "search_key": "吉他"
+                },
+                {
+                    "app_name": "古筝",
+                    "app_pkg": "com.meetstudio.app.Zither",
+                    "video_channel": "87",
+                    "mv_radio": "",
+                    "search_key": "古筝"
+                },
+                {
+                    "app_name": "吉他自学",
+                    "app_pkg": "com.hoge.app6857ug38pd",
+                    "video_channel": "87",
+                    "mv_radio": "",
+                    "search_key": "吉他"
+                }
+            ]
+        },
+        {
+            "category": "电台",
+            "children": [
+                {
+                    "app_name": "喜马拉雅",
+                    "app_pkg": "com.ximalaya.ting.android",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "荔枝FM",
+                    "app_pkg": "com.yibasan.lizhifm",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "企鹅FM",
+                    "app_pkg": "com.tencent.fm",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "听书神器",
+                    "app_pkg": "com.mfday.but.persist.hearfun",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "FM手机调频收音机",
+                    "app_pkg": "com.cjtec.fmradio",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "蜻蜓FM",
+                    "app_pkg": "fm.qingting.qtradio",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "得到",
+                    "app_pkg": "com.luojilab.player",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "猫耳FM",
+                    "app_pkg": "cn.missevan",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "豆瓣FM",
+                    "app_pkg": "com.douban.radio",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "一个",
+                    "app_pkg": "one.hh.oneclient",
                     "video_channel": "",
                     "mv_radio": "",
                     "search_key": ""
                 }
             ]
-        }
+        },
+        {
+            "category": "实用工具",
+            "children": [
+                {
+                    "app_name": "UU加速器",
+                    "app_pkg": "com.netease.uu",
+                    "video_channel": "",
+                    "mv_radio": "440",
+                    "search_key": "游戏"
+                },
+                {
+                    "app_name": "遥控精灵",
+                    "app_pkg": "com.tiqiaa.icontrol",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "米家",
+                    "app_pkg": "com.xiaomi.smarthome",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "壁纸精灵",
+                    "app_pkg": "com.xunruifairy.wallpaper",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "壁纸"
+                }
+
+            ]
+        },
+        {
+            "category": "社交通信",
+            "children": [
+                {
+                    "app_name": "QQ",
+                    "app_pkg": "com.tencent.mobileqq",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "微信",
+                    "app_pkg": "com.tencent.mm",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "探探",
+                    "app_pkg": "com.p1.mobile.putong",
+                    "video_channel": "54",
+                    "mv_radio": "411",
+                    "search_key": "单身"
+                },
+                {
+                    "app_name": "陌陌",
+                    "app_pkg": "com.immomo.momo",
+                    "video_channel": "54",
+                    "mv_radio": "411",
+                    "search_key": "单身"
+                },
+                {
+                    "app_name": "小恩爱",
+                    "app_pkg": "com.xiaoenai.app",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "情侣"
+                },
+                {
+                    "app_name": "情侣空间",
+                    "app_pkg": "com.welove520.qqsweet",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "情侣"
+                },
+                {
+                    "app_name": "世纪佳缘",
+                    "app_pkg": "com.jiayuan",
+                    "video_channel": "54",
+                    "mv_radio": "411",
+                    "search_key": "单身,相亲"
+                },
+                {
+                    "app_name": "珍爱网",
+                    "app_pkg": "com.zhenai.android",
+                    "video_channel": "54",
+                    "mv_radio": "411",
+                    "search_key": "单身,相亲"
+                },
+
+            ]
+        },
+        {
+            "category": "社区",
+            "children": [
+                {
+                    "app_name": "微博",
+                    "app_pkg": "com.sina.weibo",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "微博,娱乐圈"
+                },
+                {
+                    "app_name": "微博国际版",
+                    "app_pkg": "com.weico.international",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "微博,娱乐圈"
+                },
+                {
+                    "app_name": "知乎",
+                    "app_pkg": "com.zhihu.android",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "豆瓣",
+                    "app_pkg": "com.douban.frodo",
+                    "video_channel": "40",
+                    "mv_radio": "1006",
+                    "search_key": "豆瓣"
+                },
+                {
+                    "app_name": "贴吧",
+                    "app_pkg": "com.baidu.tieba",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "百度知道",
+                    "app_pkg": "com.baidu.iknow",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "QQ空间",
+                    "app_pkg": "com.qzone",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "QQ空间"
+                },
+                {
+                    "app_name": "即刻",
+                    "app_pkg": "com.ruguoapp.jike",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "脉脉",
+                    "app_pkg": "com.taou.maimai",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "办公"
+                },
+                {
+                    "app_name": "领英",
+                    "app_pkg": "com.linkedin.android",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "简书",
+                    "app_pkg": "com.jianshu.haruki",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "天涯",
+                    "app_pkg": "cn.tianya.light",
+                    "video_channel": "48",
+                    "mv_radio": "507,665",
+                    "search_key": "娱乐圈"
+                },
+                {
+                    "app_name": "CSDN",
+                    "app_pkg": "net.csdn.csdnplus",
+                    "video_channel": "54",
+                    "mv_radio": "",
+                    "search_key": "程序员,加班"
+                },
+                {
+                    "app_name": "小红书",
+                    "app_pkg": "com.xingin.xhs",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "掌上英雄联盟",
+                    "app_pkg": "com.tencent.qt.qtl",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "即刻",
+                    "app_pkg": "com.ruguoapp.jike",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "即刻",
+                    "app_pkg": "com.ruguoapp.jike",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "即刻",
+                    "app_pkg": "com.ruguoapp.jike",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "即刻",
+                    "app_pkg": "com.ruguoapp.jike",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "即刻",
+                    "app_pkg": "com.ruguoapp.jike",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+
+            ]
+        },
+
     ]
 }
 
