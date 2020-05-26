@@ -416,14 +416,14 @@
                     "app_pkg": "com.douban.radio",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
+                    "search_key": "文艺青年"
                 },
                 {
                     "app_name": "一个",
                     "app_pkg": "one.hh.oneclient",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
+                    "search_key": "文艺青年"
                 }
             ]
         },
@@ -552,7 +552,7 @@
                     "app_pkg": "com.douban.frodo",
                     "video_channel": "40",
                     "mv_radio": "1006",
-                    "search_key": "豆瓣"
+                    "search_key": "豆瓣,文艺青年"
                 },
                 {
                     "app_name": "贴吧",
@@ -601,7 +601,7 @@
                     "app_pkg": "com.jianshu.haruki",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
+                    "search_key": "文艺青年"
                 },
                 {
                     "app_name": "天涯",
@@ -629,46 +629,398 @@
                     "app_pkg": "com.tencent.qt.qtl",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
+                    "search_key": "英雄联盟"
                 },
                 {
-                    "app_name": "即刻",
-                    "app_pkg": "com.ruguoapp.jike",
+                    "app_name": "掌上穿越火线",
+                    "app_pkg": "com.tencent.qt.sns",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
+                    "search_key": "穿越火线"
                 },
                 {
-                    "app_name": "即刻",
-                    "app_pkg": "com.ruguoapp.jike",
+                    "app_name": "绝地求生官方",
+                    "app_pkg": "com.tencent.wegame.mangod",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
+                    "search_key": "刺激战场,绝地求生"
                 },
                 {
-                    "app_name": "即刻",
-                    "app_pkg": "com.ruguoapp.jike",
+                    "app_name": "快手小游戏",
+                    "app_pkg": "com.kwai.sogame",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
+                    "search_key": "小游戏"
                 },
                 {
-                    "app_name": "即刻",
-                    "app_pkg": "com.ruguoapp.jike",
+                    "app_name": "LOFTER",
+                    "app_pkg": "com.lofter.android",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
+                    "search_key": "文艺青年"
                 },
                 {
-                    "app_name": "即刻",
-                    "app_pkg": "com.ruguoapp.jike",
+                    "app_name": "爱豆",
+                    "app_pkg": "com.idol.android",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
+                    "search_key": "娱乐圈"
                 },
 
             ]
         },
+        {
+            "category": "图书阅读",
+            "children": [
+                {
+                    "app_name": "懒人听书",
+                    "app_pkg": "bubei.tingshu",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "书旗小说",
+                    "app_pkg": "com.shuqi.controller",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "掌阅",
+                    "app_pkg": "com.chaozh.iReaderFree",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "咪咕阅读",
+                    "app_pkg": "com.ophone.reader.ui",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "微信读书",
+                    "app_pkg": "com.tencent.weread",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "qq阅读",
+                    "app_pkg": "com.qq.reader",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "熊猫看书",
+                    "app_pkg": "com.nd.android.pandareader",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "网易云阅读",
+                    "app_pkg": "com.netease.pris",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "看理想",
+                    "app_pkg": "com.kanlixiang.android",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "起点读书",
+                    "app_pkg": "com.qidian.QDReader",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "17K",
+                    "app_pkg": "com.chineseall.reader",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "红袖读书",
+                    "app_pkg": "com.hongxiu.app",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "手机知网",
+                    "app_pkg": "com.cnki.client",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "快看漫画",
+                    "app_pkg": "com.kuaikan.comic",
+                    "video_channel": "35",
+                    "mv_radio": "418,992",
+                    "search_key": "漫画,动漫"
+                },
+                {
+                    "app_name": "看漫画",
+                    "app_pkg": "com.wbxm.icartoon",
+                    "video_channel": "35",
+                    "mv_radio": "418,992",
+                    "search_key": "漫画,动漫"
+                },
+                {
+                    "app_name": "腾讯动漫",
+                    "app_pkg": "com.qq.ac.android",
+                    "video_channel": "35",
+                    "mv_radio": "418,992",
+                    "search_key": "漫画,动漫"
+                },
+                {
+                    "app_name": "微博动漫",
+                    "app_pkg": "com.weibo.comic",
+                    "video_channel": "35",
+                    "mv_radio": "418,992",
+                    "search_key": "漫画,动漫"
+                },
+                {
+                    "app_name": "句读",
+                    "app_pkg": "tech.caicheng.judourili",
+                    "video_channel": "87",
+                    "mv_radio": "",
+                    "search_key": "文艺青年"
+                },
+                {
+                    "app_name": "豆瓣阅读",
+                    "app_pkg": "com.douban.book.reader",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "文艺青年,悬疑"
+                },
+                {
+                    "app_name": "国家地理",
+                    "app_pkg": "com.bdatu.geography",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "文艺青年,环球旅行"
+                },
+                {
+                    "app_name": "MONO",
+                    "app_pkg": "com.mmmono.mono",
+                    "video_channel": "87",
+                    "mv_radio": "",
+                    "search_key": "文艺青年"
+                },
+                {
+                    "app_name": "时尚志",
+                    "app_pkg": "com.onlylady.www.nativeapp",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "时尚"
+                },
+
+            ]
+        },
+        {
+            "category": "购物",
+            "children": [
+                {
+                    "app_name": "微博",
+                    "app_pkg": "com.sina.weibo",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "微博,娱乐圈"
+                },
+
+            ]
+        },
+
+
+        {
+            "category": "体育运动",
+            "children": [
+                {
+                    "app_name": "虎扑",
+                    "app_pkg": "com.hupu.games",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "篮球,NBA,足球"
+                }
+            ]
+        },
+        {
+            "category": "医疗健康",
+            "children": [
+                {
+                    "app_name": "医学百科",
+                    "app_pkg": "com.wiki8.app",
+                    "video_channel": "96",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "平安好医生",
+                    "app_pkg": "com.pingan.papd",
+                    "video_channel": "96",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "美柚",
+                    "app_pkg": "com.lingan.seeyou",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "大姨妈,女生"
+                },
+                {
+                    "app_name": "宝宝树孕育",
+                    "app_pkg": "com.babytree.apps.pregnancy",
+                    "video_channel": "",
+                    "mv_radio": "835,888,988",
+                    "search_key": "宝宝,宝妈,宝爸,幼儿,儿童"
+                },
+                {
+                    "app_name": "妈妈帮",
+                    "app_pkg": "cim.yaya.mmbang",
+                    "video_channel": "",
+                    "mv_radio": "835,888,988",
+                    "search_key": "宝宝,宝妈,宝爸,幼儿,儿童"
+                },
+                {
+                    "app_name": "大姨妈",
+                    "app_pkg": "com.yoloho.dayima",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "大姨妈,女生"
+                },
+                {
+                    "app_name": "妈妈网孕育",
+                    "app_pkg": "cn.mama.pregnant",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "亲宝宝",
+                    "app_pkg": "com.dw.btime",
+                    "video_channel": "",
+                    "mv_radio": "835,888,988",
+                    "search_key": "宝宝,宝妈,宝爸,幼儿,儿童"
+                }
+
+            ]
+        },
+        {
+            "category": "效率办公",
+            "children": [
+                {
+                    "app_name": "安心记加班",
+                    "app_pkg": "com.julanling.app",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "励志,办公"
+                },
+                {
+                    "app_name": "有道云笔记",
+                    "app_pkg": "com.youdao.note",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "励志,办公"
+                },
+                {
+                    "app_name": "脉脉",
+                    "app_pkg": "com.taou.maimai",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "励志,办公,求职,找工作"
+                },
+                {
+                    "app_name": "名片全能王",
+                    "app_pkg": "com.intsig.BizCardReader",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "办公"
+                },
+                {
+                    "app_name": "WPS Office",
+                    "app_pkg": "cn.wps.moffice_eng",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "办公"
+                },
+                {
+                    "app_name": "企业微信",
+                    "app_pkg": "com.tencent.wework",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "办公,企业"
+                },
+                {
+                    "app_name": "钉钉",
+                    "app_pkg": "com.alibaba.android.rimet",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "办公,企业"
+                },
+                {
+                    "app_name": "扫描全能王",
+                    "app_pkg": "com.intsig.camscanner",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "办公,企业"
+                },
+                {
+                    "app_name": "青柠手帐",
+                    "app_pkg": "com.biku.diary",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "文艺青年"
+                },
+                {
+                    "app_name": "天眼查企业查询",
+                    "app_pkg": "com.tianyancha.skyeye",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "办公,企业"
+                },
+                {
+                    "app_name": "倒数日",
+                    "app_pkg": "com.clover.daysmatter",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "思维导图",
+                    "app_pkg": "czh.mindnode",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "印象笔记",
+                    "app_pkg": "com.yinxiang",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "办公"
+                },
+                {
+                    "app_name": "讯飞语记",
+                    "app_pkg": "com.iflytek.vflynote",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "办公"
+                }
+            ]
+        }
 
     ]
 }
