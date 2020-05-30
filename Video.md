@@ -587,7 +587,7 @@
                     "app_pkg": "com.taou.maimai",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "办公"
+                    "search_key": "办公,上班族"
                 },
                 {
                     "app_name": "领英",
@@ -833,13 +833,625 @@
             "category": "购物",
             "children": [
                 {
-                    "app_name": "微博",
-                    "app_pkg": "com.sina.weibo",
+                    "app_name": "拼多多",
+                    "app_pkg": "com.xunmeng.pinduoduo",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "微博,娱乐圈"
+                    "search_key": "超市"
                 },
+                {
+                    "app_name": "京东",
+                    "app_pkg": "com.jingdong.app.mall",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "超市"
+                },
+                {
+                    "app_name": "淘宝",
+                    "app_pkg": "com.taobao.taobao",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "超市"
+                },
+                {
+                    "app_name": "天猫",
+                    "app_pkg": "com.tmall.wireless",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "超市"
+                },
+                {
+                    "app_name": "闲鱼",
+                    "app_pkg": "com.taobao.idlefish",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "闲置"
+                },
+                {
+                    "app_name": "当当",
+                    "app_pkg": "com.dangdang.buy2",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "阿里巴巴",
+                    "app_pkg": "com.alibaba.wireless",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "转转",
+                    "app_pkg": "com.wuba.zhuanzhuan",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "闲置"
+                },
+                {
+                    "app_name": "唯品会",
+                    "app_pkg": "com.achievo.vipshop",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "苏宁易购",
+                    "app_pkg": "com.suning.mobile.ebuy",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "小米有品",
+                    "app_pkg": "com.xiaomi.youpin",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "雷军"
+                },
+                {
+                    "app_name": "蘑菇街",
+                    "app_pkg": "com.mogujie",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "服装"
+                },
+                {
+                    "app_name": "每日优鲜",
+                    "app_pkg": "cn.missfresh.application",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "网易严选",
+                    "app_pkg": "com.netease.yanxuan",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "聚美优品",
+                    "app_pkg": "com.jm.android.jumei",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "识货",
+                    "app_pkg": "com.hupu.shihuo",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "NBA,足球"
+                },
+                {
+                    "app_name": "网易考拉",
+                    "app_pkg": "com.kaola",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "亚马逊",
+                    "app_pkg": "cn.amazon.mShop.android",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "省钱快报",
+                    "app_pkg": "com.jzyd.coupon",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "花生日记",
+                    "app_pkg": "com.jf.lkrj",
+                    "video_channel": "",
+                    "mv_radio": "419,835",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "返利",
+                    "app_pkg": "com.fanli.android.apps",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "小米省钱购",
+                    "app_pkg": "com.xiaomi.o2o",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "什么值得买",
+                    "app_pkg": "com.smzdm.client.android",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "毒",
+                    "app_pkg": "com.shizhuang.duapp",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "NBA,足球"
+                },
+                {
+                    "app_name": "百度糯米",
+                    "app_pkg": "com.nuomi",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "口碑",
+                    "app_pkg": "com.taobao.mobile.dipei",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                }
+            ]
+        },
+        {
+            "category": "摄影摄像",
+            "children": [
+                {
+                    "app_name": "天天P图",
+                    "app_pkg": "com.tencent.ttpic",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "女生,女性,P图"
+                },
+                {
+                    "app_name": "最美证件照",
+                    "app_pkg": "us.pinguo.idcamera",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "黄油相机",
+                    "app_pkg": "com.by.butter.camera",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "女生,女性"
+                },
+                {
+                    "app_name": "微商水印相机",
+                    "app_pkg": "com.dingYZ.dingyzwater",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "小妖精美化",
+                    "app_pkg": "com.xyjmh.classic",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "女生,女性,P图"
+                },
+                {
+                    "app_name": "美妆相机",
+                    "app_pkg": "com.meitu.makeup",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "女生,女性"
+                },
+                {
+                    "app_name": "小精灵美化",
+                    "app_pkg": "com.android.nineton.elfinapp",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "女生,女性,P图"
+                },
+                {
+                    "app_name": "简拼",
+                    "app_pkg": "cn.poco.jane",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "图片编辑器",
+                    "app_pkg": "kx.photo.editor.effect",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "剪辑,P图"
+                },
+                {
+                    "app_name": "Faceu激萌",
+                    "app_pkg": "com.lemon.faceu",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "女生,女性"
+                },
+                {
+                    "app_name": "美图秀秀",
+                    "app_pkg": "com.mt.mtxx.mtxx",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "女生,女性,P图,美颜"
+                },
+                {
+                    "app_name": "B612咔叽",
+                    "app_pkg": "com.campmobile.snowcamera",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "女生,女性"
+                },
+                {
+                    "app_name": "美颜相机",
+                    "app_pkg": "com.meitu.meiyancamera",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "女生,女性,美颜"
+                },
+                {
+                    "app_name": "轻颜相机",
+                    "app_pkg": "com.gorgeous.lite",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "滤镜,美颜"
+                },
+                {
+                    "app_name": "无他相机",
+                    "app_pkg": "com.benqu.wuta",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "水印相机",
+                    "app_pkg": "com.tencent.zebra",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "PicsArt美易照片编辑",
+                    "app_pkg": "com.picsart.studio",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "女生,女性,P图"
+                },
+                {
+                    "app_name": "快影",
+                    "app_pkg": "com.kwai.videoeditor",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "剪辑"
+                },
+                {
+                    "app_name": "MIX",
+                    "app_pkg": "com.pinguo.edit.sdk",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "滤镜"
+                },
+                {
+                    "app_name": "Foodie",
+                    "app_pkg": "com.linecorp.foodcamcn.android",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "美食"
+                },
+                {
+                    "app_name": "潮自拍",
+                    "app_pkg": "com.meitu.wheecam",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "自拍"
+                },
+                {
+                    "app_name": "足记",
+                    "app_pkg": "cc.fotoplace.app",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "摄影,创意,文艺青年"
+                },
+                {
+                    "app_name": "动感相册",
+                    "app_pkg": "cn.yiqi.photo",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "相册"
+                },
+                {
+                    "app_name": "相册管家",
+                    "app_pkg": "com.tencent.gallerymanager",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "相册"
+                },
+                {
+                    "app_name": "魔力相册",
+                    "app_pkg": "com.xingluo.mpa",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "相册"
+                },
+                {
+                    "app_name": "InShot-视频编辑",
+                    "app_pkg": "com.camerasideas.instashot",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "剪辑,摄影"
+                },
+                {
+                    "app_name": "VUE Vlog",
+                    "app_pkg": "video.vue.android",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "摄影,创意,文艺青年"
+                },
+                {
+                    "app_name": "快剪辑",
+                    "app_pkg": "com.qihoo.qeditor",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "摄影,剪辑"
+                },
+                {
+                    "app_name": "小影",
+                    "app_pkg": "com.quvideo.xiaoying",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "美拍",
+                    "app_pkg": "com.meitu.meipaimv",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "女生,女性"
+                },
+                {
+                    "app_name": "逗拍",
+                    "app_pkg": "com.dou_pai.DouPai",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "拍摄"
+                },
+                {
+                    "app_name": "乐秀视频剪辑器",
+                    "app_pkg": "com.xvideostudio.videoeditor",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "剪辑"
+                },
+                {
+                    "app_name": "简影",
+                    "app_pkg": "com.android.jianying",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "趣推",
+                    "app_pkg": "com.qutui360.app",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "剪辑"
+                },
+                {
+                    "app_name": "彩视",
+                    "app_pkg": "cn.colorv",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": ""
+                },
+                {
+                    "app_name": "Snapseed",
+                    "app_pkg": "com.niksoftware.snapseed",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "剪辑"
+                },
+                {
+                    "app_name": "Quik",
+                    "app_pkg": "com.stupeflix.replay",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "剪辑"
+                },
+                {
+                    "app_name": "稿定设计/天天向商",
+                    "app_pkg": "com.hlg.daydaytobusiness",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "剪辑"
+                }
+            ]
+        },
 
+        {
+            "category": "学习教育",
+            "children": [
+                {
+                    "app_name": "百词斩",
+                    "app_pkg": "com.jiongji.andriod.card",
+                    "video_channel": "39",
+                    "mv_radio": "406",
+                    "search_key": "英语,英文,单词"
+                },
+                {
+                    "app_name": "百度翻译",
+                    "app_pkg": "com.baidu.baidutranslate",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "英文,翻译"
+                },
+                {
+                    "app_name": "英语流利说",
+                    "app_pkg": "com.liulishuo.engzo",
+                    "video_channel": "39",
+                    "mv_radio": "406",
+                    "search_key": "口语,英语"
+                },
+                {
+                    "app_name": "有道翻译官",
+                    "app_pkg": "com.youdao.translator",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "英文,翻译"
+                },
+                {
+                    "app_name": "金山词霸",
+                    "app_pkg": "com.kingsoft",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "英文,翻译"
+                },
+                {
+                    "app_name": "网易有道词典",
+                    "app_pkg": "com.youdao.dict",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "英文,翻译,口语"
+                },
+                {
+                    "app_name": "腾讯翻译官",
+                    "app_pkg": "com.qb.qtanslator",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "英文,翻译,口语"
+                },
+                {
+                    "app_name": "新华字典",
+                    "app_pkg": "cn.dictcn.android.digitize.swg_xhzd_21003",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "校园,学校"
+                },
+                {
+                    "app_name": "驾校一点通",
+                    "app_pkg": "com.jxedt",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "驾校,买车"
+                },
+                {
+                    "app_name": "驾考宝典",
+                    "app_pkg": "com.handsgo.jiakao.android",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "驾校,买车"
+                },
+                {
+                    "app_name": "智学网",
+                    "app_pkg": "com.iflytek.elpmobile.smartlearning",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "课堂,学校,校园"
+                },
+                {
+                    "app_name": "好分数",
+                    "app_pkg": "com.yunxiao.haofenshu",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "学霸,课堂"
+                },
+                {
+                    "app_name": "深蓝法考",
+                    "app_pkg": "com.neoteched.shenlancity",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "办公,法律"
+                },
+                {
+                    "app_name": "学霸君",
+                    "app_pkg": "com.wenba.bangbang",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "学霸,课堂,学校"
+                },
+                {
+                    "app_name": "懒人作业答案",
+                    "app_pkg": "com.shengxue.lazyhomework",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "课堂,学校,校园"
+                },
+                {
+                    "app_name": "考研帮",
+                    "app_pkg": "com.tal.kaoyan",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "考研,校园,学习"
+                },
+                {
+                    "app_name": "中公教育",
+                    "app_pkg": "com.offcn.android.offcn",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "学霸,公务员"
+                },
+                {
+                    "app_name": "华图在线",
+                    "app_pkg": "com.huatu.handheld_huatu",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "学霸,公务员"
+                },
+                {
+                    "app_name": "软考真题",
+                    "app_pkg": "com.doquestion",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "学霸,科技,互联网"
+                },
+                {
+                    "app_name": "家长帮",
+                    "app_pkg": "com.eduu.bang",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "家长,教育"
+                },
+                {
+                    "app_name": "作业帮",
+                    "app_pkg": "com.baidu.homework",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "学霸,作业,教育"
+                },
+                {
+                    "app_name": "学习强国",
+                    "app_pkg": "cn.xuexi.android",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "办公,上班族"
+                },
+                {
+                    "app_name": "小猿搜题",
+                    "app_pkg": "com.fenbi.android.solar",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "作业,教育"
+                }
             ]
         },
 
@@ -854,187 +1466,188 @@
                     "search_key": "民宿"
                 },
                 {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
+                    "app_name": "携程",
+                    "app_pkg": "ctrip.android.view",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "度假"
+                },
+                {
+                    "app_name": "出发吧",
+                    "app_pkg": "com.jianlv.chufaba",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "度假"
+                },
+                {
+                    "app_name": "马蜂窝",
+                    "app_pkg": "com.mfw.roadbook",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "度假"
+                },
+                {
+                    "app_name": "掌上公交",
+                    "app_pkg": "com.mygolbs.mybus",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "上班族,地铁"
+                },
+                {
+                    "app_name": "高铁管家",
+                    "app_pkg": "com.gtgj.view",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "高铁,上班族"
+                },
+                {
+                    "app_name": "艺龙旅行",
+                    "app_pkg": "com.dp.android.elong",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "度假"
+                },
+                {
+                    "app_name": "华住会",
+                    "app_pkg": "com.htinns",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "度假,办公,上班族"
+                },
+                {
+                    "app_name": "百度地图",
+                    "app_pkg": "com.baidu.BaiduMap",
                     "video_channel": "",
                     "mv_radio": "",
                     "search_key": ""
                 },
                 {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
+                    "app_name": "高德地图",
+                    "app_pkg": "com.autonavi.minimap",
                     "video_channel": "",
                     "mv_radio": "",
                     "search_key": ""
                 },
                 {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
+                    "app_name": "驴妈妈旅游",
+                    "app_pkg": "com.gift.android",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "旅游,度假"
+                },
+                {
+
+                    "app_name": "交警12123",
+                    "app_pkg": "com.tmri.app.main",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "汽车"
+                },
+                {
+                    "app_name": "铁路12306",
+                    "app_pkg": "com.MobileTicket",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "火车"
+                },
+                {
+                    "app_name": "滴滴出行",
+                    "app_pkg": "com.sdu.didi.psnger",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "出租车,打车"
+                },
+                {
+                    "app_name": "去哪儿旅行",
+                    "app_pkg": "com.Qunar",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "度假"
+                },
+                {
+                    "app_name": "飞猪",
+                    "app_pkg": "com.taobao.trip",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "度假"
+                },
+                {
+                    "app_name": "腾讯地图",
+                    "app_pkg": "com.tencent.map",
                     "video_channel": "",
                     "mv_radio": "",
                     "search_key": ""
                 },
                 {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
+                    "app_name": "智行火车票",
+                    "app_pkg": "com.yipiao",
                     "video_channel": "",
                     "mv_radio": "",
                     "search_key": ""
                 },
                 {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
+                    "app_name": "爱彼迎Airbnb",
+                    "app_pkg": "com.airbnb.android",
+                    "video_channel": "",
+                    "mv_radio": "",
+                    "search_key": "民宿,度假"
+                },
+                {
+                    "app_name": "滴滴车主",
+                    "app_pkg": "com.sdu.didi.gsui",
                     "video_channel": "",
                     "mv_radio": "",
                     "search_key": ""
                 },
                 {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
+                    "app_name": "摩拜单车",
+                    "app_pkg": "com.mobike.mobikeapp",
                     "video_channel": "",
                     "mv_radio": "",
                     "search_key": ""
                 },
                 {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
+                    "app_name": "航旅纵横",
+                    "app_pkg": "com.umetrip.android.msky.app",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
+                    "search_key": "度假,上班族,飞机"
                 },
                 {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
+                    "app_name": "一嗨租车",
+                    "app_pkg": "com.ehai",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
+                    "search_key": "租车"
                 },
                 {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
+                    "app_name": "车轮违章查询",
+                    "app_pkg": "cn.eclicks.wzsearch",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
+                    "search_key": "汽车"
                 },
                 {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
+                    "app_name": "神州租车",
+                    "app_pkg": "com.szzc",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
+                    "search_key": "租车"
                 },
                 {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
+                    "app_name": "嘀嗒出行",
+                    "app_pkg": "com.didapinche.booking",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
+                    "search_key": "出租车,打车"
                 },
                 {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
+                    "app_name": "车来了",
+                    "app_pkg": "com.ygkj.chelaile.standroid",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": ""
-                },
-                {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
-                    "video_channel": "",
-                    "mv_radio": "",
-                    "search_key": ""
-                },
-                {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
-                    "video_channel": "",
-                    "mv_radio": "",
-                    "search_key": ""
-                },
-                {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
-                    "video_channel": "",
-                    "mv_radio": "",
-                    "search_key": ""
-                },
-                {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
-                    "video_channel": "",
-                    "mv_radio": "",
-                    "search_key": ""
-                },
-                {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
-                    "video_channel": "",
-                    "mv_radio": "",
-                    "search_key": ""
-                },
-                {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
-                    "video_channel": "",
-                    "mv_radio": "",
-                    "search_key": ""
-                },
-                {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
-                    "video_channel": "",
-                    "mv_radio": "",
-                    "search_key": ""
-                },
-                {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
-                    "video_channel": "",
-                    "mv_radio": "",
-                    "search_key": ""
-                },
-                {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
-                    "video_channel": "",
-                    "mv_radio": "",
-                    "search_key": ""
-                },
-                {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
-                    "video_channel": "",
-                    "mv_radio": "",
-                    "search_key": ""
-                },
-                {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
-                    "video_channel": "",
-                    "mv_radio": "",
-                    "search_key": ""
-                },
-                {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
-                    "video_channel": "",
-                    "mv_radio": "",
-                    "search_key": ""
-                },
-                {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
-                    "video_channel": "",
-                    "mv_radio": "",
-                    "search_key": ""
-                },
-                {
-                    "app_name": "Booking",
-                    "app_pkg": "com.booking",
-                    "video_channel": "",
-                    "mv_radio": "",
-                    "search_key": ""
-                },
+                    "search_key": "地铁,上班族"
+                }
 
             ]
         },
@@ -1278,21 +1891,21 @@
                     "app_pkg": "com.ruanmei.ithome",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "程序员,互联网,科技,工作,办公"
+                    "search_key": "程序员,互联网,科技,工作,办公,上班族"
                 },
                 {
                     "app_name": "掘金",
                     "app_pkg": "com.daimajia.gold",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "程序员,互联网,科技,工作,办公"
+                    "search_key": "程序员,互联网,科技,工作,办公,上班族"
                 },
                 {
                     "app_name": "推酷",
                     "app_pkg": "com.tuicool.activity",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "程序员,互联网,科技,工作,办公"
+                    "search_key": "程序员,互联网,科技,工作,办公,上班族"
                 },
                 {
                     "app_name": "军事武器",
@@ -1334,7 +1947,7 @@
                     "app_pkg": "com.anjuke.android.app",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "工作,办公,买房,安家"
+                    "search_key": "工作,办公,上班族,买房,安家"
                 },
                 {
                     "app_name": "瓜子二手车",
@@ -1383,7 +1996,7 @@
                     "app_pkg": "com.homelink.android",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "工作,办公,买房"
+                    "search_key": "工作,办公,上班族,买房"
                 },
                 {
                     "app_name": "猫眼",
@@ -1439,28 +2052,28 @@
                     "app_pkg": "com.to8to.housekeeper",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "工作,办公,买房,装修"
+                    "search_key": "工作,办公,上班族,买房,装修"
                 },
                 {
                     "app_name": "贝壳找房",
                     "app_pkg": "com.lianjia.beike",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "工作,办公,租房"
+                    "search_key": "工作,办公,上班族,租房"
                 },
                 {
                     "app_name": "自如",
                     "app_pkg": "com.ziroom.ziroomcustomer",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "工作,办公,租房"
+                    "search_key": "工作,办公,上班族,租房"
                 },
                 {
                     "app_name": "房天下",
                     "app_pkg": "com.soufun.app",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "工作,办公,买房"
+                    "search_key": "工作,办公,上班族,买房"
                 }
 
             ]
@@ -1641,56 +2254,56 @@
                     "app_pkg": "com.julanling.app",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "励志,办公"
+                    "search_key": "励志,办公,上班族"
                 },
                 {
                     "app_name": "有道云笔记",
                     "app_pkg": "com.youdao.note",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "励志,办公"
+                    "search_key": "励志,办公,上班族"
                 },
                 {
                     "app_name": "脉脉",
                     "app_pkg": "com.taou.maimai",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "励志,办公,求职,找工作"
+                    "search_key": "励志,办公,上班族,求职,找工作"
                 },
                 {
                     "app_name": "名片全能王",
                     "app_pkg": "com.intsig.BizCardReader",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "办公"
+                    "search_key": "办公,上班族"
                 },
                 {
                     "app_name": "WPS Office",
                     "app_pkg": "cn.wps.moffice_eng",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "办公"
+                    "search_key": "办公,上班族"
                 },
                 {
                     "app_name": "企业微信",
                     "app_pkg": "com.tencent.wework",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "办公,企业"
+                    "search_key": "办公,上班族,企业"
                 },
                 {
                     "app_name": "钉钉",
                     "app_pkg": "com.alibaba.android.rimet",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "办公,企业"
+                    "search_key": "办公,上班族,企业"
                 },
                 {
                     "app_name": "扫描全能王",
                     "app_pkg": "com.intsig.camscanner",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "办公,企业"
+                    "search_key": "办公,上班族,企业"
                 },
                 {
                     "app_name": "青柠手帐",
@@ -1704,7 +2317,7 @@
                     "app_pkg": "com.tianyancha.skyeye",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "办公,企业"
+                    "search_key": "办公,上班族,企业"
                 },
                 {
                     "app_name": "倒数日",
@@ -1725,14 +2338,14 @@
                     "app_pkg": "com.yinxiang",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "办公"
+                    "search_key": "办公,上班族"
                 },
                 {
                     "app_name": "讯飞语记",
                     "app_pkg": "com.iflytek.vflynote",
                     "video_channel": "",
                     "mv_radio": "",
-                    "search_key": "办公"
+                    "search_key": "办公,上班族"
                 }
             ]
         }
