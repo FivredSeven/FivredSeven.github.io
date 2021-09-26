@@ -1,6 +1,7 @@
 # FivredSeven.github.io
 57's blog
     
+push失败测试
         
 ## 简单分析Android应用各类别前五名的app内部存储文件        
 ### 视频TOP5 （抖音、爱奇艺、腾讯视频、优酷、哔哩哔哩）
