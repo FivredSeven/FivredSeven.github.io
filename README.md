@@ -31,6 +31,19 @@
 * [Crash白名单：Crash整治大杀器，一招终结ROM BUG与疑难杂症](https://juejin.cn/post/6844903940031512589)
 ***********************************************************************************************************************************************
 
+## Flutter
+* [Flutter中文社区](https://flutterchina.club/)
+* [Flutter实现图片缓存到本地](https://www.cnblogs.com/dikeboy/p/10201013.html)
+* [复杂业务如何保证Flutter的高性能高流畅度](https://www.jianshu.com/p/00448159dd78)
+* [Flutter性能检测与优化](https://segmentfault.com/a/1190000022184728/)
+* [Flutter性能优化tips](https://blog.csdn.net/weixin_33755554/article/details/88001556)
+* [Flutter之禅-内存优化篇](https://www.jianshu.com/p/9ff7a9a5dfec)
+* [Flutter性能检测工具Observatory使用指南](https://blog.csdn.net/anymyna/article/details/104597988)
+* [Flutter瘦内存瘦包之图片渲染组件](https://blog.csdn.net/taobaojishu/article/details/99830541)
+* [从原生到黑科技：闲鱼Flutter图片优化经历了什么](https://segmentfault.com/a/1190000022381688?utm_source=tag-newest)
+* [Flutter性能优化之局部刷新](https://www.jianshu.com/p/23a2e8a96a79)
+
+
 ## 其他资料整理
 ### 产品
 * [想要做好产品变现，你需要知道这些](https://mp.weixin.qq.com/s/WecHJ8DK6ey-5vaBxfml8A)
@@ -42,3 +55,9 @@
 
 ### 鸡汤
 * [张一鸣：10年面试2000人，混得好的有同一特质](https://mp.weixin.qq.com/s/WfYiwMVbBxq3vAeiUSsXRw)
+
+### 投放
+* [信息流广告-赵阳SEM博客](http://www.mysemlife.com/category/xinxiliuguanggao)
+
+### sth interest
+* [万能的工具箱](http://www.atoolbox.net/)
