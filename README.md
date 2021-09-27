@@ -33,6 +33,10 @@
 * [Context.startForegroundService() did not then call Service.startForeground？](https://blog.csdn.net/sinat_20059415/article/details/80584487)
 * [Crash白名单：Crash整治大杀器，一招终结ROM BUG与疑难杂症](https://juejin.cn/post/6844903940031512589)
 
+### 安全
+* [最全Android安全检测漏洞解决方案](https://blog.csdn.net/weixin_40798907/article/details/114579028)
+* [Android常见安全风险及规避措施](https://www.jianshu.com/p/774b401e904e)
+
 ### 其他
 * [应用保活终极总结及相关文章](http://www.52im.net/thread-1135-1-1.html)
 * [Notification Material Design](https://material.io/design/platform-guidance/android-notifications.html#usage)
@@ -70,3 +74,4 @@ ___
 
 ### sth interest
 * [万能的工具箱](http://www.atoolbox.net/)
+* [早知道这些API，我就可以不用到处爬数据了](https://cloud.tencent.com/developer/article/1628034?from=information.detail.%E6%96%B0%E9%97%BBapi)
