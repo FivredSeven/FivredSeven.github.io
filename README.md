@@ -21,6 +21,16 @@
 ### 面试通用
 * [精选Android中高级面试](https://mp.weixin.qq.com/s?__biz=Mzg2MTYzNzM5OA==&mid=2247509944&idx=1&sn=462a03fdf43684d371f5b66d7ed1d2a9&source=41#wechat_redirect)
 
+### 异常处理
+* [app:mergeDubugResources FAILED](https://blog.csdn.net/runner__1/article/details/53482565)
+* [处理manifest merge failed错误](https://www.mls-tech.info/app/android/android-manifest-merger-failed/)
+* [indexing paused due to batch update错误的解决办法](https://blog.csdn.net/ahubenkui/article/details/95974115)
+* [各种编译和crash异常小合集](https://blog.csdn.net/shijianduan1/article/details/81741592)
+* [manifest文件合并时出现no value for xxx is provided](https://blog.csdn.net/weixin_40750371/article/details/93630375)
+* [Context.startForegroundService() did not then call Service.startForeground？](https://blog.csdn.net/sinat_20059415/article/details/80584487)
+* [Crash白名单：Crash整治大杀器，一招终结ROM BUG与疑难杂症](https://juejin.cn/post/6844903940031512589)
+***********************************************************************************************************************************************
+
 ## 其他资料整理
 ### 产品
 * [想要做好产品变现，你需要知道这些](https://mp.weixin.qq.com/s/WecHJ8DK6ey-5vaBxfml8A)
