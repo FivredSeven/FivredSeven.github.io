@@ -18,6 +18,9 @@
 ### 数据结构
 * [漫画：什么是红黑树](https://mp.weixin.qq.com/s/WH3qGFDiEaWawq02iUPTfA)
 
+### 插件化
+* [android插件化动态加载apk包](https://blog.csdn.net/u012898654/article/details/80341403)
+
 ### 面试通用
 * [精选Android中高级面试](https://mp.weixin.qq.com/s?__biz=Mzg2MTYzNzM5OA==&mid=2247509944&idx=1&sn=462a03fdf43684d371f5b66d7ed1d2a9&source=41#wechat_redirect)
 
@@ -29,7 +32,13 @@
 * [manifest文件合并时出现no value for xxx is provided](https://blog.csdn.net/weixin_40750371/article/details/93630375)
 * [Context.startForegroundService() did not then call Service.startForeground？](https://blog.csdn.net/sinat_20059415/article/details/80584487)
 * [Crash白名单：Crash整治大杀器，一招终结ROM BUG与疑难杂症](https://juejin.cn/post/6844903940031512589)
-***********************************************************************************************************************************************
+
+### 其他
+* [应用保活终极总结及相关文章](http://www.52im.net/thread-1135-1-1.html)
+* [Notification Material Design](https://material.io/design/platform-guidance/android-notifications.html#usage)
+
+___
+
 
 ## Flutter
 * [Flutter中文社区](https://flutterchina.club/)
