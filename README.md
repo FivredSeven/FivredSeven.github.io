@@ -18,6 +18,8 @@
 * [AMS源码分析(二)onActivityResult执行过程](https://mp.weixin.qq.com/s/CLwO9boz2PX8wmP7XgAxOg)
 * [AMS源码分析(三)AMS中Activity栈管理详解](https://mp.weixin.qq.com/s/f5y_uOic3mcbkAJyW2oeEA)
 * [Android操作系统启动流程概览](https://mp.weixin.qq.com/s/mjjkIQtITEAM7FAxJVKnGw)
+* [全网最详细的Activity启动流程（Android10）](https://mp.weixin.qq.com/s/TO1mca24d7xTAnk0qOfq0g)
+* [老板说：App启动必须加速35%！](https://mp.weixin.qq.com/s/GZl6L1zDWlf-oW41ps6USA)
 
 ### 性能优化
 * [一波深入的Android 性能优化总结！](https://juejin.cn/post/6973564044351373326)
@@ -37,6 +39,10 @@
 * [Android性能优化之APK瘦身详解(瘦身73%)](https://mp.weixin.qq.com/s/AMW8O7gZQCTLU3qT6lZETQ)
 * [手写解析微信Matrix性能监控日志的工具](https://mp.weixin.qq.com/s/RyWiIJPbyYiz2QtlnZrU3Q)
 * [性能优化之合并多个FileProvider](https://mp.weixin.qq.com/s/WADpEcRzvnNWqbtyRJxjUw)
+* [Android Studio性能检测工具分析](https://mp.weixin.qq.com/s/XGu6GBmtCe5YEx1ml0x0Kw)
+* [深入探索Android包瘦身（上）](https://mp.weixin.qq.com/s/4sA0gJGS3H1zD0eBYZB0Qw)
+* [深入探索Android包瘦身（中）](https://mp.weixin.qq.com/s/mUZqvj1mdJdbZQlap4hwRQ)
+* [深入探索Android包瘦身（下）](https://mp.weixin.qq.com/s/IVwhWv7p-Unt4aNxdVX-Ug)
 
 ### 控件
 * [聊聊RecyclerView缓存机制](https://mp.weixin.qq.com/s/GKl9MuH8ZLw-vpfpah_m-g)
@@ -83,9 +89,13 @@
 ### JAVA基础
 * [Synchronized 同步方法的八种使用场景](https://mp.weixin.qq.com/s/W7j8mfYhg-5VEujeKdTYtg)
 * [Java 中关于 try、catch、finally 中的细节分析](https://mp.weixin.qq.com/s/x2_EdSGAy_K4SeXvHRUduw)
+* [Java垃圾回收](https://mp.weixin.qq.com/s/tP9SrbFupER8roij1O0HbA)
 
 ### 网络
 * [一步步带你读懂 Okhttp 源码](https://mp.weixin.qq.com/s/xtvBnD8RQqwx8hN7_z-fnQ)
+
+### 进程
+* [3分钟图解 Android 进程间通讯](https://mp.weixin.qq.com/s/n7zNMZRrHt6mTrKaNBlcQA)
 
 ### 其他
 * [应用保活终极总结及相关文章](http://www.52im.net/thread-1135-1-1.html)
@@ -94,6 +104,7 @@
 * [Android简单实用的MVP框架](https://mp.weixin.qq.com/s/YYxC9jNxsRBoI_LRBWO2dg)
 * [Android-Fragment总结](https://mp.weixin.qq.com/s/BJBad-V0c_sZwuusAiuhtw)
 * [从最简单的Android MVP讲起](https://mp.weixin.qq.com/s/jTjCoTBg2oUA0dC0oCEiKA)
+
 
 ___
 
