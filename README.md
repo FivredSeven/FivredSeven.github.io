@@ -17,6 +17,7 @@
 * [AMS系列之生命周期管理](https://mp.weixin.qq.com/s/VS5UPjl9N5SNqSlGqSzcjA)
 * [AMS源码分析(二)onActivityResult执行过程](https://mp.weixin.qq.com/s/CLwO9boz2PX8wmP7XgAxOg)
 * [AMS源码分析(三)AMS中Activity栈管理详解](https://mp.weixin.qq.com/s/f5y_uOic3mcbkAJyW2oeEA)
+* [Android操作系统启动流程概览](https://mp.weixin.qq.com/s/mjjkIQtITEAM7FAxJVKnGw)
 
 ### 性能优化
 * [一波深入的Android 性能优化总结！](https://juejin.cn/post/6973564044351373326)
@@ -34,9 +35,13 @@
 * [西瓜卡顿 & ANR 优化治理及监控体系建设](https://mp.weixin.qq.com/s/2sjG5qkrUNQsI0jEsnh4kQ)
 * [内存优化基础知识](https://mp.weixin.qq.com/s/EnBt4p2cmQ3ZSNpByrKcXg)
 * [Android性能优化之APK瘦身详解(瘦身73%)](https://mp.weixin.qq.com/s/AMW8O7gZQCTLU3qT6lZETQ)
+* [手写解析微信Matrix性能监控日志的工具](https://mp.weixin.qq.com/s/RyWiIJPbyYiz2QtlnZrU3Q)
+* [性能优化之合并多个FileProvider](https://mp.weixin.qq.com/s/WADpEcRzvnNWqbtyRJxjUw)
 
 ### 控件
 * [聊聊RecyclerView缓存机制](https://mp.weixin.qq.com/s/GKl9MuH8ZLw-vpfpah_m-g)
+* [ViewPager懒加载极致优化](https://mp.weixin.qq.com/s/EUVvTN3sHOcDyn6kmOgJmQ)
+* [View 事件分发机制，看这一篇就够了](https://mp.weixin.qq.com/s/GU7qwuuE2b4dLUws0n3kFQ)
 
 ### 编译
 * [Android Gradle基础入门](https://www.jianshu.com/p/e26236943dd6)
@@ -49,12 +54,16 @@
 
 ### 插件化
 * [android插件化动态加载apk包](https://blog.csdn.net/u012898654/article/details/80341403)
+* [插件化框架Virtual APK实现原理解析](https://mp.weixin.qq.com/s/0wk8J8BonD7OwSfUB-Xu1A)
 
 ### 面试
 * [精选Android中高级面试](https://mp.weixin.qq.com/s?__biz=Mzg2MTYzNzM5OA==&mid=2247509944&idx=1&sn=462a03fdf43684d371f5b66d7ed1d2a9&source=41#wechat_redirect)
 * [一个老Android的面试总结](https://mp.weixin.qq.com/s/cBAPWRglcLYQ_Ep6C43kCw)
 * [Android面试经验-OPPO](https://mp.weixin.qq.com/s/V-0NychSIbx-dmtnSWBKkQ)
 * [Android面试之Java基础](https://mp.weixin.qq.com/s/P6eQDcB9_wlbPBpcKvSncA)
+* [Android-Flutter面经](https://mp.weixin.qq.com/s/zKSSrefSqNT94YslYa8WFg)
+* [Android面试必备：System、App、Activity启动过程](https://mp.weixin.qq.com/s/U2je9msR90GKmPz9QJ6RPw)
+* [Android知识点总结](https://www.processon.com/view/link/5db934d6e4b0ece75943365a#map)
 
 ### 异常处理
 * [app:mergeDubugResources FAILED](https://blog.csdn.net/runner__1/article/details/53482565)
@@ -73,6 +82,10 @@
 
 ### JAVA基础
 * [Synchronized 同步方法的八种使用场景](https://mp.weixin.qq.com/s/W7j8mfYhg-5VEujeKdTYtg)
+* [Java 中关于 try、catch、finally 中的细节分析](https://mp.weixin.qq.com/s/x2_EdSGAy_K4SeXvHRUduw)
+
+### 网络
+* [一步步带你读懂 Okhttp 源码](https://mp.weixin.qq.com/s/xtvBnD8RQqwx8hN7_z-fnQ)
 
 ### 其他
 * [应用保活终极总结及相关文章](http://www.52im.net/thread-1135-1-1.html)
@@ -80,6 +93,7 @@
 * [手把手教你搭建一个无框架埋点体系](https://mp.weixin.qq.com/s/QanYnjRN5TM_NlJtQzCALg)
 * [Android简单实用的MVP框架](https://mp.weixin.qq.com/s/YYxC9jNxsRBoI_LRBWO2dg)
 * [Android-Fragment总结](https://mp.weixin.qq.com/s/BJBad-V0c_sZwuusAiuhtw)
+* [从最简单的Android MVP讲起](https://mp.weixin.qq.com/s/jTjCoTBg2oUA0dC0oCEiKA)
 
 ___
 
