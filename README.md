@@ -2,6 +2,9 @@
 57's blog
 
 ## Android技术资料整理
+### 源码
+* [读Android源码利器](https://mp.weixin.qq.com/s/unkce-zGiEcuUD4mZzioIw)
+
 ### 开源库
 * [字节技术Scene：Android开源页面导航和组合导航](https://mp.weixin.qq.com/s/KKv8oj-ZspCIUTYwlCC2VQ)
 * [AabResGuard: AAB 资源混淆工具](https://mp.weixin.qq.com/s/4hBhaS_0uwHsJdwUHk1ZOQ)
@@ -10,6 +13,10 @@
 * [努比亚技术团队原创](https://mp.weixin.qq.com/s/_s0VWtjw9SQiivnQwJLS8w)
 * [抖音BoostMultiDex优化实践：Android低版本上APP首次启动时间减少80%（一）](https://mp.weixin.qq.com/s/jINCbTJ5qMaD6NdeGBHEwQ)
 * [抖音BoostMultiDex优化实践：Android低版本上APP首次启动时间减少80%（二）](https://mp.weixin.qq.com/s/ILDTykAwR0xIkW-d1YzRHw)
+* [深入理解Android-Activity的启动过程](https://mp.weixin.qq.com/s/y69x-laVOk6lVH3Ih2bAbQ)
+* [AMS系列之生命周期管理](https://mp.weixin.qq.com/s/VS5UPjl9N5SNqSlGqSzcjA)
+* [AMS源码分析(二)onActivityResult执行过程](https://mp.weixin.qq.com/s/CLwO9boz2PX8wmP7XgAxOg)
+* [AMS源码分析(三)AMS中Activity栈管理详解](https://mp.weixin.qq.com/s/f5y_uOic3mcbkAJyW2oeEA)
 
 ### 性能优化
 * [一波深入的Android 性能优化总结！](https://juejin.cn/post/6973564044351373326)
@@ -25,7 +32,11 @@
 * [今日头条 ANR 优化实践系列 - Barrier 导致主线程假死](https://mp.weixin.qq.com/s/OBYWrUBkWwV8o6ChSVaCvw)
 * [今日头条 ANR 优化实践系列 - 告别 SharedPreference 等待](https://mp.weixin.qq.com/s/kfF83UmsGM5w43rDCH544g)
 * [西瓜卡顿 & ANR 优化治理及监控体系建设](https://mp.weixin.qq.com/s/2sjG5qkrUNQsI0jEsnh4kQ)
+* [内存优化基础知识](https://mp.weixin.qq.com/s/EnBt4p2cmQ3ZSNpByrKcXg)
+* [Android性能优化之APK瘦身详解(瘦身73%)](https://mp.weixin.qq.com/s/AMW8O7gZQCTLU3qT6lZETQ)
 
+### 控件
+* [聊聊RecyclerView缓存机制](https://mp.weixin.qq.com/s/GKl9MuH8ZLw-vpfpah_m-g)
 
 ### 编译
 * [Android Gradle基础入门](https://www.jianshu.com/p/e26236943dd6)
@@ -34,12 +45,16 @@
 
 ### 数据结构
 * [漫画：什么是红黑树](https://mp.weixin.qq.com/s/WH3qGFDiEaWawq02iUPTfA)
+* [去你丫的算法](https://github.com/labuladong/fucking-algorithm)
 
 ### 插件化
 * [android插件化动态加载apk包](https://blog.csdn.net/u012898654/article/details/80341403)
 
-### 面试通用
+### 面试
 * [精选Android中高级面试](https://mp.weixin.qq.com/s?__biz=Mzg2MTYzNzM5OA==&mid=2247509944&idx=1&sn=462a03fdf43684d371f5b66d7ed1d2a9&source=41#wechat_redirect)
+* [一个老Android的面试总结](https://mp.weixin.qq.com/s/cBAPWRglcLYQ_Ep6C43kCw)
+* [Android面试经验-OPPO](https://mp.weixin.qq.com/s/V-0NychSIbx-dmtnSWBKkQ)
+* [Android面试之Java基础](https://mp.weixin.qq.com/s/P6eQDcB9_wlbPBpcKvSncA)
 
 ### 异常处理
 * [app:mergeDubugResources FAILED](https://blog.csdn.net/runner__1/article/details/53482565)
@@ -49,16 +64,22 @@
 * [manifest文件合并时出现no value for xxx is provided](https://blog.csdn.net/weixin_40750371/article/details/93630375)
 * [Context.startForegroundService() did not then call Service.startForeground？](https://blog.csdn.net/sinat_20059415/article/details/80584487)
 * [Crash白名单：Crash整治大杀器，一招终结ROM BUG与疑难杂症](https://juejin.cn/post/6844903940031512589)
+* [Android开发异常合集](https://mp.weixin.qq.com/s/GXEaVuO3FaNTg5-uEe5i7Q)
 
 ### 安全
 * [最全Android安全检测漏洞解决方案](https://blog.csdn.net/weixin_40798907/article/details/114579028)
 * [Android常见安全风险及规避措施](https://www.jianshu.com/p/774b401e904e)
 * [“后门”寻找之旅：表里不一的Android权限认证机制](https://mp.weixin.qq.com/s/jhMeVRYE7w060fjuBYYErg)
 
+### JAVA基础
+* [Synchronized 同步方法的八种使用场景](https://mp.weixin.qq.com/s/W7j8mfYhg-5VEujeKdTYtg)
+
 ### 其他
 * [应用保活终极总结及相关文章](http://www.52im.net/thread-1135-1-1.html)
 * [Notification Material Design](https://material.io/design/platform-guidance/android-notifications.html#usage)
 * [手把手教你搭建一个无框架埋点体系](https://mp.weixin.qq.com/s/QanYnjRN5TM_NlJtQzCALg)
+* [Android简单实用的MVP框架](https://mp.weixin.qq.com/s/YYxC9jNxsRBoI_LRBWO2dg)
+* [Android-Fragment总结](https://mp.weixin.qq.com/s/BJBad-V0c_sZwuusAiuhtw)
 
 ___
 
@@ -96,3 +117,4 @@ ___
 ### sth interest
 * [万能的工具箱](http://www.atoolbox.net/)
 * [早知道这些API，我就可以不用到处爬数据了](https://cloud.tencent.com/developer/article/1628034?from=information.detail.%E6%96%B0%E9%97%BBapi)
+* [程序需求](https://mp.weixin.qq.com/s/_stAmcod1ua9q6VUaJh7Ww)
