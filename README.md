@@ -21,6 +21,7 @@
 * [全网最详细的Activity启动流程（Android10）](https://mp.weixin.qq.com/s/TO1mca24d7xTAnk0qOfq0g)
 * [老板说：App启动必须加速35%！](https://mp.weixin.qq.com/s/GZl6L1zDWlf-oW41ps6USA)
 
+
 ### 性能优化
 * [一波深入的Android 性能优化总结！](https://juejin.cn/post/6973564044351373326)
 * [Android-面试官：性能优化我就问这些问题](https://mp.weixin.qq.com/s/W0Gjke9l_j2xnAA64eSlOg)
@@ -71,6 +72,22 @@
 * [Android面试必备：System、App、Activity启动过程](https://mp.weixin.qq.com/s/U2je9msR90GKmPz9QJ6RPw)
 * [Android知识点总结](https://www.processon.com/view/link/5db934d6e4b0ece75943365a#map)
 
+### Android面试官专题
+* [startActivity都不知道还敢来面试](https://mp.weixin.qq.com/s/zfnwXyVU5DxH-cjOalQy-Q)
+* [看你简历上写熟悉 AIDL，说一说 oneway 吧](https://mp.weixin.qq.com/s/wD3Io-ikS1VCljNkxEb6tQ)
+* [你真的懂 Context 吗？](https://mp.weixin.qq.com/s/pYU3aNrXd3cBFjby-u-0JQ)
+* [你了解 Android 系统启动流程吗？](https://mp.weixin.qq.com/s/G0TMCvOOC57_2GiheesKYQ)
+* [Wake up，你有一条新的消息等待查收](https://mp.weixin.qq.com/s/kA0-42fiL_oHQXruA8pfPw)
+* [跨进程传递大图，你能想到哪些方案呢？](https://mp.weixin.qq.com/s/7-wF7yhsF3LSTI7PpRl_RQ)
+* [按下 Home 键后发生了什么事？](https://mp.weixin.qq.com/s/VF8h83vpD6dNfAXz8njMug)
+* [说说你对 binder 驱动的了解？](https://mp.weixin.qq.com/s/LH_JR5Rwh1JL4B6qQkEv9Q)
+* [5 道刁钻的 Activity 生命周期面试题](https://mp.weixin.qq.com/s/2O2dGQQpC_bKyaZl0d5knQ)
+* [最新 Android 面试点梳理，我收藏了你呢？](https://mp.weixin.qq.com/s/bCQCy8vkHs6NpOElQqlGIA)
+* [ServiceManager 的工作原理](https://mp.weixin.qq.com/s/1d_LHbzfp4l8qQEu7tfKZg)
+* [设计模式概览：六大设计原则](https://mp.weixin.qq.com/s/NWJKeGAJSxwNS9-wClHA-w)
+* [使用 Android Studio Profiler 工具解析应用的内存和 CPU 使用数据](https://mp.weixin.qq.com/s/UNhj37vvu-Ake7hIAB6VSw)
+* [LeakCanary 一只优雅的金丝雀](https://mp.weixin.qq.com/s/HuTycJ8QOgyYMA6GRJCOQA)
+
 ### 异常处理
 * [app:mergeDubugResources FAILED](https://blog.csdn.net/runner__1/article/details/53482565)
 * [处理manifest merge failed错误](https://www.mls-tech.info/app/android/android-manifest-merger-failed/)
@@ -96,6 +113,7 @@
 
 ### 进程
 * [3分钟图解 Android 进程间通讯](https://mp.weixin.qq.com/s/n7zNMZRrHt6mTrKaNBlcQA)
+
 
 ### 其他
 * [应用保活终极总结及相关文章](http://www.52im.net/thread-1135-1-1.html)
