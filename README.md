@@ -81,12 +81,24 @@
 * [跨进程传递大图，你能想到哪些方案呢？](https://mp.weixin.qq.com/s/7-wF7yhsF3LSTI7PpRl_RQ)
 * [按下 Home 键后发生了什么事？](https://mp.weixin.qq.com/s/VF8h83vpD6dNfAXz8njMug)
 * [说说你对 binder 驱动的了解？](https://mp.weixin.qq.com/s/LH_JR5Rwh1JL4B6qQkEv9Q)
+* [掌握 binder 机制？先搞懂这几个关键类！](https://mp.weixin.qq.com/s/gHtZ9pjMJ-jXA12rvXA4cg)
 * [5 道刁钻的 Activity 生命周期面试题](https://mp.weixin.qq.com/s/2O2dGQQpC_bKyaZl0d5knQ)
 * [最新 Android 面试点梳理，我收藏了你呢？](https://mp.weixin.qq.com/s/bCQCy8vkHs6NpOElQqlGIA)
 * [ServiceManager 的工作原理](https://mp.weixin.qq.com/s/1d_LHbzfp4l8qQEu7tfKZg)
 * [设计模式概览：六大设计原则](https://mp.weixin.qq.com/s/NWJKeGAJSxwNS9-wClHA-w)
 * [使用 Android Studio Profiler 工具解析应用的内存和 CPU 使用数据](https://mp.weixin.qq.com/s/UNhj37vvu-Ake7hIAB6VSw)
 * [LeakCanary 一只优雅的金丝雀](https://mp.weixin.qq.com/s/HuTycJ8QOgyYMA6GRJCOQA)
+* [聊聊 Android 编译流程](https://mp.weixin.qq.com/s/Fz-EFbpg8an0KTw77K_zNw)
+* [Service 详解](https://mp.weixin.qq.com/s/pz4aKPueCTLKKWNqBo0Hfg)
+* [掌握 binder 机制？别想绕开 binder 驱动源码分析！](https://mp.weixin.qq.com/s/IbIhw71iiK6eFihgTYB6gw)
+* [掌握 binder 机制？驱动核心源码详解](https://mp.weixin.qq.com/s/GRkrbJ5LrRwmJxuidGB3rQ)
+* [说一说 APK 的安装流程](https://mp.weixin.qq.com/s/AfXMjnKy0nkOoBWnDV-AqA)
+* [介绍一下 Android Handler 中的 epoll 机制？](https://mp.weixin.qq.com/s/ClTE15s9qUaNsInIIwX57w)
+* [Android 底层的进程间同步机制](https://mp.weixin.qq.com/s/gH82RMdeTsIR2Lmpfjbj9Q)
+* [Zygote 的启动流程](https://mp.weixin.qq.com/s/GYLLcrhS-5cWdkkqiy-Yeg)(https://mp.weixin.qq.com/s/t2I0aFoxPEdaq69kJstkEw)
+* [高频必背 算法题模版](https://mp.weixin.qq.com/s/ichEey0dScd710wSRFRmQA)
+* [面试经验小结](https://mp.weixin.qq.com/s/SdmV1-bBHHYCyCUYGwot1w)
+* [2021年最新Android中高进阶面试圣经](https://mp.weixin.qq.com/s/hRyVMQjd2g6K5IdHYqWYmg)
 
 ### 异常处理
 * [app:mergeDubugResources FAILED](https://blog.csdn.net/runner__1/article/details/53482565)
@@ -97,6 +109,7 @@
 * [Context.startForegroundService() did not then call Service.startForeground？](https://blog.csdn.net/sinat_20059415/article/details/80584487)
 * [Crash白名单：Crash整治大杀器，一招终结ROM BUG与疑难杂症](https://juejin.cn/post/6844903940031512589)
 * [Android开发异常合集](https://mp.weixin.qq.com/s/GXEaVuO3FaNTg5-uEe5i7Q)
+* [AMS在Android起到什么作用？简单分析下Android的源码](https://mp.weixin.qq.com/s/t6BIAv-ZJZJoaojbYzP6Uw)
 
 ### 安全
 * [最全Android安全检测漏洞解决方案](https://blog.csdn.net/weixin_40798907/article/details/114579028)
