@@ -13,6 +13,7 @@
 * [快手开源KOOM浅析，一个高性能线上内存监控方案](https://mp.weixin.qq.com/s/7zIWTmtFOmnyQT80Q9w2dg)
 * [Glide加载Gif的卡顿优化思路分析!](https://mp.weixin.qq.com/s/9kchtOtmBbTx5BUoybESZg)
 * [Glide 做了哪些优化?](https://mp.weixin.qq.com/s/HVaglghWOSxXoNEcAd3uRQ)
+* [简历上最好不要写Glide，不是问源码那么简单](https://mp.weixin.qq.com/s/nqw5lHVKT8MLztAZtmSWow)
 
 ### 启动流程
 * [努比亚技术团队原创](https://mp.weixin.qq.com/s/_s0VWtjw9SQiivnQwJLS8w)
@@ -32,6 +33,12 @@
 * [Android性能优化--启动优化](https://mp.weixin.qq.com/s/mO94t7sIynKllC1lBll5QQ)
 * [Android 启动优化总结！](https://mp.weixin.qq.com/s/W7ei92GRVOyfFdUCR2fnqQ)
 * [Activity的启动过程详解（基于10.0源码）](https://mp.weixin.qq.com/s/e9zFJG6eG5n62_d6TAj7aw)
+* [startActivity都不知道还敢来面试](https://mp.weixin.qq.com/s/zfnwXyVU5DxH-cjOalQy-Q)
+* [你了解 Android 系统启动流程吗？](https://mp.weixin.qq.com/s/G0TMCvOOC57_2GiheesKYQ)
+* [ServiceManager 的工作原理](https://mp.weixin.qq.com/s/1d_LHbzfp4l8qQEu7tfKZg)
+* [说一说 APK 的安装流程](https://mp.weixin.qq.com/s/AfXMjnKy0nkOoBWnDV-AqA)
+* [Zygote 的启动流程](https://mp.weixin.qq.com/s/GYLLcrhS-5cWdkkqiy-Yeg)(https://mp.weixin.qq.com/s/t2I0aFoxPEdaq69kJstkEw)
+
 
 
 ### ANR
@@ -78,6 +85,12 @@
 * [解锁 Android 性能优化五大误区和两大疑点！](https://mp.weixin.qq.com/s/_hmnLAiozusws2BE2gtESA)
 * [App极限瘦身姿势: png 打包自动化转换 webp](https://mp.weixin.qq.com/s/aWzeNAqn6e-HtcFxjxLOYA)
 * [卡顿、ANR、死锁，线上如何监控？](https://mp.weixin.qq.com/s/RpvzEyWpnRAszm7ER9fwtA)
+* [使用 Android Studio Profiler 工具解析应用的内存和 CPU 使用数据](https://mp.weixin.qq.com/s/UNhj37vvu-Ake7hIAB6VSw)
+* [LeakCanary 一只优雅的金丝雀](https://mp.weixin.qq.com/s/HuTycJ8QOgyYMA6GRJCOQA)
+
+
+
+
 
 
 ### View
@@ -98,6 +111,7 @@
 * [Gradle工作原理全面了解](https://mp.weixin.qq.com/s/Y5O6W03iJU8e3d3kNDgVqw)
 * [深入探索编译插桩技术（四、ASM 探秘）](https://mp.weixin.qq.com/s/p0RHIG3i3FWSKlJdtOG9Pw)
 * [Android v1、v2、v3签名详解](https://mp.weixin.qq.com/s/VHkF779ffwa8_DQMs9yzPw)
+* [聊聊 Android 编译流程](https://mp.weixin.qq.com/s/Fz-EFbpg8an0KTw77K_zNw)
 
 ### 数据结构
 * [漫画：什么是红黑树](https://mp.weixin.qq.com/s/WH3qGFDiEaWawq02iUPTfA)
@@ -117,48 +131,24 @@
 * [Android-Flutter面经](https://mp.weixin.qq.com/s/zKSSrefSqNT94YslYa8WFg)
 * [Android面试必备：System、App、Activity启动过程](https://mp.weixin.qq.com/s/U2je9msR90GKmPz9QJ6RPw)
 * [Android知识点总结](https://www.processon.com/view/link/5db934d6e4b0ece75943365a#map)
-* [简历上最好不要写Glide，不是问源码那么简单](https://mp.weixin.qq.com/s/nqw5lHVKT8MLztAZtmSWow)
 * [2020 Android 大厂面试（五）插件化、模块化、组件化、热修复、增量更新、Gradle](https://mp.weixin.qq.com/s/ZU90ViHq-wJLCeThbkeNnQ)
 * [腾讯面经](https://mp.weixin.qq.com/s/kG8MPr-Biv2sSJfcvtChTg)
 * [被面试官问的Android基础题难倒了？这里有31道面试题 ，牢固你的基础！](https://mp.weixin.qq.com/s/zyhjuTSqBiqDYNjdX8SHeg)
 * [985/211硕士(妹纸)面试几个大厂的经历](https://mp.weixin.qq.com/s/pu-URin2ef2e8DyICZi7iQ)
 * [阿里，字节，快手，滴滴等面试题汇总](https://mp.weixin.qq.com/s/8PIVSmCWtMqwgYKuGSpi-Q)
-* [说说消息队列常用的几种场景？](https://mp.weixin.qq.com/s/jJHS3L4-TsRKV1jB1OnFjA)
 * [Java 集合高频要点问题，你能答上来吗？](https://mp.weixin.qq.com/s/1rpnuyqbxiKCYLyvjq-Wvg)
 * [面试官: 说一下你做过哪些性能优化?](https://mp.weixin.qq.com/s/zaNPfl1e8szq_wYd3OLR8g)
 * [Handler 的初级、中级、高级问法，你都掌握了吗？](https://mp.weixin.qq.com/s/UvDHR-DqeOjT-CG74kfw7A)
 * [攒了一个月的Android面试题思考与解答！我收藏了，你呢～](https://mp.weixin.qq.com/s/4Z6gqZpbmt9aG9R-ARlVhg)
 * [Java面经，一个半月拿到阿里字节拼多多美团offer总结](https://mp.weixin.qq.com/s/Fh84lKSscjxMQvfIR5YnGQ)
 * [Android社招面经分享！](https://mp.weixin.qq.com/s/kz0vM4Hbplkf4M9898GyOg)
-
-
-### Android面试官专题
-* [startActivity都不知道还敢来面试](https://mp.weixin.qq.com/s/zfnwXyVU5DxH-cjOalQy-Q)
-* [看你简历上写熟悉 AIDL，说一说 oneway 吧](https://mp.weixin.qq.com/s/wD3Io-ikS1VCljNkxEb6tQ)
-* [你真的懂 Context 吗？](https://mp.weixin.qq.com/s/pYU3aNrXd3cBFjby-u-0JQ)
-* [你了解 Android 系统启动流程吗？](https://mp.weixin.qq.com/s/G0TMCvOOC57_2GiheesKYQ)
-* [Wake up，你有一条新的消息等待查收](https://mp.weixin.qq.com/s/kA0-42fiL_oHQXruA8pfPw)
-* [跨进程传递大图，你能想到哪些方案呢？](https://mp.weixin.qq.com/s/7-wF7yhsF3LSTI7PpRl_RQ)
-* [按下 Home 键后发生了什么事？](https://mp.weixin.qq.com/s/VF8h83vpD6dNfAXz8njMug)
-* [说说你对 binder 驱动的了解？](https://mp.weixin.qq.com/s/LH_JR5Rwh1JL4B6qQkEv9Q)
-* [掌握 binder 机制？先搞懂这几个关键类！](https://mp.weixin.qq.com/s/gHtZ9pjMJ-jXA12rvXA4cg)
 * [5 道刁钻的 Activity 生命周期面试题](https://mp.weixin.qq.com/s/2O2dGQQpC_bKyaZl0d5knQ)
 * [最新 Android 面试点梳理，我收藏了你呢？](https://mp.weixin.qq.com/s/bCQCy8vkHs6NpOElQqlGIA)
-* [ServiceManager 的工作原理](https://mp.weixin.qq.com/s/1d_LHbzfp4l8qQEu7tfKZg)
-* [设计模式概览：六大设计原则](https://mp.weixin.qq.com/s/NWJKeGAJSxwNS9-wClHA-w)
-* [使用 Android Studio Profiler 工具解析应用的内存和 CPU 使用数据](https://mp.weixin.qq.com/s/UNhj37vvu-Ake7hIAB6VSw)
-* [LeakCanary 一只优雅的金丝雀](https://mp.weixin.qq.com/s/HuTycJ8QOgyYMA6GRJCOQA)
-* [聊聊 Android 编译流程](https://mp.weixin.qq.com/s/Fz-EFbpg8an0KTw77K_zNw)
-* [Service 详解](https://mp.weixin.qq.com/s/pz4aKPueCTLKKWNqBo0Hfg)
-* [掌握 binder 机制？别想绕开 binder 驱动源码分析！](https://mp.weixin.qq.com/s/IbIhw71iiK6eFihgTYB6gw)
-* [掌握 binder 机制？驱动核心源码详解](https://mp.weixin.qq.com/s/GRkrbJ5LrRwmJxuidGB3rQ)
-* [说一说 APK 的安装流程](https://mp.weixin.qq.com/s/AfXMjnKy0nkOoBWnDV-AqA)
-* [介绍一下 Android Handler 中的 epoll 机制？](https://mp.weixin.qq.com/s/ClTE15s9qUaNsInIIwX57w)
-* [Android 底层的进程间同步机制](https://mp.weixin.qq.com/s/gH82RMdeTsIR2Lmpfjbj9Q)
-* [Zygote 的启动流程](https://mp.weixin.qq.com/s/GYLLcrhS-5cWdkkqiy-Yeg)(https://mp.weixin.qq.com/s/t2I0aFoxPEdaq69kJstkEw)
 * [高频必背 算法题模版](https://mp.weixin.qq.com/s/ichEey0dScd710wSRFRmQA)
 * [面试经验小结](https://mp.weixin.qq.com/s/SdmV1-bBHHYCyCUYGwot1w)
 * [2021年最新Android中高进阶面试圣经](https://mp.weixin.qq.com/s/hRyVMQjd2g6K5IdHYqWYmg)
+
+
 
 ### 异常处理
 * [app:mergeDubugResources FAILED](https://blog.csdn.net/runner__1/article/details/53482565)
@@ -211,6 +201,16 @@
 * [突然就懵了！面试官问我：线程池中多余的线程是如何回收的？](https://mp.weixin.qq.com/s/HpabOOoiQOovZFsvp0I-bQ)
 * [图文介绍进程和线程的区别](https://mp.weixin.qq.com/s/Oeje-pdClLDTwfCW51yI4g)
 * [线程池是如何重复利用空闲的线程来执行任务的？](https://mp.weixin.qq.com/s/IgLxel2qg5t8OWUUGHhAcQ)
+* [看你简历上写熟悉 AIDL，说一说 oneway 吧](https://mp.weixin.qq.com/s/wD3Io-ikS1VCljNkxEb6tQ)
+* [跨进程传递大图，你能想到哪些方案呢？](https://mp.weixin.qq.com/s/7-wF7yhsF3LSTI7PpRl_RQ)
+* [说说你对 binder 驱动的了解？](https://mp.weixin.qq.com/s/LH_JR5Rwh1JL4B6qQkEv9Q)
+* [掌握 binder 机制？先搞懂这几个关键类！](https://mp.weixin.qq.com/s/gHtZ9pjMJ-jXA12rvXA4cg)
+* [Service 详解](https://mp.weixin.qq.com/s/pz4aKPueCTLKKWNqBo0Hfg)
+* [掌握 binder 机制？别想绕开 binder 驱动源码分析！](https://mp.weixin.qq.com/s/IbIhw71iiK6eFihgTYB6gw)
+* [掌握 binder 机制？驱动核心源码详解](https://mp.weixin.qq.com/s/GRkrbJ5LrRwmJxuidGB3rQ)
+* [介绍一下 Android Handler 中的 epoll 机制？](https://mp.weixin.qq.com/s/ClTE15s9qUaNsInIIwX57w)
+* [Android 底层的进程间同步机制](https://mp.weixin.qq.com/s/gH82RMdeTsIR2Lmpfjbj9Q)
+
 
 ### 其他
 * [应用保活终极总结及相关文章](http://www.52im.net/thread-1135-1-1.html)
@@ -231,6 +231,12 @@
 * [灵魂拷问：开发人员为什么要学会画技术架构图？](https://mp.weixin.qq.com/s/Bv-LgHn3TbVF1cI0WJZa5w)
 * [Android DEPPLINK、APPLink 原理简析](https://mp.weixin.qq.com/s/ZoWIzNM76bCOxyx84faJbg)
 * [能否让APP永不崩溃—小光和我的对决](https://mp.weixin.qq.com/s/prc7H5I8LnHwLr_tRfBYvg)
+* [说说消息队列常用的几种场景？](https://mp.weixin.qq.com/s/jJHS3L4-TsRKV1jB1OnFjA)
+* [你真的懂 Context 吗？](https://mp.weixin.qq.com/s/pYU3aNrXd3cBFjby-u-0JQ)
+* [Wake up，你有一条新的消息等待查收](https://mp.weixin.qq.com/s/kA0-42fiL_oHQXruA8pfPw)
+* [按下 Home 键后发生了什么事？](https://mp.weixin.qq.com/s/VF8h83vpD6dNfAXz8njMug)
+* [设计模式概览：六大设计原则](https://mp.weixin.qq.com/s/NWJKeGAJSxwNS9-wClHA-w)
+
 
 
 ___
