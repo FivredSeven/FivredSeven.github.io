@@ -10,6 +10,7 @@
 * [字节技术Scene：Android开源页面导航和组合导航](https://mp.weixin.qq.com/s/KKv8oj-ZspCIUTYwlCC2VQ)
 * [AabResGuard: AAB 资源混淆工具](https://mp.weixin.qq.com/s/4hBhaS_0uwHsJdwUHk1ZOQ)
 * [EventBus源码详细分析-手写EventBus核心代码](https://mp.weixin.qq.com/s/qcy4yAJwAuTfU_11ZpDulA)
+* [快手开源KOOM浅析，一个高性能线上内存监控方案](https://mp.weixin.qq.com/s/7zIWTmtFOmnyQT80Q9w2dg)
 
 ### 启动流程
 * [努比亚技术团队原创](https://mp.weixin.qq.com/s/_s0VWtjw9SQiivnQwJLS8w)
@@ -24,6 +25,8 @@
 * [老板说：App启动必须加速35%！](https://mp.weixin.qq.com/s/GZl6L1zDWlf-oW41ps6USA)
 * [今日头条启动很快，你觉得可能是做了哪些优化？](https://mp.weixin.qq.com/s/fyTQ7I8zuy71gFVuGzdUfA)
 * [深入探索Android启动速度优化](https://mp.weixin.qq.com/s/lwuA4gzN4wIaiky8evk-zw)
+* [精讲任务栈和Activity启动模式](https://mp.weixin.qq.com/s/rik5z4fUgtzKQfibHx8ZyA)
+* [Android应用启动全流程分析（源码深度剖析）](https://mp.weixin.qq.com/s/kGPnSSTvbqzHnHPp591JRg)
 
 
 ### ANR
@@ -60,6 +63,9 @@
 * [深入探索Android卡顿优化](https://mp.weixin.qq.com/s/m1HVKcWE0NSbDuJBjItODw)
 * [这些Android内存管理知识你都知道吗](https://mp.weixin.qq.com/s/1OBCIe1t3md5NmBohi0uvw)
 * [Java性能优化的50个细节（珍藏版）](https://mp.weixin.qq.com/s/eadxzzmYysWcA25yjFoWuw)
+* [分享一波 Android 性能优化的总结！](https://mp.weixin.qq.com/s/7Tt1pw5nGLT1rX4ms4dkmQ)
+* [分享一波深入的Android 性能优化总结！](https://mp.weixin.qq.com/s/RrbRw61RsGP418MgCkpktw)
+* [深入理解内存泄漏](https://mp.weixin.qq.com/s/LNrPuAwsnLyiYq4yqn_R2w)
 
 
 ### View
@@ -99,6 +105,7 @@
 * [腾讯面经](https://mp.weixin.qq.com/s/kG8MPr-Biv2sSJfcvtChTg)
 * [被面试官问的Android基础题难倒了？这里有31道面试题 ，牢固你的基础！](https://mp.weixin.qq.com/s/zyhjuTSqBiqDYNjdX8SHeg)
 * [985/211硕士(妹纸)面试几个大厂的经历](https://mp.weixin.qq.com/s/pu-URin2ef2e8DyICZi7iQ)
+* [阿里，字节，快手，滴滴等面试题汇总](https://mp.weixin.qq.com/s/8PIVSmCWtMqwgYKuGSpi-Q)
 
 ### Android面试官专题
 * [startActivity都不知道还敢来面试](https://mp.weixin.qq.com/s/zfnwXyVU5DxH-cjOalQy-Q)
