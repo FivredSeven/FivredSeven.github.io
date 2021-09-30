@@ -11,6 +11,8 @@
 * [AabResGuard: AAB 资源混淆工具](https://mp.weixin.qq.com/s/4hBhaS_0uwHsJdwUHk1ZOQ)
 * [EventBus源码详细分析-手写EventBus核心代码](https://mp.weixin.qq.com/s/qcy4yAJwAuTfU_11ZpDulA)
 * [快手开源KOOM浅析，一个高性能线上内存监控方案](https://mp.weixin.qq.com/s/7zIWTmtFOmnyQT80Q9w2dg)
+* [Glide加载Gif的卡顿优化思路分析!](https://mp.weixin.qq.com/s/9kchtOtmBbTx5BUoybESZg)
+* [Glide 做了哪些优化?](https://mp.weixin.qq.com/s/HVaglghWOSxXoNEcAd3uRQ)
 
 ### 启动流程
 * [努比亚技术团队原创](https://mp.weixin.qq.com/s/_s0VWtjw9SQiivnQwJLS8w)
@@ -27,6 +29,9 @@
 * [深入探索Android启动速度优化](https://mp.weixin.qq.com/s/lwuA4gzN4wIaiky8evk-zw)
 * [精讲任务栈和Activity启动模式](https://mp.weixin.qq.com/s/rik5z4fUgtzKQfibHx8ZyA)
 * [Android应用启动全流程分析（源码深度剖析）](https://mp.weixin.qq.com/s/kGPnSSTvbqzHnHPp591JRg)
+* [Android性能优化--启动优化](https://mp.weixin.qq.com/s/mO94t7sIynKllC1lBll5QQ)
+* [Android 启动优化总结！](https://mp.weixin.qq.com/s/W7ei92GRVOyfFdUCR2fnqQ)
+* [Activity的启动过程详解（基于10.0源码）](https://mp.weixin.qq.com/s/e9zFJG6eG5n62_d6TAj7aw)
 
 
 ### ANR
@@ -66,6 +71,13 @@
 * [分享一波 Android 性能优化的总结！](https://mp.weixin.qq.com/s/7Tt1pw5nGLT1rX4ms4dkmQ)
 * [分享一波深入的Android 性能优化总结！](https://mp.weixin.qq.com/s/RrbRw61RsGP418MgCkpktw)
 * [深入理解内存泄漏](https://mp.weixin.qq.com/s/LNrPuAwsnLyiYq4yqn_R2w)
+* [最全的Android内存优化技巧](https://mp.weixin.qq.com/s/-zGbJ_EmGawzVVYWg8S9Mw)
+* [Android性能优化--内存优化](https://mp.weixin.qq.com/s/HE055sdJ7cuz1Yanf---1w)
+* [优化ApK大小之ABI Filters 和 APK split](https://mp.weixin.qq.com/s/ysgON4VPNAE4uYsO_79i2g)
+* [一线大厂资深APP性能优化系列-卡顿定位](https://mp.weixin.qq.com/s/aUxzbWC-gcaDMS0hKd9ohg)
+* [解锁 Android 性能优化五大误区和两大疑点！](https://mp.weixin.qq.com/s/_hmnLAiozusws2BE2gtESA)
+* [App极限瘦身姿势: png 打包自动化转换 webp](https://mp.weixin.qq.com/s/aWzeNAqn6e-HtcFxjxLOYA)
+* [卡顿、ANR、死锁，线上如何监控？](https://mp.weixin.qq.com/s/RpvzEyWpnRAszm7ER9fwtA)
 
 
 ### View
@@ -75,6 +87,9 @@
 * [反思|Android 事件分发机制的设计与实现](https://mp.weixin.qq.com/s/9rycOCr5GyfiQwJy0YSUUw)
 * [打破认知！Scroller你真的了解吗？](https://mp.weixin.qq.com/s/57fFhjrSUMUqMB1dIkCpAA)
 * [Android子线程也能修改UI？](https://mp.weixin.qq.com/s/R0B60xeQwIX7XE28GjCHfw)
+* [RecyclerView双列表联动](https://mp.weixin.qq.com/s/RXzL8XQKVmq6FUJnsSOPhw)
+* [说说Android的UI刷新机制](https://mp.weixin.qq.com/s/IIh2g1i6Y4rZeCTY-t6_8w)
+* [Android事件分发机制：事件是如何到达activity的？](https://mp.weixin.qq.com/s/cDuSEUAXjZ5vXBdeqjLlyQ)
 
 ### 编译
 * [Android Gradle基础入门](https://www.jianshu.com/p/e26236943dd6)
@@ -82,12 +97,14 @@
 * [今日头条 Android '秒' 级编译速度优化](https://mp.weixin.qq.com/s/e1L6gB_s5H38unSfhf4c6A)
 * [Gradle工作原理全面了解](https://mp.weixin.qq.com/s/Y5O6W03iJU8e3d3kNDgVqw)
 * [深入探索编译插桩技术（四、ASM 探秘）](https://mp.weixin.qq.com/s/p0RHIG3i3FWSKlJdtOG9Pw)
+* [Android v1、v2、v3签名详解](https://mp.weixin.qq.com/s/VHkF779ffwa8_DQMs9yzPw)
 
 ### 数据结构
 * [漫画：什么是红黑树](https://mp.weixin.qq.com/s/WH3qGFDiEaWawq02iUPTfA)
 * [去你丫的算法](https://github.com/labuladong/fucking-algorithm)
 
-### 插件化
+### 组件化 插件化
+* [Android 组件化/模块化 的理解！] (https://mp.weixin.qq.com/s/GEwxrQA8mMVRFccr5GI4iA)
 * [android插件化动态加载apk包](https://blog.csdn.net/u012898654/article/details/80341403)
 * [插件化框架Virtual APK实现原理解析](https://mp.weixin.qq.com/s/0wk8J8BonD7OwSfUB-Xu1A)
 * [从零开始实现一个插件化框架](https://mp.weixin.qq.com/s/8IP1D_BP39PMSE2PIChFDg)
@@ -106,6 +123,14 @@
 * [被面试官问的Android基础题难倒了？这里有31道面试题 ，牢固你的基础！](https://mp.weixin.qq.com/s/zyhjuTSqBiqDYNjdX8SHeg)
 * [985/211硕士(妹纸)面试几个大厂的经历](https://mp.weixin.qq.com/s/pu-URin2ef2e8DyICZi7iQ)
 * [阿里，字节，快手，滴滴等面试题汇总](https://mp.weixin.qq.com/s/8PIVSmCWtMqwgYKuGSpi-Q)
+* [说说消息队列常用的几种场景？](https://mp.weixin.qq.com/s/jJHS3L4-TsRKV1jB1OnFjA)
+* [Java 集合高频要点问题，你能答上来吗？](https://mp.weixin.qq.com/s/1rpnuyqbxiKCYLyvjq-Wvg)
+* [面试官: 说一下你做过哪些性能优化?](https://mp.weixin.qq.com/s/zaNPfl1e8szq_wYd3OLR8g)
+* [Handler 的初级、中级、高级问法，你都掌握了吗？](https://mp.weixin.qq.com/s/UvDHR-DqeOjT-CG74kfw7A)
+* [攒了一个月的Android面试题思考与解答！我收藏了，你呢～](https://mp.weixin.qq.com/s/4Z6gqZpbmt9aG9R-ARlVhg)
+* [Java面经，一个半月拿到阿里字节拼多多美团offer总结](https://mp.weixin.qq.com/s/Fh84lKSscjxMQvfIR5YnGQ)
+* [Android社招面经分享！](https://mp.weixin.qq.com/s/kz0vM4Hbplkf4M9898GyOg)
+
 
 ### Android面试官专题
 * [startActivity都不知道还敢来面试](https://mp.weixin.qq.com/s/zfnwXyVU5DxH-cjOalQy-Q)
@@ -160,6 +185,12 @@
 * [深度解析volatile关键字，就是这么简单](https://mp.weixin.qq.com/s/TGvCraoQbokInUPIHbnaRQ)
 * [Java 高级：反射知识总结](https://mp.weixin.qq.com/s/bAzdmPfKkb-So3kiTOzf2A)
 * [Java注解和注解解析器深耕，架构师必会](https://mp.weixin.qq.com/s/igndodBMoJwn843hIBFi8Q)
+* [面试官都喜欢问的HashMap！](https://mp.weixin.qq.com/s/KiVYsvxjEw5mXW84V4IzmQ)
+* [面试再问 HashMap，拿这篇给TA！](https://mp.weixin.qq.com/s/SG0gArsc1BdUnjzJ2578zg)
+* [图文并茂，HashMap经典详解！](https://mp.weixin.qq.com/s/88K8Ajuy6IYCuj6XR6AjmA)
+* [把HashMap剖析的只剩渣了！](https://mp.weixin.qq.com/s/DRb5nY_V5xCVA4HzUjuODw)
+* [最全面的44个Java 性能调优细节！](https://mp.weixin.qq.com/s/S8yxATeqwyS6uTtg0htLKg)
+* [面试被问Java序列化和反序列化为什么要实现Serializable接口](https://mp.weixin.qq.com/s/5JIh0DBcFimvFNRKBOCdWg)
 
 ### 网络
 * [一步步带你读懂 Okhttp 源码](https://mp.weixin.qq.com/s/xtvBnD8RQqwx8hN7_z-fnQ)
@@ -168,15 +199,23 @@
 * [深入探索 Android 网络优化（二、网络优化基础篇）上](https://mp.weixin.qq.com/s/j7yRqLgsCDRvPl1gccgBjg)
 
 ### 进程 线程
+* [写给 Android 应用工程师的 Binder 原理剖析！](https://mp.weixin.qq.com/s/Q6tqd5sPhTEaVTfNCuJO3Q)
 * [3分钟图解 Android 进程间通讯](https://mp.weixin.qq.com/s/n7zNMZRrHt6mTrKaNBlcQA)
 * [别再说你不懂线程池——做个优雅的攻城狮](https://mp.weixin.qq.com/s/nG-xg41zJVrNDExssYFe5Q)
 * [硬货：图解Android中的binder机制](https://mp.weixin.qq.com/s/xypQLAWme1vEgWJq85vvDA)
 * [一个Android程序至少包含几个线程？](https://mp.weixin.qq.com/s/SNnyFxARTTN1BeKevSxTfQ)
 * [Handler这些知识你不一定知道](https://mp.weixin.qq.com/s/loclPVowgbpXZsp_iOol3g)
+* [Java线程池使用与分析总结](https://mp.weixin.qq.com/s/uNYYXNrCjVB8Z_G06ldVBQ)
+* [Android一次完美的跨进程服务共享实践](https://mp.weixin.qq.com/s/IKVR78vIEOXZaVoXehR-9w)
+* [能说说HandlerThread的原理和使用场景吗？](https://mp.weixin.qq.com/s/1fTxUHHjSC_VW3KpAVJD_Q)
+* [突然就懵了！面试官问我：线程池中多余的线程是如何回收的？](https://mp.weixin.qq.com/s/HpabOOoiQOovZFsvp0I-bQ)
+* [图文介绍进程和线程的区别](https://mp.weixin.qq.com/s/Oeje-pdClLDTwfCW51yI4g)
+* [线程池是如何重复利用空闲的线程来执行任务的？](https://mp.weixin.qq.com/s/IgLxel2qg5t8OWUUGHhAcQ)
 
 ### 其他
 * [应用保活终极总结及相关文章](http://www.52im.net/thread-1135-1-1.html)
 * [史上最强Android保活思路：深入剖析腾讯TIM的进程永生技术](https://mp.weixin.qq.com/s/l5TDThpKNsAFVqW2qLvD4Q)
+* [优雅保活方案，原来Android还可以这样保活！](https://mp.weixin.qq.com/s/F7W66Y03BBTWOnsds1ZX3A)
 * [Notification Material Design](https://material.io/design/platform-guidance/android-notifications.html#usage)
 * [手把手教你搭建一个无框架埋点体系](https://mp.weixin.qq.com/s/QanYnjRN5TM_NlJtQzCALg)
 * [Android简单实用的MVP框架](https://mp.weixin.qq.com/s/YYxC9jNxsRBoI_LRBWO2dg)
@@ -186,6 +225,12 @@
 * [腾讯 Code Review ](https://mp.weixin.qq.com/s/wy0ST2FZiFbPmI9GB4404g)
 * [Android 代码规范文档](https://mp.weixin.qq.com/s/fVC9bX6caWm3nkBjn4XbWw)
 * [Android 软键盘的那些坑，原理篇来了！](https://mp.weixin.qq.com/s/vq0V1JWpyg6T5USCvGx_zA)
+* [Android 仿B站实现视频换脸](https://mp.weixin.qq.com/s/MUozOmeRai3twhyx2tZcfw)
+* [如何实现一个LruCache，原理是什么？](https://mp.weixin.qq.com/s/Wz_iCTpttAqXPkckx7LkBg)
+* [杀不掉的知乎 - 聊一聊 Android 的多任务](https://mp.weixin.qq.com/s/vK9FLTJ8mFM_XRumKUjnAA)
+* [灵魂拷问：开发人员为什么要学会画技术架构图？](https://mp.weixin.qq.com/s/Bv-LgHn3TbVF1cI0WJZa5w)
+* [Android DEPPLINK、APPLink 原理简析](https://mp.weixin.qq.com/s/ZoWIzNM76bCOxyx84faJbg)
+* [能否让APP永不崩溃—小光和我的对决](https://mp.weixin.qq.com/s/prc7H5I8LnHwLr_tRfBYvg)
 
 
 ___
