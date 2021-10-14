@@ -1,0 +1,5 @@
+1、图片
+* https://github.com/Omooo/Lavender   
+png|jpg图片转webp，亲测demo可用，同样支持aar内的资源转化，不过放到公司项目需要升级gradle和build tool，成本较高。
+* https://github.com/didi/booster    package size
+* https://github.com/smallSohoSolo/McImage  
