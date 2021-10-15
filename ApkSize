@@ -3,3 +3,4 @@
 png|jpg图片转webp，亲测demo可用，同样支持aar内的资源转化，不过放到公司项目需要升级gradle和build tool，成本较高。
 * https://github.com/didi/booster    package size
 * https://github.com/smallSohoSolo/McImage  
+同样需要升级gradle，也支持aar内资源，png转webp的时候存在png删不干净导致出现png和webp两个格式的相同文件名文件
