@@ -1,6 +1,28 @@
-1、图片
+1、图片压缩和转webp
+* https://tinypng.com/ 手动压缩
 * https://github.com/Omooo/Lavender   
 png|jpg图片转webp，亲测demo可用，同样支持aar内的资源转化，不过放到公司项目需要升级gradle和build tool，成本较高。
 * https://github.com/didi/booster    package size
 * https://github.com/smallSohoSolo/McImage  
 同样需要升级gradle，也支持aar内资源，png转webp的时候存在png删不干净导致出现png和webp两个格式的相同文件名文件
+
+2、多Dpi优化
+目前公司项目基本按照xxhdpi格式来使用图片，暂无此问题
+
+3、重复资源合并
+这个主要是针对同文件不同名字，多个业务使用，减包的程度有限
+
+4、shrinkResource 严格模式
+
+
+
+
+*********
+官方的减包方案
+https://developer.android.com/studio/build/shrink-code?hl=zh-cn
+1、缩减代码
+2、移除原生库
+3、缩减资源
+4、对代码进行混淆处理
+5、代码优化
+排查 R8 问题
