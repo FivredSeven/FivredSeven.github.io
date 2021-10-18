@@ -20,9 +20,9 @@ png|jpg图片转webp，亲测demo可用，同样支持aar内的资源转化，�
 *********
 官方的减包方案
 https://developer.android.com/studio/build/shrink-code?hl=zh-cn
-1、缩减代码
-2、移除原生库
-3、缩减资源
-4、对代码进行混淆处理
-5、代码优化
+1、缩减代码 minifyEnabled true  应用包含许多库依赖项，但只使用它们的一小部分功能时，可以去除不用的部分
+2、移除原生库 Android App Bundle
+3、缩减资源 shrinkResources true
+4、对代码进行混淆处理 mapping.txt
+5、代码优化 android.enableR8.fullMode=true
 排查 R8 问题
