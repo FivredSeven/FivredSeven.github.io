@@ -1,3 +1,14 @@
+借鉴以下文章
+* [抖音包大小优化-资源优化](https://mp.weixin.qq.com/s/xxrvRKXXDquJaezjrOlLwA)
+* [深入探索Android包瘦身（上）](https://mp.weixin.qq.com/s/4sA0gJGS3H1zD0eBYZB0Qw)
+* [深入探索Android包瘦身（中）](https://mp.weixin.qq.com/s/mUZqvj1mdJdbZQlap4hwRQ)
+* [深入探索Android包瘦身（下）](https://mp.weixin.qq.com/s/IVwhWv7p-Unt4aNxdVX-Ug)
+* [性能优化 (十二) APK 极限压缩(资源越多,效果越显著)](https://mp.weixin.qq.com/s/DxtvGXeKRr8FpedYS0ip2g)
+* [深入探索 Android 包体积优化（匠心制作一）](https://mp.weixin.qq.com/s/ncH-kfT38tSTGpGF_0Daiw)
+* [深入探索 Android 包体积优化（匠心制作二）](https://mp.weixin.qq.com/s/1mC8nsHzcX0KZ0gMAqMtkg)
+* [优化ApK大小之ABI Filters 和 APK split](https://mp.weixin.qq.com/s/ysgON4VPNAE4uYsO_79i2g)
+* [App极限瘦身姿势: png 打包自动化转换 webp](https://mp.weixin.qq.com/s/aWzeNAqn6e-HtcFxjxLOYA)
+
 1、图片压缩和转webp
 * https://tinypng.com/ 手动压缩
 * https://github.com/Omooo/Lavender   
@@ -17,11 +28,6 @@ png|jpg图片转webp，亲测demo可用，同样支持aar内的资源转化，�
 5、资源混淆(兼容 aab 模式) 
 
 6、ARSC 瘦身
-
-
-https://mp.weixin.qq.com/s/4sA0gJGS3H1zD0eBYZB0Qw
-https://mp.weixin.qq.com/s/mUZqvj1mdJdbZQlap4hwRQ
-https://mp.weixin.qq.com/s/IVwhWv7p-Unt4aNxdVX-Ug
 
 
 *********
