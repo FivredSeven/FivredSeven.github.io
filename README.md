@@ -87,6 +87,10 @@
 * [卡顿、ANR、死锁，线上如何监控？](https://mp.weixin.qq.com/s/RpvzEyWpnRAszm7ER9fwtA)
 * [使用 Android Studio Profiler 工具解析应用的内存和 CPU 使用数据](https://mp.weixin.qq.com/s/UNhj37vvu-Ake7hIAB6VSw)
 * [LeakCanary 一只优雅的金丝雀](https://mp.weixin.qq.com/s/HuTycJ8QOgyYMA6GRJCOQA)
+* [抖音Android包体积优化探索：从Class字节码入手精简DEX体积](https://mp.weixin.qq.com/s/npT9MW4TQWH--fKsC_3NCQ)
+* [Android包体积优化手段（常规、进阶、极致）！](https://mp.weixin.qq.com/s/0d3ByDf8VDufMYKwex4sTA)
+* [拯救OOM！字节自研 Android 虚拟机内存管理优化黑科技 mSponge](https://mp.weixin.qq.com/s/yN7y4CF9Pk99Ppo0POiHxw)
+* [将图片库优化到底！京东京喜App是如何做的？](https://mp.weixin.qq.com/s/QQZNjgYxuXLvl6U0DejiKA)
 
 
 
