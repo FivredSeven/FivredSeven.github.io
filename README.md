@@ -185,6 +185,7 @@
 * [把HashMap剖析的只剩渣了！](https://mp.weixin.qq.com/s/DRb5nY_V5xCVA4HzUjuODw)
 * [最全面的44个Java 性能调优细节！](https://mp.weixin.qq.com/s/S8yxATeqwyS6uTtg0htLKg)
 * [面试被问Java序列化和反序列化为什么要实现Serializable接口](https://mp.weixin.qq.com/s/5JIh0DBcFimvFNRKBOCdWg)
+* [聊一聊Java 泛型通配符 T，E，K，V，?](https://mp.weixin.qq.com/s/A-WieseX95nxGVxFQ38b-g)
 
 ### 网络
 * [一步步带你读懂 Okhttp 源码](https://mp.weixin.qq.com/s/xtvBnD8RQqwx8hN7_z-fnQ)
@@ -220,6 +221,7 @@
 * [应用保活终极总结及相关文章](http://www.52im.net/thread-1135-1-1.html)
 * [史上最强Android保活思路：深入剖析腾讯TIM的进程永生技术](https://mp.weixin.qq.com/s/l5TDThpKNsAFVqW2qLvD4Q)
 * [优雅保活方案，原来Android还可以这样保活！](https://mp.weixin.qq.com/s/F7W66Y03BBTWOnsds1ZX3A)
+* [Android最强保活黑科技的最强技术实现！](https://mp.weixin.qq.com/s/u825YuIqMWdQ-YHmzIP3bQ)
 * [Notification Material Design](https://material.io/design/platform-guidance/android-notifications.html#usage)
 * [手把手教你搭建一个无框架埋点体系](https://mp.weixin.qq.com/s/QanYnjRN5TM_NlJtQzCALg)
 * [Android简单实用的MVP框架](https://mp.weixin.qq.com/s/YYxC9jNxsRBoI_LRBWO2dg)
