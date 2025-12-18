@@ -101,7 +101,7 @@
 * [聊聊RecyclerView缓存机制](https://mp.weixin.qq.com/s/GKl9MuH8ZLw-vpfpah_m-g)
 * [ViewPager懒加载极致优化](https://mp.weixin.qq.com/s/EUVvTN3sHOcDyn6kmOgJmQ)
 * [View 事件分发机制，看这一篇就够了](https://mp.weixin.qq.com/s/GU7qwuuE2b4dLUws0n3kFQ)
-* [反思|Android 事件分发机制的设计与实现](https://mp.weixin.qq.com/s/9rycOCr5GyfiQwJy0YSUUw)
+* [反思 - Android 事件分发机制的设计与实现](https://mp.weixin.qq.com/s/9rycOCr5GyfiQwJy0YSUUw)
 * [打破认知！Scroller你真的了解吗？](https://mp.weixin.qq.com/s/57fFhjrSUMUqMB1dIkCpAA)
 * [Android子线程也能修改UI？](https://mp.weixin.qq.com/s/R0B60xeQwIX7XE28GjCHfw)
 * [RecyclerView双列表联动](https://mp.weixin.qq.com/s/RXzL8XQKVmq6FUJnsSOPhw)
